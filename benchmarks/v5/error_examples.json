@@ -1,0 +1,44 @@
+{
+  "selection": "First natural-test example in original query/candidate order for each of three descriptive categories; no human relabeling.",
+  "cases": {
+    "Jev drops an Exact GPT keeps": {
+      "query_id": "33814",
+      "query": "disney princess baby costume",
+      "product_id": "B07VMTCRQT",
+      "title": "MYRISAM Christmas Costumes for Baby Toddler Girls Snow White Princess Birthday Bodysuit Romper Tutu Dress w/Headband 3-6M",
+      "label": "E",
+      "jev_keep": false,
+      "gpt_keep": true,
+      "jev_core": 0.84,
+      "jev_constraint": "BRAND",
+      "gpt_constraint": "NONE",
+      "jev_accessory_probability": 0.06
+    },
+    "Both keep a non-Exact": {
+      "query_id": "20996",
+      "query": "c side table",
+      "product_id": "B07DNYRRHS",
+      "title": "IRIS USA SDT-L Metal Side, Wood Accent Sofa End Table Computer Desk Coffee Snack, Night Stand, C-shape Basic, Brown",
+      "label": "S",
+      "jev_keep": true,
+      "gpt_keep": true,
+      "jev_core": 0.97,
+      "jev_constraint": "NONE",
+      "gpt_constraint": "NONE",
+      "jev_accessory_probability": 0.03
+    },
+    "Jev rejects a non-Exact GPT keeps": {
+      "query_id": "78482",
+      "query": "pearson's comprehensive medical assisting (3rd edition)",
+      "product_id": "0134272552",
+      "title": "Pearson's Comprehensive Medical Assisting, MyLab Health Professions with Pearson eText & Access Card, Pearson Health Professional's Drug Guide 2015-2016 , Student Workbook (3rd Edition)",
+      "label": "S",
+      "jev_keep": false,
+      "gpt_keep": true,
+      "jev_core": 0.76,
+      "jev_constraint": "NONE",
+      "gpt_constraint": "NONE",
+      "jev_accessory_probability": 0.53
+    }
+  }
+}

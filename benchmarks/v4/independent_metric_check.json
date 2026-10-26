@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "raw_records_checked_per_model": 610,
+  "candidate_csv_rows_checked": 6000,
+  "query_csv_rows_checked": 1200,
+  "independent_query_cluster_bootstrap_samples": 2000,
+  "all_seven_metric_delta_intervals_match": true,
+  "full_history_uncached_latency_verified_queries_per_model": 500,
+  "source_and_ranked_hashes_verified": true,
+  "account_delta_minus_known_receipts_usd": 0.0015412000000001314,
+  "note": "Extra account debit not arbitrarily allocated to either model; SSL/retry records retained."
+}

@@ -1,0 +1,34 @@
+# All relative paths are resolved relative to this config file.
+seed = 42
+data_dir = "data/esci"
+run_dir = "runs/openrouter/experiment-20261025"
+development_size = 200
+validation_size = 100
+test_size = 500
+challenge_size = 100
+challenge_pool_size = 1000
+reranker_model = "BAAI/bge-reranker-v2-m3"
+# Pin a Hugging Face commit here for reproduction; first download resolves main to a commit.
+reranker_revision = "main"
+# If set, load a local snapshot instead of contacting Hugging Face.
+reranker_local_path = ""
+device = "cuda"
+batch_size = 8
+max_length = 512
+local_files_only = false
+jev_model = "typesafe/jev-1.13"
+gpt_model = "openai/gpt-4.1-mini"
+# GPT outputs a short JSON probability, not an explanation.
+gpt_max_tokens = 32
+gpt_input_price_per_million = 0.40
+gpt_output_price_per_million = 1.60
+concurrency = 1
+request_timeout_s = 30.0
+max_attempts = 3
+requests_per_second = 1.0
+target_risk = 0.05
+min_accepted = 30
+bootstrap_samples = 2000
+input_price_per_million = 0.042
+title_chars = 300
+bullet_chars = 500

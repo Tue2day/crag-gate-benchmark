@@ -1,0 +1,14 @@
+{
+  "passed": true,
+  "raw_records_checked_per_model": {
+    "jev": 2800,
+    "gpt": 2800
+  },
+  "source_and_data_fingerprints_verified": true,
+  "calibration_threshold_independently_selected": 0.35,
+  "test_query_n": 2000,
+  "candidate_csv_rows_checked": 20000,
+  "query_csv_rows_checked": 4000,
+  "bootstrap_samples": 2000,
+  "all_seven_delta_intervals_and_one_sided_retention_bound_match": true
+}

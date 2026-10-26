@@ -1,0 +1,27 @@
+{
+  "experiment": "v4",
+  "models": {
+    "jev": "typesafe/jev-1.13-20260917",
+    "gpt": "openai/gpt-4.1-mini"
+  },
+  "prompt_contract_hash": "284043cb460924059009801608922a4d348556183a395366b567bd7701c71981",
+  "per_model": {
+    "jev": {
+      "queries": 610,
+      "known_cost_usd": 0.16038413999999995,
+      "attempt_status": {
+        "200": 610
+      },
+      "request_utf8_bytes": 16611774
+    },
+    "gpt": {
+      "queries": 610,
+      "known_cost_usd": 0.5372003999999999,
+      "attempt_status": {
+        "200": 610,
+        "transport_error": 1
+      },
+      "request_utf8_bytes": 4157770
+    }
+  }
+}

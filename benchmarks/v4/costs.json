@@ -1,0 +1,19 @@
+{
+  "jev": {
+    "queries": 610,
+    "known_cost_usd": 0.16038413999999995,
+    "attempt_status": {
+      "200": 610
+    },
+    "request_utf8_bytes": 16611774
+  },
+  "gpt": {
+    "queries": 610,
+    "known_cost_usd": 0.5372003999999999,
+    "attempt_status": {
+      "200": 610,
+      "transport_error": 1
+    },
+    "request_utf8_bytes": 4157770
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "task": "topk_filter",
+  "experiment_protocol": "topk_v4",
+  "mock": false,
+  "config": {
+    "protocol": "topk_v4",
+    "task": "topk_filter",
+    "seed": 2026102504,
+    "development_size": 10,
+    "validation_size": 100,
+    "test_size": 500,
+    "challenge_size": 100,
+    "challenge_pool_size": 1500,
+    "reranker_model": "BAAI/bge-reranker-v2-m3",
+    "reranker_revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+    "device": "cuda",
+    "batch_size": 8,
+    "max_length": 512,
+    "local_files_only": false,
+    "jev_model": "typesafe/jev-1.13-20260917",
+    "gpt_model": "openai/gpt-4.1-mini",
+    "gpt_max_tokens": 768,
+    "gpt_input_price_per_million": 0.4,
+    "gpt_output_price_per_million": 1.6,
+    "concurrency": 2,
+    "request_timeout_s": 45.0,
+    "max_attempts": 3,
+    "requests_per_second": 2.0,
+    "target_risk": 0.05,
+    "min_accepted": 30,
+    "bootstrap_samples": 2000,
+    "input_price_per_million": 0.042,
+    "title_chars": 300,
+    "bullet_chars": 500,
+    "prior_prepared_path": "",
+    "development_pool_size": 6000,
+    "development_negative_target": 200,
+    "development_min_negatives": 100,
+    "secondary_risk": 0.05,
+    "challenge_s": 50,
+    "challenge_c": 35,
+    "challenge_i": 15,
+    "api_budget_usd": 1.8,
+    "budget_safety_usd": 0.1,
+    "fit_size": 1200,
+    "select_size": 800,
+    "certification_size": 1500,
+    "fit_min_class": 50,
+    "certification_min_accepted": 200,
+    "selection_risk_fraction": 0.5,
+    "family_alpha": 0.05,
+    "preflight_max_estimate_usd": 1.7
+  },
+  "source_hashes": {
+    "__init__.py": "74f90e844f5e71784dc69bbb7179cb5d10f52163d296122be016fb136cf7e47c",
+    "__main__.py": "3129adff95e0f38b87ab34cddfc27082c7892bcaec267ff5d40f160fdf55b44a",
+    "baselines.py": "fe40fe7c2038d3f33ac24b257ba1bd28b3392c3d69f69dac3dbb7015b7f63309",
+    "budget.py": "554eabb4ea3e257af8783dc66094c17c8afd12e33516d534fcb1a16c030071d6",
+    "cli.py": "19d6d613dd7aec1e32f1d2a0e673bf2c3f8f9aab233ae729084936bc88039001",
+    "config.py": "bf791902832a937968784026f74d2e08ac27bcf781dec01bdc21377598ff5e34",
+    "data.py": "41cf0507bce181e867362c376e884341b053308a9384462295a7c1602e5e3cf9",
+    "evaluate.py": "a529e61e1d57c77f4bcfa9548e42171b35fcc94e8e58a603ae8a899ba6a4d132",
+    "evaluate_top1.py": "38e18d72ee130905fce2c239455bd79ec78fdfadb6a7f0c0c0f73a6f20053916",
+    "fusion.py": "ca1286a730b72bff517121ed5c090bbe387ae7018a211cd5878ba3fa2e600283",
+    "gpt.py": "5696c44869f089be819cea7118b90b4f130a2d8c8c56bc1dd9d6b044e7197926",
+    "io.py": "ce6c41c285cd1962c72a109576a0b8fc7f9a73a4aec7dc99590b2ce0c87175b4",
+    "jev.py": "d131a67ddc255c7594bd673e843b48800c3dc4bb5b7e7ccb12e1b1a36ceacb7e",
+    "metrics.py": "1b4e13810b166aebc54c5a2ef9f6351cd411d8c6eb30aec63e81613989f3040a",
+    "rerank.py": "67049252f6cb94e2f94d3bee822f2b1c163352d92481c7b6f794607f984da767",
+    "tasks.py": "3fc14647335a3a875a55f113254c9b4915db4320f99cf0ac05323a95ef7f64fb",
+    "top1.py": "26c5b56b3a89feddc2b7d1e3d3f657f884eae4d5c124189eefce3f3e14aee106",
+    "topk.py": "d9f1764d19c9a52ea7ba1da18fd39031203d58b6b88e19dd021c15117b53ae00"
+  },
+  "prepared_fingerprint": "10326b4bb3290c2071f5b5b550bc76d627852d37f6a869c06c162cd58cc88c33",
+  "ranked_fingerprint": "f269c4d9b6d65399b19f84499000b610bd7132260a379e895b89dd1b9a8dc9fb",
+  "created_utc": "2026-10-26T03:59:34.257648+00:00",
+  "prices": {
+    "jev": {
+      "catalog_id": "typesafe/jev-1.13",
+      "pricing": {
+        "prompt": "0.000000042",
+        "completion": "0",
+        "discount": 0
+      },
+      "source": "https://openrouter.ai/api/v1/models/typesafe/jev-1.13-20260917/endpoints",
+      "endpoint_name": "TypeSafe | typesafe/jev-1.13-20260917"
+    },
+    "gpt": {
+      "catalog_id": "openai/gpt-4.1-mini",
+      "pricing": {
+        "prompt": "0.0000004",
+        "completion": "0.0000016",
+        "web_search": "0.01",
+        "input_cache_read": "0.0000001"
+      },
+      "source": "/api/v1/models"
+    }
+  },
+  "decision_policy": "core>=0.5 AND accessory<0.5 AND constraint=NONE; identical boolean rule for GPT; fixed before pilot",
+  "primary_metrics": [
+    "query_contamination_risk",
+    "exact_retention",
+    "safe_route_success"
+  ],
+  "notes": [
+    "No threshold tuning or fusion",
+    "Public business proxy, not original company prompt",
+    "Diagnostic fields lack independent gold labels"
+  ]
+}

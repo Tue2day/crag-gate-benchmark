@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this release and the upstream Amazon ESCI dataset when using this benchmark."
+title: "CRAG Gate Benchmark: Jev vs. GPT-4.1 Mini"
+type: software
+authors:
+  - name: Tue2day
+    website: https://github.com/Tue2day
+version: 0.7.0
+date-released: 2026-10-26
+url: https://github.com/Tue2day/crag-gate-benchmark
+repository-code: https://github.com/Tue2day/crag-gate-benchmark
+license: MIT
+keywords:
+  - corrective retrieval-augmented generation
+  - ecommerce search
+  - evaluation
+  - selective prediction
+  - Jev
+  - GPT-4.1 Mini

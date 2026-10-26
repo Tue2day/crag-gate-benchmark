@@ -1,0 +1,166 @@
+{
+  "threshold": 0.35,
+  "usable": true,
+  "gpt_calibration_retention": 0.9074074074074074,
+  "minimum_calibration_retention": 0.8974074074074074,
+  "calibration_n": 800,
+  "common_n": 800,
+  "grid_results": [
+    {
+      "threshold": 0.05,
+      "kept_precision": 0.9173286260664901,
+      "exact_retention": 0.916519694297472,
+      "query_coverage": 0.97125,
+      "query_contamination_risk": 0.18532818532818532,
+      "feasible": true
+    },
+    {
+      "threshold": 0.1,
+      "kept_precision": 0.9215744303048239,
+      "exact_retention": 0.9153439153439153,
+      "query_coverage": 0.9675,
+      "query_contamination_risk": 0.17700258397932817,
+      "feasible": true
+    },
+    {
+      "threshold": 0.15,
+      "kept_precision": 0.9242469430360871,
+      "exact_retention": 0.9109347442680776,
+      "query_coverage": 0.9675,
+      "query_contamination_risk": 0.17183462532299743,
+      "feasible": true
+    },
+    {
+      "threshold": 0.2,
+      "kept_precision": 0.9265367316341829,
+      "exact_retention": 0.908289241622575,
+      "query_coverage": 0.9675,
+      "query_contamination_risk": 0.17183462532299743,
+      "feasible": true
+    },
+    {
+      "threshold": 0.25,
+      "kept_precision": 0.9293478260869565,
+      "exact_retention": 0.9047619047619048,
+      "query_coverage": 0.965,
+      "query_contamination_risk": 0.1645077720207254,
+      "feasible": true
+    },
+    {
+      "threshold": 0.3,
+      "kept_precision": 0.933353621424224,
+      "exact_retention": 0.9015285126396237,
+      "query_coverage": 0.96375,
+      "query_contamination_risk": 0.1582360570687419,
+      "feasible": true
+    },
+    {
+      "threshold": 0.35,
+      "kept_precision": 0.9363330272421182,
+      "exact_retention": 0.8991769547325102,
+      "query_coverage": 0.96375,
+      "query_contamination_risk": 0.15304798962386512,
+      "feasible": true
+    },
+    {
+      "threshold": 0.4,
+      "kept_precision": 0.9372307692307692,
+      "exact_retention": 0.8953556731334509,
+      "query_coverage": 0.9625,
+      "query_contamination_risk": 0.15064935064935064,
+      "feasible": false
+    },
+    {
+      "threshold": 0.45,
+      "kept_precision": 0.9400062169723344,
+      "exact_retention": 0.8888888888888888,
+      "query_coverage": 0.95875,
+      "query_contamination_risk": 0.14732724902216426,
+      "feasible": false
+    },
+    {
+      "threshold": 0.5,
+      "kept_precision": 0.9418787307571473,
+      "exact_retention": 0.8812463256907701,
+      "query_coverage": 0.955,
+      "query_contamination_risk": 0.14528795811518325,
+      "feasible": false
+    },
+    {
+      "threshold": 0.55,
+      "kept_precision": 0.9428752776896223,
+      "exact_retention": 0.8733098177542622,
+      "query_coverage": 0.95,
+      "query_contamination_risk": 0.14078947368421052,
+      "feasible": false
+    },
+    {
+      "threshold": 0.6,
+      "kept_precision": 0.943196405648267,
+      "exact_retention": 0.8639035861258083,
+      "query_coverage": 0.9425,
+      "query_contamination_risk": 0.13793103448275862,
+      "feasible": false
+    },
+    {
+      "threshold": 0.65,
+      "kept_precision": 0.9461136512083606,
+      "exact_retention": 0.8515579071134627,
+      "query_coverage": 0.93375,
+      "query_contamination_risk": 0.13253012048192772,
+      "feasible": false
+    },
+    {
+      "threshold": 0.7,
+      "kept_precision": 0.9477015323117921,
+      "exact_retention": 0.8362727807172252,
+      "query_coverage": 0.925,
+      "query_contamination_risk": 0.12837837837837837,
+      "feasible": false
+    },
+    {
+      "threshold": 0.75,
+      "kept_precision": 0.949724517906336,
+      "exact_retention": 0.8106995884773662,
+      "query_coverage": 0.9,
+      "query_contamination_risk": 0.125,
+      "feasible": false
+    },
+    {
+      "threshold": 0.8,
+      "kept_precision": 0.9545454545454546,
+      "exact_retention": 0.7777777777777778,
+      "query_coverage": 0.875,
+      "query_contamination_risk": 0.11571428571428571,
+      "feasible": false
+    },
+    {
+      "threshold": 0.85,
+      "kept_precision": 0.959392789373814,
+      "exact_retention": 0.7430922986478542,
+      "query_coverage": 0.84,
+      "query_contamination_risk": 0.10416666666666667,
+      "feasible": false
+    },
+    {
+      "threshold": 0.9,
+      "kept_precision": 0.9662359316381826,
+      "exact_retention": 0.6813639035861259,
+      "query_coverage": 0.7925,
+      "query_contamination_risk": 0.0914826498422713,
+      "feasible": false
+    },
+    {
+      "threshold": 0.95,
+      "kept_precision": 0.9769874476987448,
+      "exact_retention": 0.5490887713109935,
+      "query_coverage": 0.66875,
+      "query_contamination_risk": 0.06355140186915888,
+      "feasible": false
+    }
+  ],
+  "note": "No feasible grid point: do not change prompts, grid, seed, samples or fixed accessory/constraint rules.",
+  "protocol_fingerprint": "c896ad95b14d44255f87f19097fc4273c7342272dd83071182edb004440585ac",
+  "calibration_receipt_fingerprint": "ae0abda3ece4f56bfef66862c477aaa592bc17c18dc02e5ac53bbbe4e9a3027c",
+  "created_utc": "2026-10-26T05:39:51.685737+00:00"
+}

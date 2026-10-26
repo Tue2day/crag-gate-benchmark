@@ -1,0 +1,589 @@
+{
+  "task": "topk_filter",
+  "experiment_protocol": "topk_v4",
+  "mock": false,
+  "metrics": {
+    "jev": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 1737,
+        "fp": 168,
+        "fn": 289,
+        "tn": 306,
+        "passed": 465,
+        "polluted": 98,
+        "has_exact": 490,
+        "unnecessary_fallback": 30,
+        "route_correct": 342,
+        "safe_route_success": 372,
+        "rescue_eligible": 50,
+        "rescue_success": 7,
+        "kept": 1905,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 191,
+        "C_blocked": 46,
+        "I_blocked": 69
+      },
+      "kept_precision": 0.9118110236220472,
+      "exact_retention": 0.8573543928923988,
+      "candidate_f1": 0.8837445942508267,
+      "query_contamination_risk": 0.210752688172043,
+      "risk_wilson95": [
+        0.1761294936455524,
+        0.2501157862052691
+      ],
+      "query_coverage": 0.93,
+      "unnecessary_fallback_rate": 0.061224489795918366,
+      "route_action_accuracy": 0.684,
+      "safe_route_success": 0.744,
+      "rescue_success_rate": 0.14,
+      "intercept_by_label": {
+        "S": 0.5787878787878787,
+        "C": 0.9019607843137255,
+        "I": 0.7419354838709677
+      }
+    },
+    "gpt": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 1842,
+        "fp": 252,
+        "fn": 184,
+        "tn": 222,
+        "passed": 478,
+        "polluted": 128,
+        "has_exact": 490,
+        "unnecessary_fallback": 19,
+        "route_correct": 362,
+        "safe_route_success": 353,
+        "rescue_eligible": 50,
+        "rescue_success": 6,
+        "kept": 2094,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 135,
+        "C_blocked": 32,
+        "I_blocked": 55
+      },
+      "kept_precision": 0.8796561604584527,
+      "exact_retention": 0.9091806515301086,
+      "candidate_f1": 0.8941747572815534,
+      "query_contamination_risk": 0.26778242677824265,
+      "risk_wilson95": [
+        0.23005313951123701,
+        0.30921440184283305
+      ],
+      "query_coverage": 0.956,
+      "unnecessary_fallback_rate": 0.03877551020408163,
+      "route_action_accuracy": 0.724,
+      "safe_route_success": 0.706,
+      "rescue_success_rate": 0.12,
+      "intercept_by_label": {
+        "S": 0.4090909090909091,
+        "C": 0.6274509803921569,
+        "I": 0.5913978494623656
+      }
+    }
+  },
+  "challenge": {
+    "jev": {
+      "n": 100,
+      "candidate_n": 500,
+      "counts": {
+        "tp": 0,
+        "fp": 178,
+        "fn": 0,
+        "tn": 322,
+        "passed": 57,
+        "polluted": 57,
+        "has_exact": 0,
+        "unnecessary_fallback": 0,
+        "route_correct": 43,
+        "safe_route_success": 43,
+        "rescue_eligible": 0,
+        "rescue_success": 0,
+        "kept": 178,
+        "S_total": 215,
+        "C_total": 145,
+        "I_total": 140,
+        "S_blocked": 105,
+        "C_blocked": 117,
+        "I_blocked": 100
+      },
+      "kept_precision": 0.0,
+      "exact_retention": null,
+      "candidate_f1": 0.0,
+      "query_contamination_risk": 1.0,
+      "risk_wilson95": [
+        0.9368611651470209,
+        0.9999999999999998
+      ],
+      "query_coverage": 0.57,
+      "unnecessary_fallback_rate": null,
+      "route_action_accuracy": 0.43,
+      "safe_route_success": 0.43,
+      "rescue_success_rate": null,
+      "intercept_by_label": {
+        "S": 0.4883720930232558,
+        "C": 0.8068965517241379,
+        "I": 0.7142857142857143
+      }
+    },
+    "gpt": {
+      "n": 100,
+      "candidate_n": 500,
+      "counts": {
+        "tp": 0,
+        "fp": 261,
+        "fn": 0,
+        "tn": 239,
+        "passed": 72,
+        "polluted": 72,
+        "has_exact": 0,
+        "unnecessary_fallback": 0,
+        "route_correct": 28,
+        "safe_route_success": 28,
+        "rescue_eligible": 0,
+        "rescue_success": 0,
+        "kept": 261,
+        "S_total": 215,
+        "C_total": 145,
+        "I_total": 140,
+        "S_blocked": 72,
+        "C_blocked": 74,
+        "I_blocked": 93
+      },
+      "kept_precision": 0.0,
+      "exact_retention": null,
+      "candidate_f1": 0.0,
+      "query_contamination_risk": 1.0,
+      "risk_wilson95": [
+        0.9493488274035422,
+        1.0
+      ],
+      "query_coverage": 0.72,
+      "unnecessary_fallback_rate": null,
+      "route_action_accuracy": 0.28,
+      "safe_route_success": 0.28,
+      "rescue_success_rate": null,
+      "intercept_by_label": {
+        "S": 0.33488372093023255,
+        "C": 0.5103448275862069,
+        "I": 0.6642857142857143
+      }
+    }
+  },
+  "references": {
+    "keep_all": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 2026,
+        "fp": 474,
+        "fn": 0,
+        "tn": 0,
+        "passed": 500,
+        "polluted": 199,
+        "has_exact": 490,
+        "unnecessary_fallback": 0,
+        "route_correct": 301,
+        "safe_route_success": 301,
+        "rescue_eligible": 50,
+        "rescue_success": 0,
+        "kept": 2500,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 0,
+        "C_blocked": 0,
+        "I_blocked": 0
+      },
+      "kept_precision": 0.8104,
+      "exact_retention": 1.0,
+      "candidate_f1": 0.895271763146266,
+      "query_contamination_risk": 0.398,
+      "risk_wilson95": [
+        0.35602997790389446,
+        0.4415253875502624
+      ],
+      "query_coverage": 1.0,
+      "unnecessary_fallback_rate": 0.0,
+      "route_action_accuracy": 0.602,
+      "safe_route_success": 0.602,
+      "rescue_success_rate": 0.0,
+      "intercept_by_label": {
+        "S": 0.0,
+        "C": 0.0,
+        "I": 0.0
+      }
+    },
+    "top1_only": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 440,
+        "fp": 60,
+        "fn": 1586,
+        "tn": 414,
+        "passed": 500,
+        "polluted": 60,
+        "has_exact": 490,
+        "unnecessary_fallback": 0,
+        "route_correct": 189,
+        "safe_route_success": 440,
+        "rescue_eligible": 50,
+        "rescue_success": 0,
+        "kept": 500,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 286,
+        "C_blocked": 47,
+        "I_blocked": 81
+      },
+      "kept_precision": 0.88,
+      "exact_retention": 0.21717670286278382,
+      "candidate_f1": 0.34837688044338877,
+      "query_contamination_risk": 0.12,
+      "risk_wilson95": [
+        0.09437490012636912,
+        0.1514195986244106
+      ],
+      "query_coverage": 1.0,
+      "unnecessary_fallback_rate": 0.0,
+      "route_action_accuracy": 0.378,
+      "safe_route_success": 0.88,
+      "rescue_success_rate": 0.0,
+      "intercept_by_label": {
+        "S": 0.8666666666666667,
+        "C": 0.9215686274509803,
+        "I": 0.8709677419354839
+      }
+    }
+  },
+  "operational_all_test": {
+    "jev": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 1737,
+        "fp": 168,
+        "fn": 289,
+        "tn": 306,
+        "passed": 465,
+        "polluted": 98,
+        "has_exact": 490,
+        "unnecessary_fallback": 30,
+        "route_correct": 342,
+        "safe_route_success": 372,
+        "rescue_eligible": 50,
+        "rescue_success": 7,
+        "kept": 1905,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 191,
+        "C_blocked": 46,
+        "I_blocked": 69
+      },
+      "kept_precision": 0.9118110236220472,
+      "exact_retention": 0.8573543928923988,
+      "candidate_f1": 0.8837445942508267,
+      "query_contamination_risk": 0.210752688172043,
+      "risk_wilson95": [
+        0.1761294936455524,
+        0.2501157862052691
+      ],
+      "query_coverage": 0.93,
+      "unnecessary_fallback_rate": 0.061224489795918366,
+      "route_action_accuracy": 0.684,
+      "safe_route_success": 0.744,
+      "rescue_success_rate": 0.14,
+      "intercept_by_label": {
+        "S": 0.5787878787878787,
+        "C": 0.9019607843137255,
+        "I": 0.7419354838709677
+      }
+    },
+    "gpt": {
+      "n": 500,
+      "candidate_n": 2500,
+      "counts": {
+        "tp": 1842,
+        "fp": 252,
+        "fn": 184,
+        "tn": 222,
+        "passed": 478,
+        "polluted": 128,
+        "has_exact": 490,
+        "unnecessary_fallback": 19,
+        "route_correct": 362,
+        "safe_route_success": 353,
+        "rescue_eligible": 50,
+        "rescue_success": 6,
+        "kept": 2094,
+        "S_total": 330,
+        "C_total": 51,
+        "I_total": 93,
+        "S_blocked": 135,
+        "C_blocked": 32,
+        "I_blocked": 55
+      },
+      "kept_precision": 0.8796561604584527,
+      "exact_retention": 0.9091806515301086,
+      "candidate_f1": 0.8941747572815534,
+      "query_contamination_risk": 0.26778242677824265,
+      "risk_wilson95": [
+        0.23005313951123701,
+        0.30921440184283305
+      ],
+      "query_coverage": 0.956,
+      "unnecessary_fallback_rate": 0.03877551020408163,
+      "route_action_accuracy": 0.724,
+      "safe_route_success": 0.706,
+      "rescue_success_rate": 0.12,
+      "intercept_by_label": {
+        "S": 0.4090909090909091,
+        "C": 0.6274509803921569,
+        "I": 0.5913978494623656
+      }
+    }
+  },
+  "bootstrap": {
+    "delta_ci95": {
+      "query_contamination_risk": [
+        -0.08452929692929735,
+        -0.030143825879164823
+      ],
+      "kept_precision": [
+        0.01689206366987023,
+        0.047929935680678645
+      ],
+      "exact_retention": [
+        -0.07146536966284772,
+        -0.03247074462827887
+      ],
+      "query_coverage": [
+        -0.04799999999999993,
+        -0.0040000000000000036
+      ],
+      "safe_route_success": [
+        0.01200000000000001,
+        0.06400000000000006
+      ],
+      "rescue_success_rate": [
+        -0.10344827586206895,
+        0.1481678486997635
+      ],
+      "candidate_f1": [
+        -0.023355257650312114,
+        0.0023019282559774753
+      ]
+    },
+    "individual_ci95": {
+      "jev": {
+        "query_contamination_risk": [
+          0.17233655065520642,
+          0.24728908637137592
+        ],
+        "kept_precision": [
+          0.8924114779336298,
+          0.9302089389534883
+        ],
+        "exact_retention": [
+          0.8323692799478843,
+          0.8810831467808122
+        ],
+        "query_coverage": [
+          0.906,
+          0.95
+        ],
+        "safe_route_success": [
+          0.708,
+          0.782
+        ],
+        "rescue_success_rate": [
+          0.046485200845665965,
+          0.24444444444444444
+        ],
+        "candidate_f1": [
+          0.866268006491549,
+          0.8996282184036543
+        ]
+      },
+      "gpt": {
+        "query_contamination_risk": [
+          0.22964509394572025,
+          0.30785965760971806
+        ],
+        "kept_precision": [
+          0.8587740513465058,
+          0.900001201345507
+        ],
+        "exact_retention": [
+          0.887871190081916,
+          0.9287530330680742
+        ],
+        "query_coverage": [
+          0.936,
+          0.972
+        ],
+        "safe_route_success": [
+          0.666,
+          0.746
+        ],
+        "rescue_success_rate": [
+          0.03773584905660377,
+          0.21568627450980393
+        ],
+        "candidate_f1": [
+          0.8779644052996189,
+          0.9096108605044589
+        ]
+      }
+    },
+    "samples": 2000,
+    "unit": "paired query clusters; all five candidates resampled together"
+  },
+  "observed_delta": {
+    "query_contamination_risk": -0.05702973860619964,
+    "kept_precision": 0.032154863163594505,
+    "exact_retention": -0.05182625863770984,
+    "query_coverage": -0.025999999999999912,
+    "safe_route_success": 0.038000000000000034,
+    "rescue_success_rate": 0.020000000000000018,
+    "candidate_f1": -0.010430163030726636
+  },
+  "strict_quality_dominance_evidence": false,
+  "costs": {
+    "jev": {
+      "queries": 610,
+      "success": 610,
+      "http_attempts": 610,
+      "known_cost_usd": 0.16038413999999995,
+      "input_tokens": 3818670,
+      "output_tokens": 380430,
+      "unknown_attempt_cost": false,
+      "cache_hits": 147,
+      "known_cost_last_success_records": 0.16038413999999995
+    },
+    "gpt": {
+      "queries": 610,
+      "success": 610,
+      "http_attempts": 611,
+      "known_cost_usd": 0.5372003999999999,
+      "input_tokens": 860877,
+      "output_tokens": 120771,
+      "unknown_attempt_cost": true,
+      "cache_hits": 73,
+      "known_cost_last_success_records": 0.5372003999999999
+    }
+  },
+  "latency": {
+    "jev": {
+      "http": {
+        "n": 353,
+        "p50_ms": 156.99499999755062,
+        "p95_ms": 997.7615400028297
+      },
+      "gate": {
+        "n": 353,
+        "p50_ms": 1004.4670999996015,
+        "p95_ms": 1827.031320000242
+      }
+    },
+    "gpt": {
+      "http": {
+        "n": 427,
+        "p50_ms": 1934.0401999943424,
+        "p95_ms": 2518.922300000849
+      },
+      "gate": {
+        "n": 427,
+        "p50_ms": 1964.7616000002017,
+        "p95_ms": 2686.456119998911
+      }
+    }
+  },
+  "completeness": {
+    "natural_n": 500,
+    "common_n": 500,
+    "common_fraction": 1.0,
+    "challenge_common_n": 100,
+    "failed_or_missing": {
+      "jev": 0,
+      "gpt": 0
+    }
+  },
+  "models": {
+    "jev": {
+      "requested": "typesafe/jev-1.13-20260917",
+      "resolved": [
+        "typesafe/jev-1.13-20260917"
+      ],
+      "providers": [
+        "TypeSafe"
+      ]
+    },
+    "gpt": {
+      "requested": "openai/gpt-4.1-mini",
+      "resolved": [
+        "openai/gpt-4.1-mini"
+      ],
+      "providers": [
+        "OpenAI"
+      ]
+    }
+  },
+  "budget": {
+    "limit_usd": 1.8,
+    "safety_usd": 0.1,
+    "reported_usd": 0.6975845399999996,
+    "unknown_reserved_usd": 0.013879478,
+    "pending": {},
+    "sequence": 1224,
+    "note": "Conservative local budget accounting; unknown attempts retain their estimated charge; verify provider invoice."
+  },
+  "notes": [
+    "Public ESCI proxy, reconstructed business prompt, not production CRAG replacement.",
+    "E means eligible; S/C/I not eligible. Accessory/core/constraint log fields have no independent gold labels.",
+    "Constraint output is one primary category, not an exhaustive free-text violation list. UNKNOWN never means confirmed violation.",
+    "Both models share deterministic routing; no routing-model reasoning is used downstream.",
+    "Jev thresholds fixed at .5 before pilot, no fitting/calibration/fusion; GPT uses native boolean decisions, no forced probability.",
+    "Confidence intervals resample paired query clusters, not independent candidate rows; no threshold tuning.",
+    "No 5% risk certification in this study; report actual risk with intervals. No non-inferiority claim from a CI containing zero."
+  ],
+  "latency_uncached_history": {
+    "jev": {
+      "http": {
+        "n": 500,
+        "p50_ms": 147.61279999947874,
+        "p95_ms": 952.9534299959778
+      },
+      "gate": {
+        "n": 500,
+        "p50_ms": 1009.3596499973501,
+        "p95_ms": 1780.1671350025567
+      }
+    },
+    "gpt": {
+      "http": {
+        "n": 500,
+        "p50_ms": 1924.7069999983069,
+        "p95_ms": 2494.70536499648
+      },
+      "gate": {
+        "n": 500,
+        "p50_ms": 1963.171899998997,
+        "p95_ms": 2654.7943349989505
+      }
+    }
+  },
+  "latency_history_definition": "First successful actual network invocation per query across resumes. No cache-read latency; process-level interruption/restart interval not included. Failed orphan attempts may lack timing/usage.",
+  "orphan_usage_unknown": true
+}

@@ -1,0 +1,57 @@
+{
+  "export_kind": "Derived public export; not a byte-identical original archive",
+  "original_protocol_fingerprint": "c896ad95b14d44255f87f19097fc4273c7342272dd83071182edb004440585ac",
+  "original_source_sha256": {
+    "__init__.py": "9d74ae26ee3cc83326b0c3542af51d639406d111954a2e194c98ed33ecf70d80",
+    "__main__.py": "3129adff95e0f38b87ab34cddfc27082c7892bcaec267ff5d40f160fdf55b44a",
+    "baselines.py": "fe40fe7c2038d3f33ac24b257ba1bd28b3392c3d69f69dac3dbb7015b7f63309",
+    "budget.py": "554eabb4ea3e257af8783dc66094c17c8afd12e33516d534fcb1a16c030071d6",
+    "calibrated.py": "22cc7e56f79962a9fec86489976402525d34e21f67867806e6ed08da1768cfab",
+    "cli.py": "902e8af1e9cfd6316bc10f1b587e9c1f6436ae7278d0a363bce0c184402ae699",
+    "config.py": "6473cbddeb589b3536b75a670c911482ece62a1723220eaf50a7363303d2ec0c",
+    "data.py": "41cf0507bce181e867362c376e884341b053308a9384462295a7c1602e5e3cf9",
+    "evaluate.py": "a529e61e1d57c77f4bcfa9548e42171b35fcc94e8e58a603ae8a899ba6a4d132",
+    "evaluate_top1.py": "38e18d72ee130905fce2c239455bd79ec78fdfadb6a7f0c0c0f73a6f20053916",
+    "fusion.py": "ca1286a730b72bff517121ed5c090bbe387ae7018a211cd5878ba3fa2e600283",
+    "gpt.py": "5696c44869f089be819cea7118b90b4f130a2d8c8c56bc1dd9d6b044e7197926",
+    "io.py": "ce6c41c285cd1962c72a109576a0b8fc7f9a73a4aec7dc99590b2ce0c87175b4",
+    "jev.py": "0becb1d41e4c3b8202052a30c271a3aae3c076bb5a97bc6ae3a91c8066229d5d",
+    "metrics.py": "1b4e13810b166aebc54c5a2ef9f6351cd411d8c6eb30aec63e81613989f3040a",
+    "rerank.py": "67049252f6cb94e2f94d3bee822f2b1c163352d92481c7b6f794607f984da767",
+    "tasks.py": "3fc14647335a3a875a55f113254c9b4915db4320f99cf0ac05323a95ef7f64fb",
+    "top1.py": "26c5b56b3a89feddc2b7d1e3d3f657f884eae4d5c124189eefce3f3e14aee106",
+    "topk.py": "d9f1764d19c9a52ea7ba1da18fd39031203d58b6b88e19dd021c15117b53ae00"
+  },
+  "original_prepared_fingerprint": "a6fd42090370351c5a08c844e197d36d05a9b40d30bd0cab4f78354de69f5e6c",
+  "original_ranked_fingerprint": "e96d33b5c176b19b898dd7d62e24c97e6ca4e2f682ca777ff57612881d400317",
+  "seed": 2026102605,
+  "dataset": {
+    "repository": "amazon-science/esci-data",
+    "revision": "7916cdf6ab75a462e77f20ab40428a10923998d5",
+    "files": {
+      "shopping_queries_dataset_examples.parquet": {
+        "sha256": "4a735b693b4a424a6fc67f5be6e4c811495c488bbf66d02a602d308b2744263a",
+        "bytes": 51286808
+      },
+      "shopping_queries_dataset_products.parquet": {
+        "sha256": "25124442d064d64b26f74082d6fa09438d679efc0c183cf28d19064a2b65a265",
+        "bytes": 1108857465
+      }
+    }
+  },
+  "models": {
+    "jev": "typesafe/jev-1.13-20260917",
+    "gpt": "openai/gpt-4.1-mini"
+  },
+  "reranker": {
+    "model": "BAAI/bge-reranker-v2-m3",
+    "revision": "953dc6f6f85a1b2dbfca4c34a2796e7dde08d41e",
+    "device": "cuda",
+    "dtype": "torch.float16",
+    "max_length": 512,
+    "configured_batch_size": 8
+  },
+  "normalization": "NFKC + casefold + whitespace collapse",
+  "source_clock_note": "Original ROG wall clock was observed about 190 seconds ahead of UTC in v5. Monotonic durations are unaffected.",
+  "license": "ESCI-derived fields retain Apache-2.0 attribution; original code is MIT."
+}

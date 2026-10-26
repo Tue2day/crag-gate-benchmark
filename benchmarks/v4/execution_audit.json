@@ -1,0 +1,49 @@
+{
+  "history_known_costs": {
+    "jev": 0.16038413999999995,
+    "gpt": 0.5372003999999999
+  },
+  "recorded_noncache_attempts": {
+    "jev": 610,
+    "gpt": 611
+  },
+  "paired_natural_latency_queries": 500,
+  "latency_uncached_history": {
+    "jev": {
+      "http": {
+        "n": 500,
+        "p50_ms": 147.61279999947874,
+        "p95_ms": 952.9534299959778
+      },
+      "gate": {
+        "n": 500,
+        "p50_ms": 1009.3596499973501,
+        "p95_ms": 1780.1671350025567
+      }
+    },
+    "gpt": {
+      "http": {
+        "n": 500,
+        "p50_ms": 1924.7069999983069,
+        "p95_ms": 2494.70536499648
+      },
+      "gate": {
+        "n": 500,
+        "p50_ms": 1963.171899998997,
+        "p95_ms": 2654.7943349989505
+      }
+    }
+  },
+  "reserved_attempts_in_ledger": 1224,
+  "events": [
+    {
+      "recorded_utc": "2026-10-26T04:04:37.914515+00:00",
+      "kind": "SSLError",
+      "stage": "api-all test challenge",
+      "description": "One batch exited on an SSL connection exception; successful caches, journals and budget were retained.",
+      "recovery": "Resumed exactly the same frozen test/challenge phase; no prompt, decision rule, sample or model change.",
+      "time_note": "Recorded after observation; not an exact failure timestamp."
+    }
+  ],
+  "note": "First successful actual network invocation per query across resumes. No cache-read latency; process-level interruption/restart interval not included. Failed orphan attempts may lack timing/usage."
+}

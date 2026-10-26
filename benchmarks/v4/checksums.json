@@ -1,0 +1,16 @@
+{
+  "sha256": {
+    "candidates.jsonl": "08b3896aae1ce72ce130c055bd5d6bb8186fd5bddac4c1dd58a31f35856e82c9",
+    "costs.json": "fb6387299ea8caeadc0a1d50bed4a0801dec1ffd78bfc4e682f97d377c39be89",
+    "execution_audit.json": "efcf26655c14c139009bfa9d96833442c1c1519df3f377c76328f4844746f33a",
+    "independent_metric_check.json": "1c772d74de151dc4d25e468f907c214f7af0b8037bef6bef97653de90576e31c",
+    "metrics.json": "fa6eeaf35d0ec629ac506608d56961eace139685b9510c67925730f2a36a820d",
+    "predictions.jsonl": "06d88f5ea11c9f8193102e9b80f8b34ffa379688e3226d812aaf4a46ba14d7f7",
+    "protocol.json": "97781f7581178b886b93e2a3f38a2a5adb23c9a01797a66e9e0c09aae80d8b86",
+    "provenance.json": "ebb1d5788961194b87a49ebcf90cc35f66634b9fe0667021cab109c75c112bdd",
+    "quality.png": "37de8e36da61f285650bb50a4bbf64b29210070a9eabb09fa647c734a3128f25",
+    "query_order.json": "9226908ece4cc2d1aa47370f2f68ec3f0653a8cf9efdedd58180bb3212b19fb4",
+    "summary.csv": "82dea07f1981f840e3dc6fa6aa0c32ffa1831deb55d1c94b1aaf86e75b3d3197",
+    "timings.jsonl": "ca12e5e8ae49f7fdd0642c45263261aa7ab1567486c8f902f8a73c955e457d9e"
+  }
+}

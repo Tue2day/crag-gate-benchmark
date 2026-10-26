@@ -1,0 +1,291 @@
+{
+  "experiment_protocol": "topk_calibrated_v5",
+  "mock": false,
+  "threshold": 0.35,
+  "metrics": {
+    "jev": {
+      "n": 2000,
+      "candidate_n": 10000,
+      "counts": {
+        "tp": 7118,
+        "fp": 762,
+        "fn": 1008,
+        "tn": 1112,
+        "passed": 1891,
+        "polluted": 451,
+        "has_exact": 1956,
+        "unnecessary_fallback": 90,
+        "route_correct": 1408,
+        "safe_route_success": 1459,
+        "rescue_eligible": 155,
+        "rescue_success": 17,
+        "kept": 7880,
+        "S_total": 1269,
+        "C_total": 177,
+        "I_total": 428,
+        "S_blocked": 661,
+        "C_blocked": 137,
+        "I_blocked": 314
+      },
+      "kept_precision": 0.9032994923857868,
+      "exact_retention": 0.8759537287718435,
+      "candidate_f1": 0.8894164688241909,
+      "query_contamination_risk": 0.2384981491274458,
+      "risk_wilson95": [
+        0.21983253730559837,
+        0.258224059252337
+      ],
+      "query_coverage": 0.9455,
+      "unnecessary_fallback_rate": 0.046012269938650305,
+      "route_action_accuracy": 0.704,
+      "safe_route_success": 0.7295,
+      "rescue_success_rate": 0.10967741935483871,
+      "intercept_by_label": {
+        "S": 0.5208825847123719,
+        "C": 0.7740112994350282,
+        "I": 0.7336448598130841
+      }
+    },
+    "gpt": {
+      "n": 2000,
+      "candidate_n": 10000,
+      "counts": {
+        "tp": 7258,
+        "fp": 896,
+        "fn": 868,
+        "tn": 978,
+        "passed": 1893,
+        "polluted": 492,
+        "has_exact": 1956,
+        "unnecessary_fallback": 90,
+        "route_correct": 1409,
+        "safe_route_success": 1418,
+        "rescue_eligible": 155,
+        "rescue_success": 18,
+        "kept": 8154,
+        "S_total": 1269,
+        "C_total": 177,
+        "I_total": 428,
+        "S_blocked": 553,
+        "C_blocked": 122,
+        "I_blocked": 303
+      },
+      "kept_precision": 0.8901152808437577,
+      "exact_retention": 0.8931823775535319,
+      "candidate_f1": 0.8916461916461916,
+      "query_contamination_risk": 0.25990491283676703,
+      "risk_wilson95": [
+        0.24064805100386594,
+        0.28013424960804484
+      ],
+      "query_coverage": 0.9465,
+      "unnecessary_fallback_rate": 0.046012269938650305,
+      "route_action_accuracy": 0.7045,
+      "safe_route_success": 0.709,
+      "rescue_success_rate": 0.11612903225806452,
+      "intercept_by_label": {
+        "S": 0.43577620173364856,
+        "C": 0.6892655367231638,
+        "I": 0.7079439252336449
+      }
+    }
+  },
+  "bootstrap": {
+    "delta_ci95": {
+      "query_contamination_risk": [
+        -0.03381484933579302,
+        -0.008891789048564283
+      ],
+      "kept_precision": [
+        0.006855075426022497,
+        0.01934312006519036
+      ],
+      "exact_retention": [
+        -0.028368533545108342,
+        -0.006647402396699072
+      ],
+      "query_coverage": [
+        -0.011500000000000066,
+        0.010000000000000009
+      ],
+      "safe_route_success": [
+        0.0069875000000000085,
+        0.03400000000000003
+      ],
+      "rescue_success_rate": [
+        -0.06002027027027025,
+        0.04730534105534102
+      ],
+      "candidate_f1": [
+        -0.008707539464462052,
+        0.004087933159153876
+      ]
+    },
+    "individual_ci95": {
+      "jev": {
+        "query_contamination_risk": [
+          0.2198194670094515,
+          0.2573143973965391
+        ],
+        "kept_precision": [
+          0.894009330446965,
+          0.9122586633396701
+        ],
+        "exact_retention": [
+          0.8650947435984537,
+          0.8865029889559256
+        ],
+        "query_coverage": [
+          0.935,
+          0.9550124999999999
+        ],
+        "safe_route_success": [
+          0.7105,
+          0.748
+        ],
+        "rescue_success_rate": [
+          0.06409999999999999,
+          0.1619718309859155
+        ],
+        "candidate_f1": [
+          0.8816501612817679,
+          0.8969576735868693
+        ]
+      },
+      "gpt": {
+        "query_contamination_risk": [
+          0.24078918853926762,
+          0.28059280034128553
+        ],
+        "kept_precision": [
+          0.8804150514228084,
+          0.9001240731598051
+        ],
+        "exact_retention": [
+          0.882542805985569,
+          0.9041888224754512
+        ],
+        "query_coverage": [
+          0.936,
+          0.9555
+        ],
+        "safe_route_success": [
+          0.6894875,
+          0.728
+        ],
+        "rescue_success_rate": [
+          0.06756377163680535,
+          0.16778523489932887
+        ],
+        "candidate_f1": [
+          0.8841036097956869,
+          0.8994535970569852
+        ]
+      }
+    },
+    "retention_delta_one_sided95_lower": -0.026518617136454935,
+    "samples": 2000,
+    "unit": "paired query clusters",
+    "conditional_on_frozen_threshold": true
+  },
+  "conclusions": {
+    "retention_noninferiority": false,
+    "precision_superiority": true,
+    "joint_quality_evidence": false,
+    "retention_margin": 0.02,
+    "note": "Primary conjunctive claim requires both tests; CI crossing zero does not establish equivalence."
+  },
+  "costs": {
+    "jev": {
+      "logical_queries": 2800,
+      "known_cost_usd": 0.7360134180000004,
+      "recorded_http_attempts": 2842,
+      "input_tokens": 17524129,
+      "output_tokens": 1745699,
+      "unknown_attempt_cost": true
+    },
+    "gpt": {
+      "logical_queries": 2800,
+      "known_cost_usd": 2.4670320000000068,
+      "recorded_http_attempts": 2801,
+      "input_tokens": 3954280,
+      "output_tokens": 553325,
+      "unknown_attempt_cost": true
+    }
+  },
+  "latency": {
+    "jev": {
+      "natural_query_n": 2000,
+      "http": {
+        "n": 2034,
+        "p50_ms": 133.57779999569175,
+        "p95_ms": 240.39090000114808
+      },
+      "gate": {
+        "n": 2000,
+        "p50_ms": 1013.4270500020648,
+        "p95_ms": 1138.1548649998876
+      }
+    },
+    "gpt": {
+      "natural_query_n": 2000,
+      "http": {
+        "n": 2000,
+        "p50_ms": 1884.543650001433,
+        "p95_ms": 2355.9782899999846
+      },
+      "gate": {
+        "n": 2000,
+        "p50_ms": 1906.6145500000857,
+        "p95_ms": 2408.5250149993954
+      }
+    }
+  },
+  "models": {
+    "jev": {
+      "requested": "typesafe/jev-1.13-20260917",
+      "resolved": [
+        "typesafe/jev-1.13-20260917"
+      ],
+      "providers": [
+        "TypeSafe"
+      ]
+    },
+    "gpt": {
+      "requested": "openai/gpt-4.1-mini",
+      "resolved": [
+        "openai/gpt-4.1-mini"
+      ],
+      "providers": [
+        "OpenAI"
+      ]
+    }
+  },
+  "completeness": {
+    "natural_n": 2000,
+    "common_n": 2000,
+    "common_fraction": 1.0,
+    "failed": {
+      "jev": 0,
+      "gpt": 0
+    }
+  },
+  "budget": {
+    "limit_usd": 4.2,
+    "safety_usd": 0.1,
+    "reported_usd": 3.203045418000019,
+    "unknown_reserved_usd": 0.053699148,
+    "pending": {},
+    "sequence": 5643,
+    "note": "Conservative local budget accounting; unknown attempts retain their estimated charge; verify provider invoice."
+  },
+  "threshold_fingerprint": "af6bb647d52b6da3d2544e5e8a1554d8e5851029d8298b788e051b64b6cb844f",
+  "protocol_fingerprint": "c896ad95b14d44255f87f19097fc4273c7342272dd83071182edb004440585ac",
+  "notes": [
+    "ESCI public proxy, not original production prompt; no independently gold-labeled diagnostic fields.",
+    "Only core threshold calibrated; accessory <0.5 and constraint NONE remain fixed. GPT is unchanged.",
+    "Confidence intervals conditional on frozen threshold; test never used for selection.",
+    "Latency: real non-cache network calls; Gate includes pacing/retries, excludes queue wait, shared reranking and manual resume downtime.",
+    "Natural calibration/train and test/test source distributions can differ. No 5% risk certification."
+  ]
+}

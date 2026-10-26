@@ -1,0 +1,1220 @@
+{"query_id": "101979", "split": "challenge", "method": "gpt", "selected_ids": ["138844027X", "1591399556", "1633697606", "0764438123", "1973335476"], "routing_action": "PASS_ALL"}
+{"query_id": "101979", "split": "challenge", "method": "jev", "selected_ids": ["1591399556", "0764438123", "1973335476"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102022", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "102022", "split": "challenge", "method": "jev", "selected_ids": ["0718079868"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102305", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "102305", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "102326", "split": "challenge", "method": "gpt", "selected_ids": ["1516712420", "1260026396", "1506247598"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102326", "split": "challenge", "method": "jev", "selected_ids": ["0375429727", "1524710717"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102471", "split": "challenge", "method": "gpt", "selected_ids": ["0060921609", "163149113X", "0275987086", "B078HCNBSJ", "0195137841"], "routing_action": "PASS_ALL"}
+{"query_id": "102471", "split": "challenge", "method": "jev", "selected_ids": ["0060921609", "163149113X", "0275987086", "B078HCNBSJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102819", "split": "challenge", "method": "gpt", "selected_ids": ["B077J8DGS1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102819", "split": "challenge", "method": "jev", "selected_ids": ["B077J8DGS1", "B07J63S6JV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "102885", "split": "challenge", "method": "gpt", "selected_ids": ["B07YK9ZJ33", "B08PPWG5GF", "B092VQ6PY5", "B08239TZX7", "B08KDPBFV5"], "routing_action": "PASS_ALL"}
+{"query_id": "102885", "split": "challenge", "method": "jev", "selected_ids": ["B07YK9ZJ33", "B08PPWG5GF", "B092VQ6PY5", "B08239TZX7", "B08KDPBFV5"], "routing_action": "PASS_ALL"}
+{"query_id": "103803", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "103803", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "103806", "split": "challenge", "method": "gpt", "selected_ids": ["B07VL7XXKC", "B07XLXMGMR", "B07WFDK39R", "B07H5LGRH8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "103806", "split": "challenge", "method": "jev", "selected_ids": ["B07VL7XXKC", "B07XLXMGMR", "B07WFDK39R", "B07H5LGRH8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "105504", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "105504", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "107416", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "107416", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "108149", "split": "challenge", "method": "gpt", "selected_ids": ["B081CP91ML", "B0784NZF5B", "B07ZWZTJ1R", "B07QW76JTZ", "B0799GVPYH"], "routing_action": "PASS_ALL"}
+{"query_id": "108149", "split": "challenge", "method": "jev", "selected_ids": ["B081CP91ML", "B0784NZF5B", "B07QW76JTZ", "B0799GVPYH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "109452", "split": "challenge", "method": "gpt", "selected_ids": ["B018A8R2EA", "B07VKSBZW1", "B07HJDY265", "B07VQFXCZM", "B07NCCDZ69"], "routing_action": "PASS_ALL"}
+{"query_id": "109452", "split": "challenge", "method": "jev", "selected_ids": ["B018A8R2EA", "B07VKSBZW1", "B07HJDY265", "B07VQFXCZM", "B07NCCDZ69"], "routing_action": "PASS_ALL"}
+{"query_id": "109751", "split": "challenge", "method": "gpt", "selected_ids": ["1541246837", "B085KXH1ZW", "0648488802", "1683640055", "1524853852"], "routing_action": "PASS_ALL"}
+{"query_id": "109751", "split": "challenge", "method": "jev", "selected_ids": ["1541246837", "1524853852"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110895", "split": "challenge", "method": "gpt", "selected_ids": ["B00004YQU8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110895", "split": "challenge", "method": "jev", "selected_ids": ["B00004YQU8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111655", "split": "challenge", "method": "gpt", "selected_ids": ["B01N998A9U", "B07PGH69JX", "B07D994WGB", "B076WZR16T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111655", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "112665", "split": "challenge", "method": "gpt", "selected_ids": ["B07MR9619B", "B07M9QR9CM", "B0050NAKJ8", "B078ZJR26M", "B06XYC5PBZ"], "routing_action": "PASS_ALL"}
+{"query_id": "112665", "split": "challenge", "method": "jev", "selected_ids": ["B07MR9619B", "B07M9QR9CM", "B06XYC5PBZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "113744", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "113744", "split": "challenge", "method": "jev", "selected_ids": ["B07F7V5LFN", "B000WZ4KRC", "B005IDBJA4", "B07G2GP712", "B07S1F7H9V"], "routing_action": "PASS_ALL"}
+{"query_id": "115306", "split": "challenge", "method": "gpt", "selected_ids": ["B00J7YTWTU", "B098RP3FCS", "B007ZLAHW8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "115306", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "11966", "split": "challenge", "method": "gpt", "selected_ids": ["B01FWOP2LA", "B07JYPMSS9", "B07JH367KD", "B00XR6ZTEG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11966", "split": "challenge", "method": "jev", "selected_ids": ["B087281WWF"], "routing_action": "PASS_FILTERED"}
+{"query_id": "1333", "split": "challenge", "method": "gpt", "selected_ids": ["B094CZHGPH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "1333", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "17435", "split": "challenge", "method": "gpt", "selected_ids": ["B07X4D3BR6", "B07TSS52FZ", "B0148NPIQK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "17435", "split": "challenge", "method": "jev", "selected_ids": ["B07X4D3BR6", "B07TSS52FZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "1837", "split": "challenge", "method": "gpt", "selected_ids": ["B0834MFHNB", "B08CZQXZ8Z", "B07MFP5WL9", "B083NYPT8J", "B093DJSSCG"], "routing_action": "PASS_ALL"}
+{"query_id": "1837", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "18986", "split": "challenge", "method": "gpt", "selected_ids": ["B071VF14MH", "B086R6BKX8", "B07VHSSHY4", "B07RD811VY", "B017ALIJWC"], "routing_action": "PASS_ALL"}
+{"query_id": "18986", "split": "challenge", "method": "jev", "selected_ids": ["B071VF14MH", "B086R6BKX8", "B07VHSSHY4", "B07RD811VY", "B017ALIJWC"], "routing_action": "PASS_ALL"}
+{"query_id": "19121", "split": "challenge", "method": "gpt", "selected_ids": ["B08TZ6TDWX"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19121", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "20944", "split": "challenge", "method": "gpt", "selected_ids": ["B085F1N54K"], "routing_action": "PASS_FILTERED"}
+{"query_id": "20944", "split": "challenge", "method": "jev", "selected_ids": ["B08Z4KX37B", "B094XQCDWH", "B08MZ8P6LS", "B07TS96J7Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "21859", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "21859", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "22468", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "22468", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "23660", "split": "challenge", "method": "gpt", "selected_ids": ["B086DHMCSY", "B07SM75BJK", "B088KKDYYQ", "B089ZZJJYL", "B00009V3TT"], "routing_action": "PASS_ALL"}
+{"query_id": "23660", "split": "challenge", "method": "jev", "selected_ids": ["B086DHMCSY", "B07SM75BJK", "B088KKDYYQ", "B089ZZJJYL", "B00009V3TT"], "routing_action": "PASS_ALL"}
+{"query_id": "24024", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "24024", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "26467", "split": "challenge", "method": "gpt", "selected_ids": ["B07NPWXWK4", "B0861DKNJR", "B074G382ZR", "B0811RWR48", "B07ZTZ7B2Z"], "routing_action": "PASS_ALL"}
+{"query_id": "26467", "split": "challenge", "method": "jev", "selected_ids": ["B07NPWXWK4", "B0861DKNJR", "B074G382ZR", "B0811RWR48", "B07ZTZ7B2Z"], "routing_action": "PASS_ALL"}
+{"query_id": "27609", "split": "challenge", "method": "gpt", "selected_ids": ["B07F16125G", "B075JHBR5T", "B01MUGMOO8", "B07HQ3CVZZ", "B0829JKN31"], "routing_action": "PASS_ALL"}
+{"query_id": "27609", "split": "challenge", "method": "jev", "selected_ids": ["B07F16125G", "B075JHBR5T", "B01MUGMOO8", "B07HQ3CVZZ", "B0829JKN31"], "routing_action": "PASS_ALL"}
+{"query_id": "28692", "split": "challenge", "method": "gpt", "selected_ids": ["B00OZV04BK", "B079M2BFKD", "B07PFGCN8D", "B07NQMYQ92"], "routing_action": "PASS_FILTERED"}
+{"query_id": "28692", "split": "challenge", "method": "jev", "selected_ids": ["B00OZV04BK", "B079M2BFKD", "B07PFGCN8D", "B07NQMYQ92"], "routing_action": "PASS_FILTERED"}
+{"query_id": "31793", "split": "challenge", "method": "gpt", "selected_ids": ["B009NX4KNI", "B0968JS7H7", "B0963498KZ", "B095TRTQN8", "B084HNY68T"], "routing_action": "PASS_ALL"}
+{"query_id": "31793", "split": "challenge", "method": "jev", "selected_ids": ["B009NX4KNI", "B0968JS7H7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "31855", "split": "challenge", "method": "gpt", "selected_ids": ["B01JGQVQBU", "B07V7GVTXL", "B06XXTLB8D", "B0824GTV8C", "B0896RMG2B"], "routing_action": "PASS_ALL"}
+{"query_id": "31855", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "32821", "split": "challenge", "method": "gpt", "selected_ids": ["B001W0ZIK4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "32821", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "34010", "split": "challenge", "method": "gpt", "selected_ids": ["B07LFZNLZ9", "B07S2N9HH8", "B07JZ52VJX", "B07CVF48TT", "B08LV9MGRC"], "routing_action": "PASS_ALL"}
+{"query_id": "34010", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "35766", "split": "challenge", "method": "gpt", "selected_ids": ["B00VX73DD0", "B07JHM3MT8", "B07R5PBZXM", "B007PX6M9S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "35766", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36183", "split": "challenge", "method": "gpt", "selected_ids": ["B071JRMML5", "B072MKKHG3", "B01BO0UUTU", "B072MKG8W3", "B071WPQ6MT"], "routing_action": "PASS_ALL"}
+{"query_id": "36183", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36287", "split": "challenge", "method": "gpt", "selected_ids": ["B07HVQQWDS", "B07FLKXQ8R", "B086C34PRY", "B07FLLRVFN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "36287", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36652", "split": "challenge", "method": "gpt", "selected_ids": ["B01GLYK6BG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "36652", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36876", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36876", "split": "challenge", "method": "jev", "selected_ids": ["B07T8DVMQJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "3741", "split": "challenge", "method": "gpt", "selected_ids": ["B07FTCHPHG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "3741", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "37710", "split": "challenge", "method": "gpt", "selected_ids": ["B000CO869Q", "B004R900GO", "B00I5LARHM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "37710", "split": "challenge", "method": "jev", "selected_ids": ["B000CO869Q", "B004R900GO", "B00I5LARHM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "38188", "split": "challenge", "method": "gpt", "selected_ids": ["B00J8O18TQ", "B0849Q735Z", "B07BXW6FDS", "B07BN9SDD1", "B0786ZXXMJ"], "routing_action": "PASS_ALL"}
+{"query_id": "38188", "split": "challenge", "method": "jev", "selected_ids": ["B00J8O18TQ", "B07BXW6FDS", "B07BN9SDD1", "B0786ZXXMJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "39625", "split": "challenge", "method": "gpt", "selected_ids": ["B0821Y7GMV", "B07G1Y72TK", "B087L5S7XN", "B01LYGNTJJ", "B07BNBTGHD"], "routing_action": "PASS_ALL"}
+{"query_id": "39625", "split": "challenge", "method": "jev", "selected_ids": ["B0821Y7GMV", "B07G1Y72TK", "B087L5S7XN", "B01LYGNTJJ", "B07BNBTGHD"], "routing_action": "PASS_ALL"}
+{"query_id": "39962", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "39962", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "40311", "split": "challenge", "method": "gpt", "selected_ids": ["138715950X", "B00HRLQ6CG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "40311", "split": "challenge", "method": "jev", "selected_ids": ["138715950X", "B00HRLQ6CG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "42490", "split": "challenge", "method": "gpt", "selected_ids": ["B07Q5L57D2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "42490", "split": "challenge", "method": "jev", "selected_ids": ["B07Q5L57D2", "B01AOMPOZO"], "routing_action": "PASS_FILTERED"}
+{"query_id": "43731", "split": "challenge", "method": "gpt", "selected_ids": ["B009417III", "B0768TVNR9", "B0725GJKST", "B086SPGCQB", "B07B47B1GL"], "routing_action": "PASS_ALL"}
+{"query_id": "43731", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "45545", "split": "challenge", "method": "gpt", "selected_ids": ["B084V48JH5", "B07VMTVN5Z", "B00PHQHXC0", "B07CSFQP2P"], "routing_action": "PASS_FILTERED"}
+{"query_id": "45545", "split": "challenge", "method": "jev", "selected_ids": ["B07PXFVR6T", "B084V48JH5", "B07VMTVN5Z"], "routing_action": "PASS_FILTERED"}
+{"query_id": "45641", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "45641", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "45774", "split": "challenge", "method": "gpt", "selected_ids": ["B07W524TKL", "B07YP65JTZ", "B07RZW8B2F", "B07Y6295G8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "45774", "split": "challenge", "method": "jev", "selected_ids": ["B07W524TKL", "B07YP65JTZ", "B07RZW8B2F", "B07Y6295G8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "46776", "split": "challenge", "method": "gpt", "selected_ids": ["B01N13ZZ8X", "B07YN7NFZV", "B07XP44MTV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "46776", "split": "challenge", "method": "jev", "selected_ids": ["B01N13ZZ8X", "B07YN7NFZV", "B07XP44MTV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "48447", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "48447", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "4860", "split": "challenge", "method": "gpt", "selected_ids": ["B000XAX56S", "B01N6G01CJ", "B07B283L6H", "B07FPVMRV8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4860", "split": "challenge", "method": "jev", "selected_ids": ["B000XAX56S", "B07FPVMRV8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "49456", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "49456", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "5166", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "5166", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "52985", "split": "challenge", "method": "gpt", "selected_ids": ["B00KCCOVVU", "B000IXG44U", "B07GSGJV1D", "B000EHWWJQ", "B019RSXPEI"], "routing_action": "PASS_ALL"}
+{"query_id": "52985", "split": "challenge", "method": "jev", "selected_ids": ["B00KCCOVVU", "B000IXG44U", "B07GSGJV1D", "B000EHWWJQ", "B019RSXPEI"], "routing_action": "PASS_ALL"}
+{"query_id": "53430", "split": "challenge", "method": "gpt", "selected_ids": ["B084P1G7NL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "53430", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "53906", "split": "challenge", "method": "gpt", "selected_ids": ["B07JZHDMRM", "B088LLHKCR", "B07SM563CD", "B07L9SJMRS", "B07XRMB6W4"], "routing_action": "PASS_ALL"}
+{"query_id": "53906", "split": "challenge", "method": "jev", "selected_ids": ["B07JZHDMRM", "B088LLHKCR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55057", "split": "challenge", "method": "gpt", "selected_ids": ["B08BC5DZW2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55057", "split": "challenge", "method": "jev", "selected_ids": ["B08BC5DZW2", "B07Q4M3M22", "B07PB29Z7F", "B096RH7MFM", "B08KWH1MPJ"], "routing_action": "PASS_ALL"}
+{"query_id": "58186", "split": "challenge", "method": "gpt", "selected_ids": ["B07LDSQBHL", "B07Q13N69Z", "B07S4H7HR6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "58186", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "62155", "split": "challenge", "method": "gpt", "selected_ids": ["B08F9XYGD1", "B00505W27Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "62155", "split": "challenge", "method": "jev", "selected_ids": ["B08F9XYGD1", "B00505W27Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "64685", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "64685", "split": "challenge", "method": "jev", "selected_ids": ["B00UKOYMIW", "B00BZLNWHQ", "B00BZLNW2Q", "B00BZLNX2U", "B00BZLNW8K"], "routing_action": "PASS_ALL"}
+{"query_id": "65894", "split": "challenge", "method": "gpt", "selected_ids": ["B08FXXRX3M", "B07JLCHXQC", "B07B22H5MD", "B07G346CM7", "B07BQGH6T1"], "routing_action": "PASS_ALL"}
+{"query_id": "65894", "split": "challenge", "method": "jev", "selected_ids": ["B08FXXRX3M"], "routing_action": "PASS_FILTERED"}
+{"query_id": "67598", "split": "challenge", "method": "gpt", "selected_ids": ["B011Y8ZQXW", "B07QMTZGZ3", "B07MSKN3DL", "B07VM98Z3T", "B017VF9YAS"], "routing_action": "PASS_ALL"}
+{"query_id": "67598", "split": "challenge", "method": "jev", "selected_ids": ["B011Y8ZQXW", "B07QMTZGZ3", "B07MSKN3DL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "68104", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "68104", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "68153", "split": "challenge", "method": "gpt", "selected_ids": ["B07P7HS19S", "B07KQLBPJK", "B00C1UWWQW", "B01HM89XAU"], "routing_action": "PASS_FILTERED"}
+{"query_id": "68153", "split": "challenge", "method": "jev", "selected_ids": ["B07P7HS19S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "68404", "split": "challenge", "method": "gpt", "selected_ids": ["B07V49ZP66", "B07VC58NYG", "B003673GBY", "B00DZZ0R0A"], "routing_action": "PASS_FILTERED"}
+{"query_id": "68404", "split": "challenge", "method": "jev", "selected_ids": ["B07V49ZP66", "B07VC58NYG", "B07J29YRG4", "B003673GBY", "B00DZZ0R0A"], "routing_action": "PASS_ALL"}
+{"query_id": "69259", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "69259", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "69672", "split": "challenge", "method": "gpt", "selected_ids": ["B07SNWWBLJ", "B0816HGXCX"], "routing_action": "PASS_FILTERED"}
+{"query_id": "69672", "split": "challenge", "method": "jev", "selected_ids": ["B07SNWWBLJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "69691", "split": "challenge", "method": "gpt", "selected_ids": ["B017USJL90", "B017V7UKW2", "B07JDSDLTX", "B01DID2TN6", "B01IL7SKUU"], "routing_action": "PASS_ALL"}
+{"query_id": "69691", "split": "challenge", "method": "jev", "selected_ids": ["B017USJL90"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70736", "split": "challenge", "method": "gpt", "selected_ids": ["B078WCBWZB", "B07QB5D2FP", "B07S6NMJPW", "B07S9HSKTC", "B07XD7G7Y6"], "routing_action": "PASS_ALL"}
+{"query_id": "70736", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "72406", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "72406", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "73219", "split": "challenge", "method": "gpt", "selected_ids": ["B00TSL2UJ6", "B000RMFGGY", "B0013A0C0Y", "B07GBKSHJH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73219", "split": "challenge", "method": "jev", "selected_ids": ["B07JGCZ12G", "B00TSL2UJ6", "B07GBKSHJH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74400", "split": "challenge", "method": "gpt", "selected_ids": ["B07BN7KGJC", "B07BQ6DJ5K"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74400", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "74548", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "74548", "split": "challenge", "method": "jev", "selected_ids": ["B00E8NMY5O"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74705", "split": "challenge", "method": "gpt", "selected_ids": ["B000FFIUDO", "B00E5DPBO8", "B0057664B6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74705", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "75512", "split": "challenge", "method": "gpt", "selected_ids": ["B07D7M6YR4", "B01BTRKLK6", "B00TPLW2LA", "B07CSKL96J", "B075WGRC4Y"], "routing_action": "PASS_ALL"}
+{"query_id": "75512", "split": "challenge", "method": "jev", "selected_ids": ["B07D7M6YR4", "B01BTRKLK6", "B00TPLW2LA", "B07CSKL96J", "B075WGRC4Y"], "routing_action": "PASS_ALL"}
+{"query_id": "76116", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "76116", "split": "challenge", "method": "jev", "selected_ids": ["B0849MZ45Y", "B01MZHDHVM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "77123", "split": "challenge", "method": "gpt", "selected_ids": ["B088K1RWRS", "B07Y9BMV4B", "B08FBVQG1Q", "B08C771BVW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "77123", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "84713", "split": "challenge", "method": "gpt", "selected_ids": ["B071FK9TFC", "B0016ISNW2", "B07HDL2QCX"], "routing_action": "PASS_FILTERED"}
+{"query_id": "84713", "split": "challenge", "method": "jev", "selected_ids": ["B071FK9TFC", "B07S1CMZ34", "B07RZ93RW6", "B0016ISNW2", "B07HDL2QCX"], "routing_action": "PASS_ALL"}
+{"query_id": "84769", "split": "challenge", "method": "gpt", "selected_ids": ["B07V9YKCRN", "B0071I3OF2", "B0010K8IMG", "B07P684PVV", "B00BQ5RULU"], "routing_action": "PASS_ALL"}
+{"query_id": "84769", "split": "challenge", "method": "jev", "selected_ids": ["B07V9YKCRN", "B0071I3OF2", "B0010K8IMG", "B07P684PVV", "B00BQ5RULU"], "routing_action": "PASS_ALL"}
+{"query_id": "85193", "split": "challenge", "method": "gpt", "selected_ids": ["B01EJRVGV6", "B018KXWRRC", "B009DJCHK0", "B00T3IOX1M", "B073FLXHRZ"], "routing_action": "PASS_ALL"}
+{"query_id": "85193", "split": "challenge", "method": "jev", "selected_ids": ["B01EJRVGV6", "B018KXWRRC", "B009DJCHK0", "B00T3IOX1M", "B073FLXHRZ"], "routing_action": "PASS_ALL"}
+{"query_id": "86068", "split": "challenge", "method": "gpt", "selected_ids": ["B00R54XP9W"], "routing_action": "PASS_FILTERED"}
+{"query_id": "86068", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "87060", "split": "challenge", "method": "gpt", "selected_ids": ["B07W5L337G", "B07BQ14LDK", "B07RS2T8ZG", "B07DN99QHS", "B001CVGBUO"], "routing_action": "PASS_ALL"}
+{"query_id": "87060", "split": "challenge", "method": "jev", "selected_ids": ["B07W5L337G", "B07BQ14LDK", "B07RS2T8ZG", "B07DN99QHS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "88704", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "88704", "split": "challenge", "method": "jev", "selected_ids": ["B07NPMW62P", "B005ANEPPI", "B003PE1OLM", "B07XV9BS8H", "B00857GG5I"], "routing_action": "PASS_ALL"}
+{"query_id": "89132", "split": "challenge", "method": "gpt", "selected_ids": ["B01MSTD4G5", "B01MTUUT0I"], "routing_action": "PASS_FILTERED"}
+{"query_id": "89132", "split": "challenge", "method": "jev", "selected_ids": ["B01MSTD4G5", "B01MTUUT0I"], "routing_action": "PASS_FILTERED"}
+{"query_id": "89315", "split": "challenge", "method": "gpt", "selected_ids": ["B004ND9BMS", "B01M30LQB5", "B00383O2UU", "B00B2AU7QE", "B07DFPQCP5"], "routing_action": "PASS_ALL"}
+{"query_id": "89315", "split": "challenge", "method": "jev", "selected_ids": ["B004ND9BMS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "93094", "split": "challenge", "method": "gpt", "selected_ids": ["B00Q477Z5Q", "B0786TJC33"], "routing_action": "PASS_FILTERED"}
+{"query_id": "93094", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "93568", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "93568", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "9513", "split": "challenge", "method": "gpt", "selected_ids": ["B008M39S96"], "routing_action": "PASS_FILTERED"}
+{"query_id": "9513", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "95852", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "95852", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "96332", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "96332", "split": "challenge", "method": "jev", "selected_ids": ["B018JUPY3A"], "routing_action": "PASS_FILTERED"}
+{"query_id": "9647", "split": "challenge", "method": "gpt", "selected_ids": ["B082FVYL7R", "B0824MK32W", "B082Y46VLH", "B082PHPWGF", "B083LYLRF6"], "routing_action": "PASS_ALL"}
+{"query_id": "9647", "split": "challenge", "method": "jev", "selected_ids": ["B082FVYL7R"], "routing_action": "PASS_FILTERED"}
+{"query_id": "96535", "split": "challenge", "method": "gpt", "selected_ids": ["B09F2KJW5G", "B08SWG3WGF", "B091CQJX6W", "B081G69ZRC", "B07GZNGVTK"], "routing_action": "PASS_ALL"}
+{"query_id": "96535", "split": "challenge", "method": "jev", "selected_ids": ["B09F2KJW5G", "B08SWG3WGF", "B091CQJX6W", "B07GZNGVTK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "99016", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "99016", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "99182", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "99182", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "99254", "split": "challenge", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "99254", "split": "challenge", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "2035", "split": "development", "method": "gpt", "selected_ids": ["B08K35X8PV", "B014RVBIIA", "B005M7S0MG", "B00OCEI9VC", "B000UGRD6S"], "routing_action": "PASS_ALL"}
+{"query_id": "2035", "split": "development", "method": "jev", "selected_ids": ["B08K35X8PV", "B014RVBIIA", "B00OCEI9VC", "B000UGRD6S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "26942", "split": "development", "method": "gpt", "selected_ids": ["B086DLH472", "B088TLSZXY", "B087RJXTHW", "B0894V7BH1", "B085298THY"], "routing_action": "PASS_ALL"}
+{"query_id": "26942", "split": "development", "method": "jev", "selected_ids": ["B086DLH472", "B088TLSZXY", "B087RJXTHW", "B0894V7BH1", "B085298THY"], "routing_action": "PASS_ALL"}
+{"query_id": "34773", "split": "development", "method": "gpt", "selected_ids": ["B07D6TG41H", "B076L1998J"], "routing_action": "PASS_FILTERED"}
+{"query_id": "34773", "split": "development", "method": "jev", "selected_ids": ["B07D6TG41H", "B076L1998J"], "routing_action": "PASS_FILTERED"}
+{"query_id": "39622", "split": "development", "method": "gpt", "selected_ids": ["1620082004", "0896584712", "0760330743", "0879386282", "0760346062"], "routing_action": "PASS_ALL"}
+{"query_id": "39622", "split": "development", "method": "jev", "selected_ids": ["1620082004", "0896584712", "0760330743", "0879386282", "0760346062"], "routing_action": "PASS_ALL"}
+{"query_id": "53008", "split": "development", "method": "gpt", "selected_ids": ["B08JN6PXR4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "53008", "split": "development", "method": "jev", "selected_ids": ["B08JN6PXR4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56327", "split": "development", "method": "gpt", "selected_ids": ["1646119053", "B07D34CGFV", "0894714066", "1728792584", "1987514106"], "routing_action": "PASS_ALL"}
+{"query_id": "56327", "split": "development", "method": "jev", "selected_ids": ["1646119053", "B07D34CGFV", "0894714066", "1728792584", "1987514106"], "routing_action": "PASS_ALL"}
+{"query_id": "57749", "split": "development", "method": "gpt", "selected_ids": ["B01MUIVFTX", "B07PSVXGFQ", "B077JB2WS2", "B07X13G5RW", "B07SZ9TSQ1"], "routing_action": "PASS_ALL"}
+{"query_id": "57749", "split": "development", "method": "jev", "selected_ids": ["B01MUIVFTX", "B07PSVXGFQ", "B077JB2WS2", "B07X13G5RW", "B07SZ9TSQ1"], "routing_action": "PASS_ALL"}
+{"query_id": "87393", "split": "development", "method": "gpt", "selected_ids": ["B07L9JBVM8", "B077XRFHZ5", "B07HBRJ2VP", "B082XDVFFQ", "B00F968YPI"], "routing_action": "PASS_ALL"}
+{"query_id": "87393", "split": "development", "method": "jev", "selected_ids": ["B07L9JBVM8", "B077XRFHZ5", "B07HBRJ2VP", "B082XDVFFQ", "B00F968YPI"], "routing_action": "PASS_ALL"}
+{"query_id": "96746", "split": "development", "method": "gpt", "selected_ids": ["B07M7FWM8G", "B07N834N8G", "B07PMG1TW4", "B07MQ6ZR7L", "B07PPKCRNW"], "routing_action": "PASS_ALL"}
+{"query_id": "96746", "split": "development", "method": "jev", "selected_ids": ["B07M7FWM8G", "B07N834N8G", "B07PMG1TW4", "B07MQ6ZR7L", "B07PPKCRNW"], "routing_action": "PASS_ALL"}
+{"query_id": "98790", "split": "development", "method": "gpt", "selected_ids": ["B07Z5DK11J", "B06WGRLTCV", "B00DMPYWEK", "B017S3LX8O", "B0195POX8K"], "routing_action": "PASS_ALL"}
+{"query_id": "98790", "split": "development", "method": "jev", "selected_ids": ["B07Z5DK11J", "B06WGRLTCV", "B00DMPYWEK", "B017S3LX8O", "B0195POX8K"], "routing_action": "PASS_ALL"}
+{"query_id": "100304", "split": "test", "method": "gpt", "selected_ids": ["B07VDRF3DC", "B01N47GUHP", "B00FPQRLCO", "B07NCHM6K9", "B000E39T28"], "routing_action": "PASS_ALL"}
+{"query_id": "100304", "split": "test", "method": "jev", "selected_ids": ["B07VDRF3DC", "B01N47GUHP", "B00FPQRLCO", "B07NCHM6K9", "B000E39T28"], "routing_action": "PASS_ALL"}
+{"query_id": "100437", "split": "test", "method": "gpt", "selected_ids": ["B074T56JZ4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "100437", "split": "test", "method": "jev", "selected_ids": ["B075X416X8", "B074T56JZ4", "B085T6MMGG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10083", "split": "test", "method": "gpt", "selected_ids": ["B093WS5224", "B098QC4DN6", "B01EYZ248M"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10083", "split": "test", "method": "jev", "selected_ids": ["B093WS5224", "B098QC4DN6", "B01EYZ248M"], "routing_action": "PASS_FILTERED"}
+{"query_id": "101029", "split": "test", "method": "gpt", "selected_ids": ["B07JGSPFYY", "B07XMJ77QB", "B07VD6SFB6", "B07J2FYNYG", "B009OLLB7W"], "routing_action": "PASS_ALL"}
+{"query_id": "101029", "split": "test", "method": "jev", "selected_ids": ["B07JGSPFYY", "B07XMJ77QB", "B07VD6SFB6", "B07J2FYNYG", "B009OLLB7W"], "routing_action": "PASS_ALL"}
+{"query_id": "101248", "split": "test", "method": "gpt", "selected_ids": ["B07DV73325", "B075CS3CQN", "B07SZPQLBZ", "B082TWQGJK", "B0778SLMYG"], "routing_action": "PASS_ALL"}
+{"query_id": "101248", "split": "test", "method": "jev", "selected_ids": ["B07DV73325", "B075CS3CQN", "B07SZPQLBZ", "B082TWQGJK", "B0778SLMYG"], "routing_action": "PASS_ALL"}
+{"query_id": "101331", "split": "test", "method": "gpt", "selected_ids": ["B00VT6MOHG", "B00135XU7Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "101331", "split": "test", "method": "jev", "selected_ids": ["B00VT6MOHG", "B07FCHS282", "B00135XU7Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "101394", "split": "test", "method": "gpt", "selected_ids": ["B086VR1SYJ", "B07X2LRRQP", "B07J1YF39N", "B07J1LB1TW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "101394", "split": "test", "method": "jev", "selected_ids": ["B086VR1SYJ", "B07X2LRRQP", "B07J1YF39N", "B07J1LB1TW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "101413", "split": "test", "method": "gpt", "selected_ids": ["B07VC5XJ7Z", "B072L1MD62", "B07C92W64S", "B07JMSMM2P", "B07JC1FKNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "101413", "split": "test", "method": "jev", "selected_ids": ["B07VC5XJ7Z", "B072L1MD62", "B07C92W64S", "B07JMSMM2P", "B07JC1FKNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "101725", "split": "test", "method": "gpt", "selected_ids": ["B014JD89AQ", "B01MFCOA8O", "B01M3UWHY5", "B01M4O4XQ8", "B01MCYLXCL"], "routing_action": "PASS_ALL"}
+{"query_id": "101725", "split": "test", "method": "jev", "selected_ids": ["B014JD89AQ", "B01MFCOA8O", "B01M3UWHY5", "B01M4O4XQ8", "B01MCYLXCL"], "routing_action": "PASS_ALL"}
+{"query_id": "102369", "split": "test", "method": "gpt", "selected_ids": ["0812986679", "B079HQYSKP", "B08FXW8BDZ", "1934490989", "B09HLR5H73"], "routing_action": "PASS_ALL"}
+{"query_id": "102369", "split": "test", "method": "jev", "selected_ids": ["0812986679", "B079HQYSKP", "B08FXW8BDZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "103247", "split": "test", "method": "gpt", "selected_ids": ["B00IRU6NKG", "B07CKHLVXW", "B01M4IZE7O", "B073R9YFM7", "B07CKLPHYL"], "routing_action": "PASS_ALL"}
+{"query_id": "103247", "split": "test", "method": "jev", "selected_ids": ["B00IRU6NKG", "B073R9YFM7", "B07CKLPHYL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "103608", "split": "test", "method": "gpt", "selected_ids": ["B0777NRBXH", "B07D2BXZFG", "B07Y7M9SBL", "B07GSHHJ6K", "B0796BS3GP"], "routing_action": "PASS_ALL"}
+{"query_id": "103608", "split": "test", "method": "jev", "selected_ids": ["B0777NRBXH", "B07D2BXZFG", "B07Y7M9SBL", "B07GSHHJ6K", "B0796BS3GP"], "routing_action": "PASS_ALL"}
+{"query_id": "103615", "split": "test", "method": "gpt", "selected_ids": ["B076VPZLM4", "B01MQ0QKR4", "B01LBLDN8C", "B07JHYPFZ5", "B07FLGMQJV"], "routing_action": "PASS_ALL"}
+{"query_id": "103615", "split": "test", "method": "jev", "selected_ids": ["B076VPZLM4", "B01MQ0QKR4", "B01LBLDN8C", "B07FLGMQJV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "103801", "split": "test", "method": "gpt", "selected_ids": ["B00502C1BO", "B013VJW9H8", "B01N9MX5SP", "B07D7RCMHT", "B07DFPT3Q3"], "routing_action": "PASS_ALL"}
+{"query_id": "103801", "split": "test", "method": "jev", "selected_ids": ["B00502C1BO", "B013VJW9H8", "B01N9MX5SP", "B07D7RCMHT", "B07DFPT3Q3"], "routing_action": "PASS_ALL"}
+{"query_id": "103816", "split": "test", "method": "gpt", "selected_ids": ["B085SVVM54", "B07QLQZ7FT", "B01F78SFD8", "B019ENL2MI", "B073WMRBTD"], "routing_action": "PASS_ALL"}
+{"query_id": "103816", "split": "test", "method": "jev", "selected_ids": ["B085SVVM54", "B07QLQZ7FT", "B01F78SFD8", "B019ENL2MI", "B073WMRBTD"], "routing_action": "PASS_ALL"}
+{"query_id": "104235", "split": "test", "method": "gpt", "selected_ids": ["B07P6F6T3J", "B07PXMRXT9", "B07Q75BLP4", "B07QH1THJX", "B07J58R1W6"], "routing_action": "PASS_ALL"}
+{"query_id": "104235", "split": "test", "method": "jev", "selected_ids": ["B07P6F6T3J", "B07PXMRXT9", "B07Q75BLP4", "B07QH1THJX", "B07J58R1W6"], "routing_action": "PASS_ALL"}
+{"query_id": "104401", "split": "test", "method": "gpt", "selected_ids": ["B07V8G2M51", "B07XT74ZH5", "B010GGF5AM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "104401", "split": "test", "method": "jev", "selected_ids": ["B07V8G2M51", "B07XT74ZH5", "B010GGF5AM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "104470", "split": "test", "method": "gpt", "selected_ids": ["B082KF3C64", "B00X17SL4Q", "B07W8ZKGN3", "B00GQP0XTQ", "B01N1UETP6"], "routing_action": "PASS_ALL"}
+{"query_id": "104470", "split": "test", "method": "jev", "selected_ids": ["B082KF3C64", "B00X17SL4Q", "B07W8ZKGN3", "B00GQP0XTQ", "B01N1UETP6"], "routing_action": "PASS_ALL"}
+{"query_id": "104729", "split": "test", "method": "gpt", "selected_ids": ["B000A7KJK4", "1260440699", "0470040947", "1118443926", "0071544194"], "routing_action": "PASS_ALL"}
+{"query_id": "104729", "split": "test", "method": "jev", "selected_ids": ["B000A7KJK4", "1260440699", "0470040947", "1118443926", "0071544194"], "routing_action": "PASS_ALL"}
+{"query_id": "104730", "split": "test", "method": "gpt", "selected_ids": ["B0768ZZJ1V", "B0868PPVHT", "B01N0YJUJC", "B0876FYNXL", "B016TTJD0I"], "routing_action": "PASS_ALL"}
+{"query_id": "104730", "split": "test", "method": "jev", "selected_ids": ["B0768ZZJ1V", "B0868PPVHT", "B01N0YJUJC", "B0876FYNXL", "B016TTJD0I"], "routing_action": "PASS_ALL"}
+{"query_id": "104766", "split": "test", "method": "gpt", "selected_ids": ["B00JF5HR7K", "B00JF5LRN0", "B004QEKG8C", "B07XP7L9YV", "B07R6QD5PV"], "routing_action": "PASS_ALL"}
+{"query_id": "104766", "split": "test", "method": "jev", "selected_ids": ["B00JF5HR7K", "B00JF5LRN0", "B004QEKG8C", "B07XP7L9YV", "B07R6QD5PV"], "routing_action": "PASS_ALL"}
+{"query_id": "104886", "split": "test", "method": "gpt", "selected_ids": ["B07R84CWDZ", "B074QXTZ35", "B07QGX9MMN", "B0756D5JKL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "104886", "split": "test", "method": "jev", "selected_ids": ["B07R84CWDZ", "B074QXTZ35", "B07QGX9MMN", "B0756D5JKL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "105138", "split": "test", "method": "gpt", "selected_ids": ["B07N139NPJ", "B07RWFFLYJ", "B015N7Z4XC", "B07QWF5464", "B07B9R4M4T"], "routing_action": "PASS_ALL"}
+{"query_id": "105138", "split": "test", "method": "jev", "selected_ids": ["B07N139NPJ", "B07RWFFLYJ", "B015N7Z4XC", "B07B9R4M4T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "105205", "split": "test", "method": "gpt", "selected_ids": ["B00TBJSR1A", "B09HL59HVT", "B01AM5FAHK", "B06Y1C1JLM", "B06Y1V419P"], "routing_action": "PASS_ALL"}
+{"query_id": "105205", "split": "test", "method": "jev", "selected_ids": ["B00TBJSR1A", "B09HL59HVT", "B01AM5FAHK", "B06Y1C1JLM", "B06Y1V419P"], "routing_action": "PASS_ALL"}
+{"query_id": "105822", "split": "test", "method": "gpt", "selected_ids": ["B07BXDF4Q9"], "routing_action": "PASS_FILTERED"}
+{"query_id": "105822", "split": "test", "method": "jev", "selected_ids": ["B07CR66HXG", "B07SBVM874", "B07BXDF4Q9"], "routing_action": "PASS_FILTERED"}
+{"query_id": "106146", "split": "test", "method": "gpt", "selected_ids": ["B085FZ2CPC", "B074QKM44H", "B07RQ6TPSL", "B07TS3Y1SL", "B07MYZPR8Z"], "routing_action": "PASS_ALL"}
+{"query_id": "106146", "split": "test", "method": "jev", "selected_ids": ["B085FZ2CPC", "B074QKM44H", "B07RQ6TPSL", "B07TS3Y1SL", "B07MYZPR8Z"], "routing_action": "PASS_ALL"}
+{"query_id": "10621", "split": "test", "method": "gpt", "selected_ids": ["B07X1GZ4QJ", "B07ZCH3FTG", "B08545ZP81", "B0825Q86WM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10621", "split": "test", "method": "jev", "selected_ids": ["B07X1GZ4QJ", "B07ZCH3FTG", "B08545ZP81", "B0825Q86WM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "106507", "split": "test", "method": "gpt", "selected_ids": ["B002LTIZVO"], "routing_action": "PASS_FILTERED"}
+{"query_id": "106507", "split": "test", "method": "jev", "selected_ids": ["B002LTIZVO"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10651", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "10651", "split": "test", "method": "jev", "selected_ids": ["1940352649", "1945256044", "1936493969", "1945256060", "1936493578"], "routing_action": "PASS_ALL"}
+{"query_id": "106520", "split": "test", "method": "gpt", "selected_ids": ["B083FSGL1D", "B016UZ7FNS", "B016UZ7AZ6", "B016UZ71MI", "B07F7YC3CT"], "routing_action": "PASS_ALL"}
+{"query_id": "106520", "split": "test", "method": "jev", "selected_ids": ["B083FSGL1D", "B016UZ7FNS", "B016UZ7AZ6", "B016UZ71MI", "B07F7YC3CT"], "routing_action": "PASS_ALL"}
+{"query_id": "106654", "split": "test", "method": "gpt", "selected_ids": ["B07CZDXQV5", "B07WG95QBZ", "B07CZJ9VCZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "106654", "split": "test", "method": "jev", "selected_ids": ["B07CZDXQV5", "B07WG95QBZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "106715", "split": "test", "method": "gpt", "selected_ids": ["B07PPH6B1K", "B0852Z7RPK", "B07GC4SRFK", "B07VQSX7LV", "B08L6683VR"], "routing_action": "PASS_ALL"}
+{"query_id": "106715", "split": "test", "method": "jev", "selected_ids": ["B07PPH6B1K", "B0852Z7RPK", "B07GC4SRFK", "B07VQSX7LV", "B08L6683VR"], "routing_action": "PASS_ALL"}
+{"query_id": "107071", "split": "test", "method": "gpt", "selected_ids": ["B07B8WH9PJ", "B07QTV62RV", "B07R9FX1DX", "B07MZBRFGZ", "B07MZGCCQ1"], "routing_action": "PASS_ALL"}
+{"query_id": "107071", "split": "test", "method": "jev", "selected_ids": ["B07B8WH9PJ", "B07QTV62RV", "B07R9FX1DX", "B07MZBRFGZ", "B07MZGCCQ1"], "routing_action": "PASS_ALL"}
+{"query_id": "107437", "split": "test", "method": "gpt", "selected_ids": ["B0786Y4R35", "B07LF1FNRV", "B07Z75HBR2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "107437", "split": "test", "method": "jev", "selected_ids": ["B0786Y4R35", "B07LF1FNRV", "B07Z75HBR2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10753", "split": "test", "method": "gpt", "selected_ids": ["0873899199", "0930011015", "B083PTF15G", "B086PV25HW", "1545079188"], "routing_action": "PASS_ALL"}
+{"query_id": "10753", "split": "test", "method": "jev", "selected_ids": ["0873899199", "0930011015", "B083PTF15G", "B086PV25HW", "1545079188"], "routing_action": "PASS_ALL"}
+{"query_id": "107750", "split": "test", "method": "gpt", "selected_ids": ["B07W3XZ5DL", "B07W3JQ44L", "B07W15TD2S", "B07VVSTXFM", "B07VVS8DFD"], "routing_action": "PASS_ALL"}
+{"query_id": "107750", "split": "test", "method": "jev", "selected_ids": ["B07W3XZ5DL", "B07W3JQ44L", "B07W15TD2S", "B07VVSTXFM", "B07VVS8DFD"], "routing_action": "PASS_ALL"}
+{"query_id": "107789", "split": "test", "method": "gpt", "selected_ids": ["B071L2G75X", "B07GWJ4PG8", "B01N7KFLES", "B0782YZVTK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "107789", "split": "test", "method": "jev", "selected_ids": ["B071L2G75X", "B07GWJ4PG8", "B01N7KFLES", "B0782YZVTK", "B01N1PWONP"], "routing_action": "PASS_ALL"}
+{"query_id": "107851", "split": "test", "method": "gpt", "selected_ids": ["B07Z63MTHV", "B08BFX666L", "B01M59PN2K", "B012J2MVKS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "107851", "split": "test", "method": "jev", "selected_ids": ["B0968DVS4R", "B07Z63MTHV", "B08BFX666L", "B01M59PN2K", "B012J2MVKS"], "routing_action": "PASS_ALL"}
+{"query_id": "108042", "split": "test", "method": "gpt", "selected_ids": ["B0792P86RW", "B08B8Z2BFL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "108042", "split": "test", "method": "jev", "selected_ids": ["B0792P86RW", "B08B8Z2BFL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10864", "split": "test", "method": "gpt", "selected_ids": ["B075RHSR4H", "B07TNM8L6S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10864", "split": "test", "method": "jev", "selected_ids": ["B075RHSR4H", "B07TNM8L6S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "108645", "split": "test", "method": "gpt", "selected_ids": ["0603578632", "9123898275", "9123898267", "B00FVZ6MIS", "1405284846"], "routing_action": "PASS_ALL"}
+{"query_id": "108645", "split": "test", "method": "jev", "selected_ids": ["0603578632", "9123898275", "9123898267", "1405284846"], "routing_action": "PASS_FILTERED"}
+{"query_id": "108728", "split": "test", "method": "gpt", "selected_ids": ["B005CR1J74", "B002AQWLL8", "B002HUFC5E", "B001JFDH8C", "B007BV9UAM"], "routing_action": "PASS_ALL"}
+{"query_id": "108728", "split": "test", "method": "jev", "selected_ids": ["B005CR1J74", "B002AQWLL8", "B002HUFC5E", "B001JFDH8C", "B007BV9UAM"], "routing_action": "PASS_ALL"}
+{"query_id": "108747", "split": "test", "method": "gpt", "selected_ids": ["B07ZM7X2ZY", "B07CX4Z4X1", "B0744FKH7D", "B07W132XLB", "B00ATLCE22"], "routing_action": "PASS_ALL"}
+{"query_id": "108747", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "10883", "split": "test", "method": "gpt", "selected_ids": ["B07SZ1J9TG", "B07TVR4X3G", "B07Z7Q27F1", "B07SDFFRJJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10883", "split": "test", "method": "jev", "selected_ids": ["B07SZ1J9TG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "108995", "split": "test", "method": "gpt", "selected_ids": ["B079DLWWBP", "B079RSX3LV", "B08149SSJC", "B07BR669HJ", "B078JM7CGZ"], "routing_action": "PASS_ALL"}
+{"query_id": "108995", "split": "test", "method": "jev", "selected_ids": ["B079DLWWBP", "B079RSX3LV", "B08149SSJC", "B07BR669HJ", "B078JM7CGZ"], "routing_action": "PASS_ALL"}
+{"query_id": "109307", "split": "test", "method": "gpt", "selected_ids": ["B07CG6169S", "B07DVQ399X", "B01GFPS0UK", "B00O4Q6QHW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "109307", "split": "test", "method": "jev", "selected_ids": ["B07CG6169S", "B07DVQ399X", "B01GFPS0UK", "B00O4Q6QHW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "109464", "split": "test", "method": "gpt", "selected_ids": ["B081CTRQV3", "B06XPNFKJ2", "B01M0PQL6U", "B007MPF1E6", "B07S2PY9RB"], "routing_action": "PASS_ALL"}
+{"query_id": "109464", "split": "test", "method": "jev", "selected_ids": ["B081CTRQV3", "B06XPNFKJ2", "B01M0PQL6U", "B007MPF1E6", "B07S2PY9RB"], "routing_action": "PASS_ALL"}
+{"query_id": "109470", "split": "test", "method": "gpt", "selected_ids": ["B07MCZN6J8", "B0033AHK4I", "B00JXLHZ96", "B07KNX2LWL", "B07MZJ9ZWR"], "routing_action": "PASS_ALL"}
+{"query_id": "109470", "split": "test", "method": "jev", "selected_ids": ["B07MCZN6J8", "B0033AHK4I", "B00JXLHZ96", "B07KNX2LWL", "B07MZJ9ZWR"], "routing_action": "PASS_ALL"}
+{"query_id": "109507", "split": "test", "method": "gpt", "selected_ids": ["B07H7X1F3Z", "B07T9DTJCG", "B07YD4KHZ4", "B07V3CGJLN", "B07M84KDRV"], "routing_action": "PASS_ALL"}
+{"query_id": "109507", "split": "test", "method": "jev", "selected_ids": ["B07H7X1F3Z", "B07T9DTJCG", "B07YD4KHZ4", "B07V3CGJLN", "B07M84KDRV"], "routing_action": "PASS_ALL"}
+{"query_id": "109549", "split": "test", "method": "gpt", "selected_ids": ["B07CCGBB7M", "B07BRT1QW1", "B078B1H6W9", "B0009HKEXM", "B079H4SY2K"], "routing_action": "PASS_ALL"}
+{"query_id": "109549", "split": "test", "method": "jev", "selected_ids": ["B07CCGBB7M", "B07BRT1QW1", "B078B1H6W9", "B079H4SY2K"], "routing_action": "PASS_FILTERED"}
+{"query_id": "109634", "split": "test", "method": "gpt", "selected_ids": ["B07319DM9Q", "B07D1NRSVZ", "B07N9BYLX2", "B0773T8T27", "B01FL46EHW"], "routing_action": "PASS_ALL"}
+{"query_id": "109634", "split": "test", "method": "jev", "selected_ids": ["B07319DM9Q", "B07D1NRSVZ", "B07N9BYLX2", "B0773T8T27", "B01FL46EHW"], "routing_action": "PASS_ALL"}
+{"query_id": "10981", "split": "test", "method": "gpt", "selected_ids": ["B00TU7TIVG", "B0009U5OSO", "B00170EB1Q", "B07N4QM85K"], "routing_action": "PASS_FILTERED"}
+{"query_id": "10981", "split": "test", "method": "jev", "selected_ids": ["B00TU7TIVG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110075", "split": "test", "method": "gpt", "selected_ids": ["B07QQ39F7J", "B07TTXQTPQ", "B07LC2YVGM", "B01LX7Y575", "B07NPT2S4Y"], "routing_action": "PASS_ALL"}
+{"query_id": "110075", "split": "test", "method": "jev", "selected_ids": ["B07QQ39F7J", "B07TTXQTPQ", "B07LC2YVGM", "B01LX7Y575", "B07NPT2S4Y"], "routing_action": "PASS_ALL"}
+{"query_id": "110081", "split": "test", "method": "gpt", "selected_ids": ["B081NXHQQZ", "B012Y5MHWC", "B009Z0DSUK", "B009Z0GV6S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110081", "split": "test", "method": "jev", "selected_ids": ["B081NXHQQZ", "B012Y5MHWC", "B009Z0DSUK", "B009Z0GV6S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110158", "split": "test", "method": "gpt", "selected_ids": ["B07GTJQSVJ", "B07XK1NWSP", "B07WZQZTMK", "B07L28W1ZH", "B07ZYQVXNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "110158", "split": "test", "method": "jev", "selected_ids": ["B07GTJQSVJ", "B07XK1NWSP", "B07WZQZTMK", "B07L28W1ZH", "B07ZYQVXNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "110687", "split": "test", "method": "gpt", "selected_ids": ["B008F8VXV4", "B07H45KKSW", "B00J48SXJY", "B07F513SLF"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110687", "split": "test", "method": "jev", "selected_ids": ["B008F8VXV4", "B07H45KKSW", "B00J48SXJY", "B07F513SLF"], "routing_action": "PASS_FILTERED"}
+{"query_id": "110719", "split": "test", "method": "gpt", "selected_ids": ["177167251X", "014240120X", "1561374652", "0881220965", "1480785180"], "routing_action": "PASS_ALL"}
+{"query_id": "110719", "split": "test", "method": "jev", "selected_ids": ["014240120X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11074", "split": "test", "method": "gpt", "selected_ids": ["B06WVJ7V8H", "B08BQ7SBXZ", "B084GYN3LY", "B07KKP62FW", "B00518Z5DS"], "routing_action": "PASS_ALL"}
+{"query_id": "11074", "split": "test", "method": "jev", "selected_ids": ["B06WVJ7V8H", "B08BQ7SBXZ", "B084GYN3LY", "B07KKP62FW", "B00518Z5DS"], "routing_action": "PASS_ALL"}
+{"query_id": "110941", "split": "test", "method": "gpt", "selected_ids": ["B07G358JVV", "B07T7GV72V", "B07WGQ15H2", "B01LFR00S8", "B07SFGW7SJ"], "routing_action": "PASS_ALL"}
+{"query_id": "110941", "split": "test", "method": "jev", "selected_ids": ["B07G358JVV", "B07T7GV72V", "B07WGQ15H2", "B01LFR00S8", "B07SFGW7SJ"], "routing_action": "PASS_ALL"}
+{"query_id": "111001", "split": "test", "method": "gpt", "selected_ids": ["B07SSWLWH2", "B07PBVSNGL", "B07JQC3Z7Y", "B07PSN5VPN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111001", "split": "test", "method": "jev", "selected_ids": ["B08238J9LY", "B07SSWLWH2", "B07PBVSNGL", "B07JQC3Z7Y", "B07PSN5VPN"], "routing_action": "PASS_ALL"}
+{"query_id": "111057", "split": "test", "method": "gpt", "selected_ids": ["B075259YYJ", "B07F6FRWTB", "B01N3VVAES", "B0752F6NRV", "B01M1H3Z2U"], "routing_action": "PASS_ALL"}
+{"query_id": "111057", "split": "test", "method": "jev", "selected_ids": ["B075259YYJ", "B07F6FRWTB", "B01N3VVAES", "B0752F6NRV", "B01M1H3Z2U"], "routing_action": "PASS_ALL"}
+{"query_id": "111093", "split": "test", "method": "gpt", "selected_ids": ["B07GFST448", "1708968237", "B0754Y9GNH", "1075434408"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111093", "split": "test", "method": "jev", "selected_ids": ["1075434408"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111109", "split": "test", "method": "gpt", "selected_ids": ["B07DLZB9TR", "B07T15DJMY"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111109", "split": "test", "method": "jev", "selected_ids": ["B07F1VVXW6", "B07DLZB9TR", "B07T15DJMY", "B0842BZTLP"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111122", "split": "test", "method": "gpt", "selected_ids": ["B07GTDWG63", "B075ZSNLJK", "B07W4TVN4D", "B07FY8KFJZ", "B07D9WJT2B"], "routing_action": "PASS_ALL"}
+{"query_id": "111122", "split": "test", "method": "jev", "selected_ids": ["B07GTDWG63", "B075ZSNLJK", "B07W4TVN4D", "B07FY8KFJZ", "B07D9WJT2B"], "routing_action": "PASS_ALL"}
+{"query_id": "11124", "split": "test", "method": "gpt", "selected_ids": ["B0765LFNM7", "B0765JNS2D", "B0752V8D8D"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11124", "split": "test", "method": "jev", "selected_ids": ["B0765LFNM7", "B0765JNS2D", "B0752V8D8D"], "routing_action": "PASS_FILTERED"}
+{"query_id": "111273", "split": "test", "method": "gpt", "selected_ids": ["B07QJYY3PD", "B07PT6YRDP", "B07PS8G1NM", "B07S22L548", "B07QYQSG34"], "routing_action": "PASS_ALL"}
+{"query_id": "111273", "split": "test", "method": "jev", "selected_ids": ["B07QJYY3PD", "B07PT6YRDP", "B07PS8G1NM", "B07S22L548", "B07QYQSG34"], "routing_action": "PASS_ALL"}
+{"query_id": "111382", "split": "test", "method": "gpt", "selected_ids": ["B07L58JKPR", "B07K21J675", "B07Y45CCR2", "B07JG8VY9S", "B07SX78QJG"], "routing_action": "PASS_ALL"}
+{"query_id": "111382", "split": "test", "method": "jev", "selected_ids": ["B07L58JKPR", "B07K21J675", "B07Y45CCR2", "B07JG8VY9S", "B07SX78QJG"], "routing_action": "PASS_ALL"}
+{"query_id": "111849", "split": "test", "method": "gpt", "selected_ids": ["B06XCWFTR4", "B00RDVD56U", "B00XHXU7PU", "B07N1DQMK1", "B07SNQ5Z67"], "routing_action": "PASS_ALL"}
+{"query_id": "111849", "split": "test", "method": "jev", "selected_ids": ["B06XCWFTR4", "B00RDVD56U", "B00XHXU7PU", "B07N1DQMK1", "B07SNQ5Z67"], "routing_action": "PASS_ALL"}
+{"query_id": "111894", "split": "test", "method": "gpt", "selected_ids": ["B07H4CBZD5", "B07VGQP894", "B01FO79GFI", "B01I31UNCM", "B019BK4H8A"], "routing_action": "PASS_ALL"}
+{"query_id": "111894", "split": "test", "method": "jev", "selected_ids": ["B07H4CBZD5", "B07VGQP894", "B01FO79GFI", "B01I31UNCM", "B019BK4H8A"], "routing_action": "PASS_ALL"}
+{"query_id": "112025", "split": "test", "method": "gpt", "selected_ids": ["B07JJ94FGG", "B07ZRDF1C7", "B07XFB3V1Q", "B07JG7SK1D", "B07K6LVTPB"], "routing_action": "PASS_ALL"}
+{"query_id": "112025", "split": "test", "method": "jev", "selected_ids": ["B07JJ94FGG", "B07ZRDF1C7", "B07XFB3V1Q", "B07JG7SK1D", "B07K6LVTPB"], "routing_action": "PASS_ALL"}
+{"query_id": "112408", "split": "test", "method": "gpt", "selected_ids": ["B07VKDQ6VV", "B07RLDJ62B", "B07Q3RMHXJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "112408", "split": "test", "method": "jev", "selected_ids": ["B07RLDJ62B"], "routing_action": "PASS_FILTERED"}
+{"query_id": "112418", "split": "test", "method": "gpt", "selected_ids": ["B0877XGDXF", "B089WLH94X", "B07JLWVG4Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "112418", "split": "test", "method": "jev", "selected_ids": ["B0877XGDXF", "B089WLH94X", "B07JLWVG4Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "112464", "split": "test", "method": "gpt", "selected_ids": ["B07S357ZQ2", "B07FZ6XTD6", "B074JYSN27", "B07YLJF2TD", "B07QZWN3W4"], "routing_action": "PASS_ALL"}
+{"query_id": "112464", "split": "test", "method": "jev", "selected_ids": ["B07S357ZQ2", "B07FZ6XTD6", "B074JYSN27", "B07YLJF2TD", "B07QZWN3W4"], "routing_action": "PASS_ALL"}
+{"query_id": "1125", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "1125", "split": "test", "method": "jev", "selected_ids": ["B08C4YY69X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "112740", "split": "test", "method": "gpt", "selected_ids": ["B07QD2P9TM", "B074G2SDXG", "B01607TLF6", "B07P3H3FVP", "B07QZSBTNR"], "routing_action": "PASS_ALL"}
+{"query_id": "112740", "split": "test", "method": "jev", "selected_ids": ["B07QD2P9TM", "B074G2SDXG", "B01607TLF6", "B07P3H3FVP", "B07QZSBTNR"], "routing_action": "PASS_ALL"}
+{"query_id": "112884", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "112884", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "112934", "split": "test", "method": "gpt", "selected_ids": ["B07TZN286N", "B072FK63LP", "B01MT02O76", "B00402DQXW", "B078VWS71L"], "routing_action": "PASS_ALL"}
+{"query_id": "112934", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "113217", "split": "test", "method": "gpt", "selected_ids": ["B07GXDQDNZ", "B082DH5N64", "B07GWJC2RL", "B07ZTCFC27", "B07ZTB4CF6"], "routing_action": "PASS_ALL"}
+{"query_id": "113217", "split": "test", "method": "jev", "selected_ids": ["B07GXDQDNZ", "B082DH5N64", "B07GWJC2RL", "B07ZTCFC27", "B07ZTB4CF6"], "routing_action": "PASS_ALL"}
+{"query_id": "113273", "split": "test", "method": "gpt", "selected_ids": ["B07BFBSWYR", "B01N3S7WNL", "B01N3KSOJB", "B07RWYSL9P", "B06XVYN58L"], "routing_action": "PASS_ALL"}
+{"query_id": "113273", "split": "test", "method": "jev", "selected_ids": ["B07BFBSWYR", "B01N3S7WNL", "B01N3KSOJB", "B07RWYSL9P", "B06XVYN58L"], "routing_action": "PASS_ALL"}
+{"query_id": "11328", "split": "test", "method": "gpt", "selected_ids": ["B07P37K3VG", "B01MZCKUZR", "B07S2YXFHP", "B01FHCQIU6", "B00TSSOH4A"], "routing_action": "PASS_ALL"}
+{"query_id": "11328", "split": "test", "method": "jev", "selected_ids": ["B07P37K3VG", "B01MZCKUZR", "B07S2YXFHP", "B01FHCQIU6", "B00TSSOH4A"], "routing_action": "PASS_ALL"}
+{"query_id": "113329", "split": "test", "method": "gpt", "selected_ids": ["B083HZ93BJ", "B00KRYLGEI", "B07YLDSNHZ", "B07FFR6MQQ", "B07MMSWPRK"], "routing_action": "PASS_ALL"}
+{"query_id": "113329", "split": "test", "method": "jev", "selected_ids": ["B083HZ93BJ", "B00KRYLGEI", "B07YLDSNHZ", "B07FFR6MQQ", "B07MMSWPRK"], "routing_action": "PASS_ALL"}
+{"query_id": "113331", "split": "test", "method": "gpt", "selected_ids": ["B07R444YK6", "B078XHHYYJ", "B07Y62LBS1", "B079RML89M", "B01AIHYCVW"], "routing_action": "PASS_ALL"}
+{"query_id": "113331", "split": "test", "method": "jev", "selected_ids": ["B07R444YK6", "B078XHHYYJ", "B07Y62LBS1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "113745", "split": "test", "method": "gpt", "selected_ids": ["B07R4X17M9", "B07DPB59M8", "B076CGJ77R", "B07KVY84ML", "B07QVDQQVS"], "routing_action": "PASS_ALL"}
+{"query_id": "113745", "split": "test", "method": "jev", "selected_ids": ["B07R4X17M9", "B07DPB59M8", "B076CGJ77R", "B07KVY84ML", "B07QVDQQVS"], "routing_action": "PASS_ALL"}
+{"query_id": "114020", "split": "test", "method": "gpt", "selected_ids": ["B07RFC8514", "B0852KXLBC", "B07TDX2LV5", "B07DXH3CSG", "B07XB5DZQW"], "routing_action": "PASS_ALL"}
+{"query_id": "114020", "split": "test", "method": "jev", "selected_ids": ["B07RFC8514", "B0852KXLBC", "B07TDX2LV5", "B07DXH3CSG", "B07XB5DZQW"], "routing_action": "PASS_ALL"}
+{"query_id": "114508", "split": "test", "method": "gpt", "selected_ids": ["B07GSGMYNF", "B0882YP8BJ", "B08545LQG4", "B081D63XSS", "B07XWS2ZJ5"], "routing_action": "PASS_ALL"}
+{"query_id": "114508", "split": "test", "method": "jev", "selected_ids": ["B07GSGMYNF", "B0882YP8BJ", "B08545LQG4", "B081D63XSS", "B07XWS2ZJ5"], "routing_action": "PASS_ALL"}
+{"query_id": "11457", "split": "test", "method": "gpt", "selected_ids": ["B07Q1DVG7S", "B07TLQ52Q6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11457", "split": "test", "method": "jev", "selected_ids": ["B07Q1DVG7S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "114913", "split": "test", "method": "gpt", "selected_ids": ["B07R44LKFP", "B07V7DNWXP", "B081NBQJ6S", "B00ED8WGKM", "B074PQV4R9"], "routing_action": "PASS_ALL"}
+{"query_id": "114913", "split": "test", "method": "jev", "selected_ids": ["B07R44LKFP", "B07V7DNWXP", "B081NBQJ6S", "B00ED8WGKM", "B074PQV4R9"], "routing_action": "PASS_ALL"}
+{"query_id": "11507", "split": "test", "method": "gpt", "selected_ids": ["B092KCHQ35", "B093CM68DP", "B08Y72RZJ4", "B08Y73SD2X", "B091LF4B9K"], "routing_action": "PASS_ALL"}
+{"query_id": "11507", "split": "test", "method": "jev", "selected_ids": ["B092KCHQ35", "B093CM68DP", "B08Y72RZJ4", "B08Y73SD2X", "B091LF4B9K"], "routing_action": "PASS_ALL"}
+{"query_id": "115528", "split": "test", "method": "gpt", "selected_ids": ["B083SSYYNP", "B06XDDTC3Q", "B01LYRIV7Y", "B07R92NS7N"], "routing_action": "PASS_FILTERED"}
+{"query_id": "115528", "split": "test", "method": "jev", "selected_ids": ["B083SSYYNP", "B06XDDTC3Q", "B01LYRIV7Y", "B07R92NS7N"], "routing_action": "PASS_FILTERED"}
+{"query_id": "115890", "split": "test", "method": "gpt", "selected_ids": ["B07C1J4BWD", "B07KFBRH8Y", "B081V8ZS4Y", "B07PW67DXC", "B07RN6CG6X"], "routing_action": "PASS_ALL"}
+{"query_id": "115890", "split": "test", "method": "jev", "selected_ids": ["B07C1J4BWD", "B07KFBRH8Y", "B081V8ZS4Y", "B07PW67DXC", "B07RN6CG6X"], "routing_action": "PASS_ALL"}
+{"query_id": "11615", "split": "test", "method": "gpt", "selected_ids": ["B07GG7NCW1", "B01F9FPZ46", "B07H8P7BXX", "B01HGD8T9M", "B01HGD8R5S"], "routing_action": "PASS_ALL"}
+{"query_id": "11615", "split": "test", "method": "jev", "selected_ids": ["B07GG7NCW1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "1162", "split": "test", "method": "gpt", "selected_ids": ["B082PGFK7Y", "B08R86GWTR", "B08R5T3WY7", "B08QF6GC3C", "B08LH66HZL"], "routing_action": "PASS_ALL"}
+{"query_id": "1162", "split": "test", "method": "jev", "selected_ids": ["B082PGFK7Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11621", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "11621", "split": "test", "method": "jev", "selected_ids": ["B06XDLCBHR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11718", "split": "test", "method": "gpt", "selected_ids": ["B07VWCK246", "B07Z9RXCTR", "B01N16P9MP", "B07VYFMVJQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11718", "split": "test", "method": "jev", "selected_ids": ["B07VWCK246", "B07Z9RXCTR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11725", "split": "test", "method": "gpt", "selected_ids": ["B07L5185YN", "B0848SRVNF", "B07L51NW2V", "B07D1GC6N9"], "routing_action": "PASS_FILTERED"}
+{"query_id": "11725", "split": "test", "method": "jev", "selected_ids": ["B07L5185YN", "B0848SRVNF", "B07Y7M7CSW", "B07L51NW2V", "B07D1GC6N9"], "routing_action": "PASS_ALL"}
+{"query_id": "12571", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "12571", "split": "test", "method": "jev", "selected_ids": ["B07RKNKGTF", "B07VQFNLQJ", "B01LXK8FAM", "B078SL5RPM", "B06XPN6TLJ"], "routing_action": "PASS_ALL"}
+{"query_id": "12578", "split": "test", "method": "gpt", "selected_ids": ["B07F232C3X", "B000OQSS6S", "B00GBSCROC", "B073W55TYJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "12578", "split": "test", "method": "jev", "selected_ids": ["B07F232C3X", "B000OQSS6S", "B00GBSCROC", "B073W55TYJ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "12813", "split": "test", "method": "gpt", "selected_ids": ["B076J5CDPS", "B01LXPL6KE"], "routing_action": "PASS_FILTERED"}
+{"query_id": "12813", "split": "test", "method": "jev", "selected_ids": ["B076J5CDPS", "B01LXPL6KE", "B07QW5X61X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "12884", "split": "test", "method": "gpt", "selected_ids": ["B07Q22DKF1", "B07BSFX95R", "B07VCLN83W", "B07N8NS2BK", "B001T9MY0A"], "routing_action": "PASS_ALL"}
+{"query_id": "12884", "split": "test", "method": "jev", "selected_ids": ["B07Q22DKF1", "B07BSFX95R", "B07VCLN83W", "B07N8NS2BK", "B001T9MY0A"], "routing_action": "PASS_ALL"}
+{"query_id": "1293", "split": "test", "method": "gpt", "selected_ids": ["B07HHXV5QB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "1293", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "1304", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "1304", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "13411", "split": "test", "method": "gpt", "selected_ids": ["B078XV3RK2", "B00U11ES8I", "B07FLJT72Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "13411", "split": "test", "method": "jev", "selected_ids": ["B078XV3RK2", "B00U11ES8I", "B07FLJT72Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "13735", "split": "test", "method": "gpt", "selected_ids": ["B07ZWFWLC4", "B075KCM8S7", "B07TCKRCXN", "B07MZ48WF3", "B0775YFK3P"], "routing_action": "PASS_ALL"}
+{"query_id": "13735", "split": "test", "method": "jev", "selected_ids": ["B07ZWFWLC4", "B075KCM8S7", "B07TCKRCXN", "B07MZ48WF3", "B0775YFK3P"], "routing_action": "PASS_ALL"}
+{"query_id": "13890", "split": "test", "method": "gpt", "selected_ids": ["B00GDLKJ6U", "0783232047", "B079VT7TCN", "B07CMY265H", "B07MF4GPS6"], "routing_action": "PASS_ALL"}
+{"query_id": "13890", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "13903", "split": "test", "method": "gpt", "selected_ids": ["B07NP78WPG", "B07QPYJ3L6", "B07THFSX6Y", "B07WV3ZRWB", "B00NPIPTQO"], "routing_action": "PASS_ALL"}
+{"query_id": "13903", "split": "test", "method": "jev", "selected_ids": ["B07NP78WPG", "B07QPYJ3L6", "B07THFSX6Y", "B07WV3ZRWB", "B00NPIPTQO"], "routing_action": "PASS_ALL"}
+{"query_id": "14399", "split": "test", "method": "gpt", "selected_ids": ["B07Y9XF1RR", "B07BBKW82M", "B00SYN3C28", "B01BVF7M80", "B01BTYS65G"], "routing_action": "PASS_ALL"}
+{"query_id": "14399", "split": "test", "method": "jev", "selected_ids": ["B07Y9XF1RR", "B07BBKW82M", "B00SYN3C28", "B01BVF7M80", "B01BTYS65G"], "routing_action": "PASS_ALL"}
+{"query_id": "14522", "split": "test", "method": "gpt", "selected_ids": ["B07576GXLX", "B07Q3FQD85", "B0813RH986", "B07QNZV8KW", "B01DTBKPWO"], "routing_action": "PASS_ALL"}
+{"query_id": "14522", "split": "test", "method": "jev", "selected_ids": ["B07576GXLX", "B07Q3FQD85", "B0813RH986", "B07QNZV8KW", "B01DTBKPWO"], "routing_action": "PASS_ALL"}
+{"query_id": "14654", "split": "test", "method": "gpt", "selected_ids": ["B07QQJ7CYY", "B01NAZUMXA", "B07NR396XP", "B015SQAWLW", "B07YGXH3XL"], "routing_action": "PASS_ALL"}
+{"query_id": "14654", "split": "test", "method": "jev", "selected_ids": ["B07QQJ7CYY", "B01NAZUMXA", "B07NR396XP", "B015SQAWLW", "B07YGXH3XL"], "routing_action": "PASS_ALL"}
+{"query_id": "14665", "split": "test", "method": "gpt", "selected_ids": ["B00P21XEEQ", "B00YB5830Y", "B019OGSE9O"], "routing_action": "PASS_FILTERED"}
+{"query_id": "14665", "split": "test", "method": "jev", "selected_ids": ["B00P21XEEQ", "B00YB5830Y", "B019OGSE9O"], "routing_action": "PASS_FILTERED"}
+{"query_id": "14845", "split": "test", "method": "gpt", "selected_ids": ["B008HS00N4", "B07QVWX2K8", "B00KABODA2", "B07MS11WBC", "B07QNY4J3P"], "routing_action": "PASS_ALL"}
+{"query_id": "14845", "split": "test", "method": "jev", "selected_ids": ["B008HS00N4", "B07QVWX2K8", "B00KABODA2", "B07MS11WBC", "B07QNY4J3P"], "routing_action": "PASS_ALL"}
+{"query_id": "14988", "split": "test", "method": "gpt", "selected_ids": ["B07KLMP6BK", "B01N0A8IG2", "B073V42D8P", "B073V45KV2", "B077FN23TX"], "routing_action": "PASS_ALL"}
+{"query_id": "14988", "split": "test", "method": "jev", "selected_ids": ["B07KLMP6BK", "B01N0A8IG2", "B073V42D8P", "B073V45KV2", "B077FN23TX"], "routing_action": "PASS_ALL"}
+{"query_id": "15211", "split": "test", "method": "gpt", "selected_ids": ["B01CACYCXQ", "B07JLZ2ZKR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "15211", "split": "test", "method": "jev", "selected_ids": ["B01CACYCXQ", "B07JLZ2ZKR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "15213", "split": "test", "method": "gpt", "selected_ids": ["B07PZW4LKY", "B00FQD6E74", "B00HU3F1WC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "15213", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "15272", "split": "test", "method": "gpt", "selected_ids": ["B08WTY51VT", "B07HNC33F8", "B07HNF7WLK", "B08NPXK2Y2", "B0759XN12V"], "routing_action": "PASS_ALL"}
+{"query_id": "15272", "split": "test", "method": "jev", "selected_ids": ["B08WTY51VT", "B07HNC33F8", "B07HNF7WLK", "B08NPXK2Y2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "15339", "split": "test", "method": "gpt", "selected_ids": ["B01MTJH0FG", "B075CF51QS", "B01M5K58Q9", "B07FCRVCMK", "B07HHWLJ2R"], "routing_action": "PASS_ALL"}
+{"query_id": "15339", "split": "test", "method": "jev", "selected_ids": ["B01MTJH0FG", "B075CF51QS", "B01M5K58Q9", "B07FCRVCMK", "B07HHWLJ2R"], "routing_action": "PASS_ALL"}
+{"query_id": "15484", "split": "test", "method": "gpt", "selected_ids": ["B01AUY2OWW", "B01GJ1NEGK", "B01N15DI2V", "B079QKP848", "B073HYXJPY"], "routing_action": "PASS_ALL"}
+{"query_id": "15484", "split": "test", "method": "jev", "selected_ids": ["B01AUY2OWW", "B01GJ1NEGK", "B01N15DI2V", "B079QKP848", "B073HYXJPY"], "routing_action": "PASS_ALL"}
+{"query_id": "15521", "split": "test", "method": "gpt", "selected_ids": ["B08N6HYXYZ", "B08N6J2XCG", "B08ZSYJWKX", "B08QS6ZMVM", "B08MRWWMSG"], "routing_action": "PASS_ALL"}
+{"query_id": "15521", "split": "test", "method": "jev", "selected_ids": ["B08N6HYXYZ", "B08N6J2XCG", "B08ZSYJWKX", "B08QS6ZMVM", "B08MRWWMSG"], "routing_action": "PASS_ALL"}
+{"query_id": "15835", "split": "test", "method": "gpt", "selected_ids": ["B00FZR1FBQ", "B01MPYJK69", "B07HZ9Z6WB", "B07P9SMSZ4", "B07L9CPCK5"], "routing_action": "PASS_ALL"}
+{"query_id": "15835", "split": "test", "method": "jev", "selected_ids": ["B00FZR1FBQ", "B01MPYJK69", "B07HZ9Z6WB", "B07P9SMSZ4", "B07L9CPCK5"], "routing_action": "PASS_ALL"}
+{"query_id": "15887", "split": "test", "method": "gpt", "selected_ids": ["B004UO29U6", "B00M0U5IL4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "15887", "split": "test", "method": "jev", "selected_ids": ["B004UO29U6", "B00M0U5IL4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "16358", "split": "test", "method": "gpt", "selected_ids": ["B007RFCJM8", "B011KK8TD8", "B07YN7KRM6", "0766633349", "1536211249"], "routing_action": "PASS_ALL"}
+{"query_id": "16358", "split": "test", "method": "jev", "selected_ids": ["B007RFCJM8", "B011KK8TD8", "B07YN7KRM6", "0766633349", "1536211249"], "routing_action": "PASS_ALL"}
+{"query_id": "16478", "split": "test", "method": "gpt", "selected_ids": ["B0007TQ9UY", "B00SX5K8PG", "B073T38MTV", "B01KANRWDY", "B009H1OUB8"], "routing_action": "PASS_ALL"}
+{"query_id": "16478", "split": "test", "method": "jev", "selected_ids": ["B0007TQ9UY", "B00SX5K8PG", "B073T38MTV", "B01KANRWDY", "B009H1OUB8"], "routing_action": "PASS_ALL"}
+{"query_id": "16732", "split": "test", "method": "gpt", "selected_ids": ["B085T67VMG", "B083HQ9ST5", "B08C6YVPFF", "B07XKXQL79"], "routing_action": "PASS_FILTERED"}
+{"query_id": "16732", "split": "test", "method": "jev", "selected_ids": ["B085T67VMG", "B083HQ9ST5", "B08C6YVPFF", "B07XKXQL79"], "routing_action": "PASS_FILTERED"}
+{"query_id": "16826", "split": "test", "method": "gpt", "selected_ids": ["B077ZJXCTH", "B07QN3C3QJ", "B07F282SF7", "B07PRRC9TL", "B07GKJZXPX"], "routing_action": "PASS_ALL"}
+{"query_id": "16826", "split": "test", "method": "jev", "selected_ids": ["B077ZJXCTH", "B07QN3C3QJ", "B07F282SF7", "B07PRRC9TL", "B07GKJZXPX"], "routing_action": "PASS_ALL"}
+{"query_id": "16838", "split": "test", "method": "gpt", "selected_ids": ["B07HYYKLF4", "B07MM4X1G5", "B07RX3KCYZ", "B07Q424G4D", "B07QNZHZKK"], "routing_action": "PASS_ALL"}
+{"query_id": "16838", "split": "test", "method": "jev", "selected_ids": ["B07HYYKLF4", "B07MM4X1G5", "B07RX3KCYZ", "B07Q424G4D", "B07QNZHZKK"], "routing_action": "PASS_ALL"}
+{"query_id": "16894", "split": "test", "method": "gpt", "selected_ids": ["B098TTWLL8", "B09D3D4933", "B09DGFW44Q", "B07R22XZD6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "16894", "split": "test", "method": "jev", "selected_ids": ["B098TTWLL8", "B09D3D4933", "B08GG3MB56", "B09DGFW44Q", "B07R22XZD6"], "routing_action": "PASS_ALL"}
+{"query_id": "16980", "split": "test", "method": "gpt", "selected_ids": ["B06XWV2GRT", "B07DGGTFJ8", "B016VS2BX8", "B074PJ3TQJ", "B076XVF1PW"], "routing_action": "PASS_ALL"}
+{"query_id": "16980", "split": "test", "method": "jev", "selected_ids": ["B06XWV2GRT", "B07DGGTFJ8", "B016VS2BX8", "B074PJ3TQJ", "B076XVF1PW"], "routing_action": "PASS_ALL"}
+{"query_id": "17044", "split": "test", "method": "gpt", "selected_ids": ["B01KJP4KOM", "B00PGQ3AI2", "B076H29JC4", "B017NGOR16", "B06WLGNW67"], "routing_action": "PASS_ALL"}
+{"query_id": "17044", "split": "test", "method": "jev", "selected_ids": ["B01KJP4KOM", "B00PGQ3AI2", "B076H29JC4", "B017NGOR16", "B06WLGNW67"], "routing_action": "PASS_ALL"}
+{"query_id": "17539", "split": "test", "method": "gpt", "selected_ids": ["B083H5R7CV", "B00192GAMU", "B07284BC8R"], "routing_action": "PASS_FILTERED"}
+{"query_id": "17539", "split": "test", "method": "jev", "selected_ids": ["B083H5R7CV", "B00192GAMU", "B07284BC8R"], "routing_action": "PASS_FILTERED"}
+{"query_id": "17887", "split": "test", "method": "gpt", "selected_ids": ["B01NBFVUVE", "B07DHMR527", "B07GDW4RS7", "B07MD43VRT", "B07F3KQM9Z"], "routing_action": "PASS_ALL"}
+{"query_id": "17887", "split": "test", "method": "jev", "selected_ids": ["B01NBFVUVE", "B07DHMR527"], "routing_action": "PASS_FILTERED"}
+{"query_id": "18429", "split": "test", "method": "gpt", "selected_ids": ["1641523379", "1626253064", "1641526106", "0692927999", "0374303231"], "routing_action": "PASS_ALL"}
+{"query_id": "18429", "split": "test", "method": "jev", "selected_ids": ["1641523379", "1626253064", "1641526106", "0692927999", "0374303231"], "routing_action": "PASS_ALL"}
+{"query_id": "1914", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "1914", "split": "test", "method": "jev", "selected_ids": ["B07CBVRZVF", "B00D5YXSFC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19317", "split": "test", "method": "gpt", "selected_ids": ["B07L8S69Y4", "B07R8K28T2", "B07RQX4J2R", "B073GZ96GH", "B07SD16Q3X"], "routing_action": "PASS_ALL"}
+{"query_id": "19317", "split": "test", "method": "jev", "selected_ids": ["B07L8S69Y4", "B07R8K28T2", "B07RQX4J2R", "B073GZ96GH", "B07SD16Q3X"], "routing_action": "PASS_ALL"}
+{"query_id": "19547", "split": "test", "method": "gpt", "selected_ids": ["B00MUK6M82", "B000050FE0", "B00PINP5BI"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19547", "split": "test", "method": "jev", "selected_ids": ["B00MUK6M82", "B000050FE0", "B00PINP5BI"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19782", "split": "test", "method": "gpt", "selected_ids": ["B009L12MLO", "B01D3O3JC0", "B00EB05ITI", "B000L13T60", "B07ZVSL97H"], "routing_action": "PASS_ALL"}
+{"query_id": "19782", "split": "test", "method": "jev", "selected_ids": ["B009L12MLO", "B01D3O3JC0", "B00EB05ITI", "B000L13T60", "B07ZVSL97H"], "routing_action": "PASS_ALL"}
+{"query_id": "19842", "split": "test", "method": "gpt", "selected_ids": ["B00006IV0P", "B01MU7973W", "B0178HOX5A", "B00HEYJ08S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19842", "split": "test", "method": "jev", "selected_ids": ["B00006IV0P", "B0178HOX5A", "B00HEYJ08S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19851", "split": "test", "method": "gpt", "selected_ids": ["B07H194G87", "B081KJVM9C", "B07Z9THWFL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "19851", "split": "test", "method": "jev", "selected_ids": ["B07H194G87", "B081KJVM9C"], "routing_action": "PASS_FILTERED"}
+{"query_id": "2000", "split": "test", "method": "gpt", "selected_ids": ["B07PLJ6TD5", "B01MZ20L36", "B082YW9H91", "B0034ZUZM6", "B07VG9CF6Q"], "routing_action": "PASS_ALL"}
+{"query_id": "2000", "split": "test", "method": "jev", "selected_ids": ["B07PLJ6TD5", "B01MZ20L36", "B082YW9H91", "B0034ZUZM6", "B07VG9CF6Q"], "routing_action": "PASS_ALL"}
+{"query_id": "20069", "split": "test", "method": "gpt", "selected_ids": ["B00GNJ97CO", "B01E2WQRHQ", "B07NDDPXFS", "B01M0Y8LVQ", "B07KTD1F71"], "routing_action": "PASS_ALL"}
+{"query_id": "20069", "split": "test", "method": "jev", "selected_ids": ["B00GNJ97CO", "B01E2WQRHQ", "B07NDDPXFS", "B01M0Y8LVQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "20224", "split": "test", "method": "gpt", "selected_ids": ["B077J4WHDR", "B07RBNF3Z1", "B077NP4KJH", "B00XMH71V4", "B077S1C6CG"], "routing_action": "PASS_ALL"}
+{"query_id": "20224", "split": "test", "method": "jev", "selected_ids": ["B077J4WHDR", "B07RBNF3Z1", "B077NP4KJH", "B00XMH71V4", "B077S1C6CG"], "routing_action": "PASS_ALL"}
+{"query_id": "20758", "split": "test", "method": "gpt", "selected_ids": ["B01GDOHVPS", "B0777HFWGB", "B079KFJY7C", "B0054SDVBI", "B08NTSNBRZ"], "routing_action": "PASS_ALL"}
+{"query_id": "20758", "split": "test", "method": "jev", "selected_ids": ["B01GDOHVPS", "B0777HFWGB", "B079KFJY7C", "B0054SDVBI"], "routing_action": "PASS_FILTERED"}
+{"query_id": "20912", "split": "test", "method": "gpt", "selected_ids": ["B01H7L07SE"], "routing_action": "PASS_FILTERED"}
+{"query_id": "20912", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "21061", "split": "test", "method": "gpt", "selected_ids": ["B01N9ROR9M", "B01MT91UPC", "B01MZ9QYHJ", "B01MR5YPNE", "B01NAT51J2"], "routing_action": "PASS_ALL"}
+{"query_id": "21061", "split": "test", "method": "jev", "selected_ids": ["B01N9ROR9M", "B01MT91UPC", "B01MZ9QYHJ", "B01MR5YPNE", "B01NAT51J2"], "routing_action": "PASS_ALL"}
+{"query_id": "21485", "split": "test", "method": "gpt", "selected_ids": ["B002BXAMJS", "B0015PBPJ4", "B074M419TS", "B001IY03L8", "B00024D18W"], "routing_action": "PASS_ALL"}
+{"query_id": "21485", "split": "test", "method": "jev", "selected_ids": ["B002BXAMJS", "B0015PBPJ4", "B074M419TS", "B001IY03L8", "B00024D18W"], "routing_action": "PASS_ALL"}
+{"query_id": "21878", "split": "test", "method": "gpt", "selected_ids": ["B07R88FBRH", "B07D519QXH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "21878", "split": "test", "method": "jev", "selected_ids": ["B07R88FBRH", "B07D519QXH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "22055", "split": "test", "method": "gpt", "selected_ids": ["B011DDTSGO", "B07T8H2547", "B00FRRUTHU", "B0792CXJW9", "B07MYP3MWT"], "routing_action": "PASS_ALL"}
+{"query_id": "22055", "split": "test", "method": "jev", "selected_ids": ["B011DDTSGO", "B07T8H2547", "B00FRRUTHU", "B0792CXJW9", "B07MYP3MWT"], "routing_action": "PASS_ALL"}
+{"query_id": "22060", "split": "test", "method": "gpt", "selected_ids": ["B016M091PG", "B0054DA6A2", "B082LYCXJC", "B01CPX55O0", "B07DDFS81M"], "routing_action": "PASS_ALL"}
+{"query_id": "22060", "split": "test", "method": "jev", "selected_ids": ["B016M091PG", "B0054DA6A2", "B01CPX55O0"], "routing_action": "PASS_FILTERED"}
+{"query_id": "22102", "split": "test", "method": "gpt", "selected_ids": ["B01D2FFN8S", "B01EVQ1Y6W", "B00Y2A78T0", "B082HPVN29", "B005MAGUPM"], "routing_action": "PASS_ALL"}
+{"query_id": "22102", "split": "test", "method": "jev", "selected_ids": ["B01D2FFN8S", "B01EVQ1Y6W", "B00Y2A78T0", "B082HPVN29", "B005MAGUPM"], "routing_action": "PASS_ALL"}
+{"query_id": "22318", "split": "test", "method": "gpt", "selected_ids": ["B07X7FR7DM", "B00722CFPW", "B07ZGZ7MGW", "B0065LBTO4", "B08373WJYC"], "routing_action": "PASS_ALL"}
+{"query_id": "22318", "split": "test", "method": "jev", "selected_ids": ["B07X7FR7DM", "B00722CFPW", "B07ZGZ7MGW", "B0065LBTO4", "B08373WJYC"], "routing_action": "PASS_ALL"}
+{"query_id": "22404", "split": "test", "method": "gpt", "selected_ids": ["B0742PDTST", "B07YFQ8JB4", "B07XFCWDN4", "B073B8Y2N4", "B0745VQQWN"], "routing_action": "PASS_ALL"}
+{"query_id": "22404", "split": "test", "method": "jev", "selected_ids": ["B0742PDTST", "B0745VQQWN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "22878", "split": "test", "method": "gpt", "selected_ids": ["B085TNBFS9", "B085H8W378", "B0855CPKZ4", "B083G7DPW2", "B083XR94QV"], "routing_action": "PASS_ALL"}
+{"query_id": "22878", "split": "test", "method": "jev", "selected_ids": ["B085TNBFS9", "B085H8W378", "B0855CPKZ4", "B083G7DPW2", "B083XR94QV"], "routing_action": "PASS_ALL"}
+{"query_id": "23157", "split": "test", "method": "gpt", "selected_ids": ["B01FVRA2A4", "B01FVR990S", "B01AIEMOGA", "B07RRYZPV2", "B00EC89RS2"], "routing_action": "PASS_ALL"}
+{"query_id": "23157", "split": "test", "method": "jev", "selected_ids": ["B01FVRA2A4", "B01FVR990S", "B01AIEMOGA", "B07RRYZPV2", "B00EC89RS2"], "routing_action": "PASS_ALL"}
+{"query_id": "23270", "split": "test", "method": "gpt", "selected_ids": ["B00DSE6J2I", "B00CR1Z2I0", "B072635YK2", "B00AMGNJT6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "23270", "split": "test", "method": "jev", "selected_ids": ["B00DSE6J2I", "B00CR1Z2I0", "B072635YK2", "B00AMGNJT6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "23656", "split": "test", "method": "gpt", "selected_ids": ["9123538082", "1406393282", "1406381047", "B075RS5MSP", "B01GD9DPIA"], "routing_action": "PASS_ALL"}
+{"query_id": "23656", "split": "test", "method": "jev", "selected_ids": ["9123538082", "1406393282", "1406381047", "B075RS5MSP", "B01GD9DPIA"], "routing_action": "PASS_ALL"}
+{"query_id": "23779", "split": "test", "method": "gpt", "selected_ids": ["B01FX7RDDG", "B005N0PGVK", "B087NFQNH7", "B087WPK4R5", "B07DLFT8ZC"], "routing_action": "PASS_ALL"}
+{"query_id": "23779", "split": "test", "method": "jev", "selected_ids": ["B01FX7RDDG", "B087NFQNH7", "B087WPK4R5"], "routing_action": "PASS_FILTERED"}
+{"query_id": "24272", "split": "test", "method": "gpt", "selected_ids": ["B07YHS1CN9", "B07TQ7JMVN", "B07VP46KRB", "B08SW9CFZC", "B08ML5QFLQ"], "routing_action": "PASS_ALL"}
+{"query_id": "24272", "split": "test", "method": "jev", "selected_ids": ["B07YHS1CN9", "B07TQ7JMVN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "24579", "split": "test", "method": "gpt", "selected_ids": ["B07YD659VT", "B088B4R93T", "B085TB7Y5Z", "B07XTGFYRC", "B07XJBLVR7"], "routing_action": "PASS_ALL"}
+{"query_id": "24579", "split": "test", "method": "jev", "selected_ids": ["B07YD659VT", "B088B4R93T", "B085TB7Y5Z", "B07XTGFYRC", "B07XJBLVR7"], "routing_action": "PASS_ALL"}
+{"query_id": "24652", "split": "test", "method": "gpt", "selected_ids": ["B07SN5WVPB", "B01H3F9708", "B07NHZXJKB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "24652", "split": "test", "method": "jev", "selected_ids": ["B07SN5WVPB", "B01H3F9708", "B07NHZXJKB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "2499", "split": "test", "method": "gpt", "selected_ids": ["B00AZWU1O8", "B07L72RHHF", "B075NRLJX6", "B07Q8WVRWW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "2499", "split": "test", "method": "jev", "selected_ids": ["B00AZWU1O8", "B07L72RHHF", "B075NRLJX6", "B07Q8WVRWW", "B07772BKF1"], "routing_action": "PASS_ALL"}
+{"query_id": "2524", "split": "test", "method": "gpt", "selected_ids": ["B005P0FTYM", "B07NP84MM9", "B006R0JV4S", "B07VG4QC4V", "B000FAMURG"], "routing_action": "PASS_ALL"}
+{"query_id": "2524", "split": "test", "method": "jev", "selected_ids": ["B005P0FTYM", "B006R0JV4S", "B07VG4QC4V", "B000FAMURG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "25548", "split": "test", "method": "gpt", "selected_ids": ["B00GV4V87I", "B017BTRAM8", "B07FN7Q8XV", "B07HS2DSQ6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "25548", "split": "test", "method": "jev", "selected_ids": ["B00GV4V87I", "B017BTRAM8", "B07FN7Q8XV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "25566", "split": "test", "method": "gpt", "selected_ids": ["B00QNA2MIE", "1583940324"], "routing_action": "PASS_FILTERED"}
+{"query_id": "25566", "split": "test", "method": "jev", "selected_ids": ["B00QNA2MIE", "1583940324"], "routing_action": "PASS_FILTERED"}
+{"query_id": "26201", "split": "test", "method": "gpt", "selected_ids": ["B07LFJQP8K", "B0756Y5LNJ", "B07HQB9ZZY", "B07S6CMJB5", "B01MY6XVGX"], "routing_action": "PASS_ALL"}
+{"query_id": "26201", "split": "test", "method": "jev", "selected_ids": ["B07LFJQP8K", "B0756Y5LNJ", "B07HQB9ZZY", "B07S6CMJB5", "B01MY6XVGX"], "routing_action": "PASS_ALL"}
+{"query_id": "26205", "split": "test", "method": "gpt", "selected_ids": ["B07C736WMV", "B089LLZ8MW", "B07P9SP54K", "B07NP9MCX5", "B0179LNZXG"], "routing_action": "PASS_ALL"}
+{"query_id": "26205", "split": "test", "method": "jev", "selected_ids": ["B07C736WMV", "B089LLZ8MW", "B07NP9MCX5", "B0179LNZXG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "26693", "split": "test", "method": "gpt", "selected_ids": ["B07S9GB9KC", "B07FQZMY8Y", "B00620EIO6", "B07N8HDMVN", "B07JK2CN22"], "routing_action": "PASS_ALL"}
+{"query_id": "26693", "split": "test", "method": "jev", "selected_ids": ["B07S9GB9KC", "B07FQZMY8Y", "B00620EIO6", "B07JK2CN22"], "routing_action": "PASS_FILTERED"}
+{"query_id": "27200", "split": "test", "method": "gpt", "selected_ids": ["B07VJX6D7T", "B07XYLS61L", "B07L52F7XS", "B00HFFJE7S", "B07RNM8LFK"], "routing_action": "PASS_ALL"}
+{"query_id": "27200", "split": "test", "method": "jev", "selected_ids": ["B07VJX6D7T", "B07XYLS61L", "B07L52F7XS", "B00HFFJE7S", "B07RNM8LFK"], "routing_action": "PASS_ALL"}
+{"query_id": "27287", "split": "test", "method": "gpt", "selected_ids": ["B00APPEGW8", "B0786WHJ8W", "B0732RXJHR", "B07PHXWB29", "B01MXRSMZP"], "routing_action": "PASS_ALL"}
+{"query_id": "27287", "split": "test", "method": "jev", "selected_ids": ["B00APPEGW8", "B0786WHJ8W"], "routing_action": "PASS_FILTERED"}
+{"query_id": "2737", "split": "test", "method": "gpt", "selected_ids": ["B07GPRTH7H", "B086XHZVLP", "B072B7WKSY", "B099Z5XPNP", "B08635YPD2"], "routing_action": "PASS_ALL"}
+{"query_id": "2737", "split": "test", "method": "jev", "selected_ids": ["B07GPRTH7H", "B086XHZVLP", "B072B7WKSY", "B099Z5XPNP", "B08635YPD2"], "routing_action": "PASS_ALL"}
+{"query_id": "27389", "split": "test", "method": "gpt", "selected_ids": ["B07P6SGD8B", "B088Q5HTT8", "B086WB817N", "B00WF86ZIG", "B07FPDJ1FK"], "routing_action": "PASS_ALL"}
+{"query_id": "27389", "split": "test", "method": "jev", "selected_ids": ["B07P6SGD8B", "B088Q5HTT8", "B086WB817N", "B00WF86ZIG", "B07FPDJ1FK"], "routing_action": "PASS_ALL"}
+{"query_id": "27860", "split": "test", "method": "gpt", "selected_ids": ["B0812C2YGC", "B07V2DWH5N"], "routing_action": "PASS_FILTERED"}
+{"query_id": "27860", "split": "test", "method": "jev", "selected_ids": ["B0812C2YGC", "B07V2DWH5N"], "routing_action": "PASS_FILTERED"}
+{"query_id": "27861", "split": "test", "method": "gpt", "selected_ids": ["B07XBSN3Y5", "B07JP5375R", "B08149FMTG", "B083XX8BLJ", "B08387CPNP"], "routing_action": "PASS_ALL"}
+{"query_id": "27861", "split": "test", "method": "jev", "selected_ids": ["B07XBSN3Y5", "B07JP5375R", "B08149FMTG", "B083XX8BLJ", "B08387CPNP"], "routing_action": "PASS_ALL"}
+{"query_id": "2798", "split": "test", "method": "gpt", "selected_ids": ["B07BSWMZNB", "B08CV95VBX", "B01J2D0CGW", "B07C39GT2R", "B003GWYPUU"], "routing_action": "PASS_ALL"}
+{"query_id": "2798", "split": "test", "method": "jev", "selected_ids": ["B07BSWMZNB", "B08CV95VBX", "B01J2D0CGW", "B07C39GT2R", "B003GWYPUU"], "routing_action": "PASS_ALL"}
+{"query_id": "28103", "split": "test", "method": "gpt", "selected_ids": ["B01DKL50PA", "B0153YN1V2", "B00KSM0PZ0"], "routing_action": "PASS_FILTERED"}
+{"query_id": "28103", "split": "test", "method": "jev", "selected_ids": ["B0153YN1V2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "28576", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "28576", "split": "test", "method": "jev", "selected_ids": ["B0753JPS3G", "B07J9JH8WQ", "B06VXLCB26"], "routing_action": "PASS_FILTERED"}
+{"query_id": "28755", "split": "test", "method": "gpt", "selected_ids": ["B081YDWVY2", "B081N1WX7T", "B07XT2FS62", "B0866366WH", "B082KZ9KD2"], "routing_action": "PASS_ALL"}
+{"query_id": "28755", "split": "test", "method": "jev", "selected_ids": ["B081YDWVY2", "B081N1WX7T", "B07XT2FS62", "B0866366WH", "B082KZ9KD2"], "routing_action": "PASS_ALL"}
+{"query_id": "29083", "split": "test", "method": "gpt", "selected_ids": ["B01FRAJ1AM", "B07RWFZHMS", "B079WNWVQN", "B06X3XFZLR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29083", "split": "test", "method": "jev", "selected_ids": ["B01FRAJ1AM", "B07RWFZHMS", "B079WNWVQN", "B06X3XFZLR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29132", "split": "test", "method": "gpt", "selected_ids": ["B07YC8XFJW", "B07KZWLHVH", "B07PGBX45J", "B082551MNF", "B078772JQF"], "routing_action": "PASS_ALL"}
+{"query_id": "29132", "split": "test", "method": "jev", "selected_ids": ["B07YC8XFJW", "B07KZWLHVH", "B07PGBX45J", "B082551MNF", "B078772JQF"], "routing_action": "PASS_ALL"}
+{"query_id": "29469", "split": "test", "method": "gpt", "selected_ids": ["B07NDQJ4ZM", "B074VV5KZP", "B00J4NPU2W", "B07N6S28P8", "B01MT41M6B"], "routing_action": "PASS_ALL"}
+{"query_id": "29469", "split": "test", "method": "jev", "selected_ids": ["B07NDQJ4ZM", "B074VV5KZP", "B07N6S28P8", "B01MT41M6B"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29491", "split": "test", "method": "gpt", "selected_ids": ["B076FVBLDV", "B074K4NST5", "B01MPYLXFS", "B0742CGBJZ", "B0154ASID6"], "routing_action": "PASS_ALL"}
+{"query_id": "29491", "split": "test", "method": "jev", "selected_ids": ["B076FVBLDV", "B074K4NST5", "B01MPYLXFS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29533", "split": "test", "method": "gpt", "selected_ids": ["B082T2CC9D", "B07PF35K8Q", "B0714K41PB", "B01NBNDC1T", "B07FXDS1DD"], "routing_action": "PASS_ALL"}
+{"query_id": "29533", "split": "test", "method": "jev", "selected_ids": ["B082T2CC9D", "B0714K41PB", "B01NBNDC1T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29551", "split": "test", "method": "gpt", "selected_ids": ["B00JCAKSC4", "B00L79RCVI", "B07K2J2CXW", "B07M7Y5MTZ", "B078ZMX2PB"], "routing_action": "PASS_ALL"}
+{"query_id": "29551", "split": "test", "method": "jev", "selected_ids": ["B00JCAKSC4", "B00L79RCVI", "B07M7Y5MTZ", "B078ZMX2PB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "29558", "split": "test", "method": "gpt", "selected_ids": ["B084TZRSXT", "B084TZYMS7", "B07VZ513CW", "B0891W9JNY", "B07W3B8KHK"], "routing_action": "PASS_ALL"}
+{"query_id": "29558", "split": "test", "method": "jev", "selected_ids": ["B084TZRSXT", "B084TZYMS7", "B07VZ513CW", "B0891W9JNY", "B07W3B8KHK"], "routing_action": "PASS_ALL"}
+{"query_id": "29661", "split": "test", "method": "gpt", "selected_ids": ["B0026P3HCA", "B000R9647M", "B00SYK0MWE", "B0018QJEFC", "B000RE3YIE"], "routing_action": "PASS_ALL"}
+{"query_id": "29661", "split": "test", "method": "jev", "selected_ids": ["B0026P3HCA", "B000R9647M", "B00SYK0MWE", "B0018QJEFC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "30469", "split": "test", "method": "gpt", "selected_ids": ["B07WGBMFJP", "B07S197ZS6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "30469", "split": "test", "method": "jev", "selected_ids": ["B07WGBMFJP", "B07S197ZS6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "31260", "split": "test", "method": "gpt", "selected_ids": ["B082NVNRYG", "B07ZHFTRXD", "B07Y1CLB91", "B0878GW3VX", "B07F817H27"], "routing_action": "PASS_ALL"}
+{"query_id": "31260", "split": "test", "method": "jev", "selected_ids": ["B082NVNRYG", "B07ZHFTRXD", "B07Y1CLB91", "B0878GW3VX", "B07F817H27"], "routing_action": "PASS_ALL"}
+{"query_id": "31507", "split": "test", "method": "gpt", "selected_ids": ["B01LYSSA10", "B07GM1GTMH", "B078X1JWRJ", "B07K61WWSN", "B078X2F2XH"], "routing_action": "PASS_ALL"}
+{"query_id": "31507", "split": "test", "method": "jev", "selected_ids": ["B01LYSSA10", "B07GM1GTMH", "B078X1JWRJ", "B078X2F2XH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "31835", "split": "test", "method": "gpt", "selected_ids": ["B012FSL2GK", "B01LVXEU3M", "B07QPSTB99", "B01B165XZS", "B07VLXR7Z1"], "routing_action": "PASS_ALL"}
+{"query_id": "31835", "split": "test", "method": "jev", "selected_ids": ["B012FSL2GK", "B01LVXEU3M", "B07QPSTB99", "B01B165XZS", "B07VLXR7Z1"], "routing_action": "PASS_ALL"}
+{"query_id": "32971", "split": "test", "method": "gpt", "selected_ids": ["B07LC5GXQD", "B07FN9QGDF", "B07DTDYTTQ", "B01BW1WFF8", "B00FI8BOMM"], "routing_action": "PASS_ALL"}
+{"query_id": "32971", "split": "test", "method": "jev", "selected_ids": ["B07LC5GXQD", "B07FN9QGDF", "B07DTDYTTQ", "B01BW1WFF8", "B00FI8BOMM"], "routing_action": "PASS_ALL"}
+{"query_id": "33007", "split": "test", "method": "gpt", "selected_ids": ["B072PCSNB4", "B07C688S94", "B0716PHN8K", "B0725GCR5J", "B072M76LKN"], "routing_action": "PASS_ALL"}
+{"query_id": "33007", "split": "test", "method": "jev", "selected_ids": ["B072PCSNB4", "B07C688S94", "B0716PHN8K", "B0725GCR5J", "B072M76LKN"], "routing_action": "PASS_ALL"}
+{"query_id": "33033", "split": "test", "method": "gpt", "selected_ids": ["B00KFITCXS", "B000V3MFUY", "B00Q2MYU9W", "B000GCL2B8", "B000YM2ED0"], "routing_action": "PASS_ALL"}
+{"query_id": "33033", "split": "test", "method": "jev", "selected_ids": ["B00KFITCXS", "B000V3MFUY", "B00Q2MYU9W", "B000GCL2B8", "B000YM2ED0"], "routing_action": "PASS_ALL"}
+{"query_id": "33254", "split": "test", "method": "gpt", "selected_ids": ["B07QRQ1X8T", "B08F83JTF5", "B0833BGFNQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "33254", "split": "test", "method": "jev", "selected_ids": ["B07QRQ1X8T", "B08411JL4L", "B08F83JTF5", "B07WW54J8Y", "B0833BGFNQ"], "routing_action": "PASS_ALL"}
+{"query_id": "3336", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "3336", "split": "test", "method": "jev", "selected_ids": ["B0039NN124", "B0811X61FW", "B004LTFESE", "B012FUWLG8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "33715", "split": "test", "method": "gpt", "selected_ids": ["B087775HTX", "B079J5RXQG", "B07SPHX9NS", "B081S8W23T", "B000PEZYNE"], "routing_action": "PASS_ALL"}
+{"query_id": "33715", "split": "test", "method": "jev", "selected_ids": ["B087775HTX", "B079J5RXQG", "B07SPHX9NS", "B081S8W23T", "B000PEZYNE"], "routing_action": "PASS_ALL"}
+{"query_id": "3376", "split": "test", "method": "gpt", "selected_ids": ["B08CS15VXY", "B08CC4LRLL", "B08D6KY6FP", "B08FWSHGX7", "B087186J7J"], "routing_action": "PASS_ALL"}
+{"query_id": "3376", "split": "test", "method": "jev", "selected_ids": ["B08CS15VXY", "B08CC4LRLL", "B08D6KY6FP", "B08FWSHGX7", "B087186J7J"], "routing_action": "PASS_ALL"}
+{"query_id": "34320", "split": "test", "method": "gpt", "selected_ids": ["B00DM1DDBW", "B07SNQ5TJT", "B01EZ7UOCM", "B082XRWVQD", "B083YWX57R"], "routing_action": "PASS_ALL"}
+{"query_id": "34320", "split": "test", "method": "jev", "selected_ids": ["B00DM1DDBW", "B07SNQ5TJT", "B01EZ7UOCM", "B082XRWVQD", "B083YWX57R"], "routing_action": "PASS_ALL"}
+{"query_id": "34521", "split": "test", "method": "gpt", "selected_ids": ["1644711877", "0061996556", "0062219111", "0062297503"], "routing_action": "PASS_FILTERED"}
+{"query_id": "34521", "split": "test", "method": "jev", "selected_ids": ["0062297503"], "routing_action": "PASS_FILTERED"}
+{"query_id": "34573", "split": "test", "method": "gpt", "selected_ids": ["B007P54OZU", "B007P54MCU", "B01FN4GUV0", "B0029PY7SK", "B07SR7BMVT"], "routing_action": "PASS_ALL"}
+{"query_id": "34573", "split": "test", "method": "jev", "selected_ids": ["B007P54OZU", "B007P54MCU", "B01FN4GUV0", "B0029PY7SK", "B07SR7BMVT"], "routing_action": "PASS_ALL"}
+{"query_id": "34764", "split": "test", "method": "gpt", "selected_ids": ["B07TYWK54C", "B085NHX15T", "B07KWSD9FM", "B07CXR3GDZ", "B071RLXT49"], "routing_action": "PASS_ALL"}
+{"query_id": "34764", "split": "test", "method": "jev", "selected_ids": ["B07TYWK54C", "B085NHX15T", "B07KWSD9FM", "B07CXR3GDZ", "B071RLXT49"], "routing_action": "PASS_ALL"}
+{"query_id": "35400", "split": "test", "method": "gpt", "selected_ids": ["B00004UDJL", "B00004UDJK", "B00004UDJO", "B00004UDJX", "B00004UDJV"], "routing_action": "PASS_ALL"}
+{"query_id": "35400", "split": "test", "method": "jev", "selected_ids": ["B00004UDJL", "B00004UDJK", "B00004UDJO", "B00004UDJX", "B00004UDJV"], "routing_action": "PASS_ALL"}
+{"query_id": "35560", "split": "test", "method": "gpt", "selected_ids": ["B07BL9JRPW", "B07NR8FBMT", "B07NRBN6WG", "B01N4SEABP", "B07NR41S4T"], "routing_action": "PASS_ALL"}
+{"query_id": "35560", "split": "test", "method": "jev", "selected_ids": ["B07BL9JRPW", "B07NR8FBMT", "B07NRBN6WG", "B01N4SEABP", "B07NR41S4T"], "routing_action": "PASS_ALL"}
+{"query_id": "36308", "split": "test", "method": "gpt", "selected_ids": ["B079LTC6QV", "B0030Q259U", "B00J4T7AUQ", "B000630AQA"], "routing_action": "PASS_FILTERED"}
+{"query_id": "36308", "split": "test", "method": "jev", "selected_ids": ["B079LTC6QV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "36438", "split": "test", "method": "gpt", "selected_ids": ["B072HT8NC8", "B06XCX6PVS", "B07VG64XB7", "B0824TK42W", "B01FWCYE9I"], "routing_action": "PASS_ALL"}
+{"query_id": "36438", "split": "test", "method": "jev", "selected_ids": ["B072HT8NC8", "B06XCX6PVS", "B07VG64XB7", "B0824TK42W", "B01FWCYE9I"], "routing_action": "PASS_ALL"}
+{"query_id": "3667", "split": "test", "method": "gpt", "selected_ids": ["B08147RBCZ", "B0016LARY6", "B0009OBPH4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "3667", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "36691", "split": "test", "method": "gpt", "selected_ids": ["B00E0JO5MG", "B07QWVMTS4", "B0052WJ0VG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "36691", "split": "test", "method": "jev", "selected_ids": ["B00E0JO5MG", "B07QWVMTS4", "B0052WJ0VG", "B0000W3ZW8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "37273", "split": "test", "method": "gpt", "selected_ids": ["B07GZ7YYND", "B0768TCFS8", "B07RPBV4JS", "B07CX4SPBH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "37273", "split": "test", "method": "jev", "selected_ids": ["B0773DYBSC", "B07GZ7YYND", "B0768TCFS8", "B07RPBV4JS", "B07CX4SPBH"], "routing_action": "PASS_ALL"}
+{"query_id": "37434", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "37434", "split": "test", "method": "jev", "selected_ids": ["B07W9F16Z6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "37457", "split": "test", "method": "gpt", "selected_ids": ["B07BPPLKKN", "B07B15F6FX", "B07H7TRS8V"], "routing_action": "PASS_FILTERED"}
+{"query_id": "37457", "split": "test", "method": "jev", "selected_ids": ["B07BPPLKKN", "B07B15F6FX", "B07H7TRS8V", "B07PM8WDJW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "38449", "split": "test", "method": "gpt", "selected_ids": ["B0079SFEFW", "B003VYVVHS", "B0199B221A", "B015QGPP2K", "B00LTT7YV4"], "routing_action": "PASS_ALL"}
+{"query_id": "38449", "split": "test", "method": "jev", "selected_ids": ["B0079SFEFW", "B003VYVVHS", "B0199B221A", "B015QGPP2K", "B00LTT7YV4"], "routing_action": "PASS_ALL"}
+{"query_id": "38461", "split": "test", "method": "gpt", "selected_ids": ["B07T1NK2XL", "B07QVXPJS5", "B07WBYSR15", "B07Q1KWSSH", "B07TBRX97Z"], "routing_action": "PASS_ALL"}
+{"query_id": "38461", "split": "test", "method": "jev", "selected_ids": ["B07T1NK2XL", "B07QVXPJS5", "B07WBYSR15", "B07Q1KWSSH", "B07TBRX97Z"], "routing_action": "PASS_ALL"}
+{"query_id": "38802", "split": "test", "method": "gpt", "selected_ids": ["B07JG43YPK", "B01M8LK3ET", "B07Q293TZT", "B071DQSWS3", "B07NZMNJPL"], "routing_action": "PASS_ALL"}
+{"query_id": "38802", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "38878", "split": "test", "method": "gpt", "selected_ids": ["B01N6PKV58", "B000FBF58G", "B00BCIBM88", "B01MQUBH26", "B07FXXRZG6"], "routing_action": "PASS_ALL"}
+{"query_id": "38878", "split": "test", "method": "jev", "selected_ids": ["B01N6PKV58", "B000FBF58G", "B00BCIBM88", "B01MQUBH26", "B07FXXRZG6"], "routing_action": "PASS_ALL"}
+{"query_id": "39231", "split": "test", "method": "gpt", "selected_ids": ["B073VH2J96", "B00E4QHN0Q", "B06XH7CZMF", "B00TQ6TYYC", "B0716HLVYB"], "routing_action": "PASS_ALL"}
+{"query_id": "39231", "split": "test", "method": "jev", "selected_ids": ["B073VH2J96", "B00E4QHN0Q", "B06XH7CZMF", "B00TQ6TYYC", "B0716HLVYB"], "routing_action": "PASS_ALL"}
+{"query_id": "39356", "split": "test", "method": "gpt", "selected_ids": ["B08JD7QHR3", "B07M6BV4LQ", "B07WHC36WG", "B08LPMBMJH", "B0823JGBV3"], "routing_action": "PASS_ALL"}
+{"query_id": "39356", "split": "test", "method": "jev", "selected_ids": ["B08JD7QHR3", "B07M6BV4LQ", "B07WHC36WG", "B08LPMBMJH", "B0823JGBV3"], "routing_action": "PASS_ALL"}
+{"query_id": "39380", "split": "test", "method": "gpt", "selected_ids": ["B07TZCMMJ4", "B07FK9LSPT", "B07JY97P4L", "B07D95KCT1", "B076DCXN7G"], "routing_action": "PASS_ALL"}
+{"query_id": "39380", "split": "test", "method": "jev", "selected_ids": ["B07TZCMMJ4", "B07FK9LSPT", "B07JY97P4L", "B07D95KCT1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "39382", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "39382", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "39441", "split": "test", "method": "gpt", "selected_ids": ["B07TPBDPLL", "B07TRCSVWP", "B088F34PNZ", "B07WBYDH44", "B07FZT3GW8"], "routing_action": "PASS_ALL"}
+{"query_id": "39441", "split": "test", "method": "jev", "selected_ids": ["B07TPBDPLL", "B07TRCSVWP", "B088F34PNZ", "B07WBYDH44", "B07FZT3GW8"], "routing_action": "PASS_ALL"}
+{"query_id": "39705", "split": "test", "method": "gpt", "selected_ids": ["B01L9NESYK", "B01HT935TW", "B07T3C4MNG", "B0769354C5", "B07DBLC44H"], "routing_action": "PASS_ALL"}
+{"query_id": "39705", "split": "test", "method": "jev", "selected_ids": ["B01L9NESYK", "B01HT935TW", "B07T3C4MNG", "B0769354C5", "B07DBLC44H"], "routing_action": "PASS_ALL"}
+{"query_id": "40664", "split": "test", "method": "gpt", "selected_ids": ["B072SVHZLC", "B0719MS2LZ", "B00ZWNGZFO", "B07XYR3ZYM", "B07TNV5675"], "routing_action": "PASS_ALL"}
+{"query_id": "40664", "split": "test", "method": "jev", "selected_ids": ["B072SVHZLC", "B0719MS2LZ", "B00ZWNGZFO", "B07XYR3ZYM", "B07TNV5675"], "routing_action": "PASS_ALL"}
+{"query_id": "40835", "split": "test", "method": "gpt", "selected_ids": ["B084RHSNLK", "B07T9K2LMY", "B085XRVDYS", "B07MYGVN33", "B087F21KR4"], "routing_action": "PASS_ALL"}
+{"query_id": "40835", "split": "test", "method": "jev", "selected_ids": ["B084RHSNLK", "B07T9K2LMY", "B085XRVDYS", "B07MYGVN33", "B087F21KR4"], "routing_action": "PASS_ALL"}
+{"query_id": "41100", "split": "test", "method": "gpt", "selected_ids": ["B00MPXF6XG", "B0196TA1YA", "B07YG6KY7W", "B0196T916Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "41100", "split": "test", "method": "jev", "selected_ids": ["B00MPXF6XG", "B0196TA1YA", "B07YG6KY7W"], "routing_action": "PASS_FILTERED"}
+{"query_id": "41130", "split": "test", "method": "gpt", "selected_ids": ["B07PZ8S64L"], "routing_action": "PASS_FILTERED"}
+{"query_id": "41130", "split": "test", "method": "jev", "selected_ids": ["B07PZ8S64L"], "routing_action": "PASS_FILTERED"}
+{"query_id": "41137", "split": "test", "method": "gpt", "selected_ids": ["B01N6U1844", "B078B3GK1Q", "B076D39NZL", "B01LYETBN7", "B07TWCMVR6"], "routing_action": "PASS_ALL"}
+{"query_id": "41137", "split": "test", "method": "jev", "selected_ids": ["B01N6U1844", "B078B3GK1Q", "B076D39NZL", "B01LYETBN7", "B07TWCMVR6"], "routing_action": "PASS_ALL"}
+{"query_id": "41265", "split": "test", "method": "gpt", "selected_ids": ["B083W58PJ9", "B07VR5MQTH", "B079RFT3SF", "B07TFB6C86", "B00OQX3ZDQ"], "routing_action": "PASS_ALL"}
+{"query_id": "41265", "split": "test", "method": "jev", "selected_ids": ["B083W58PJ9", "B07VR5MQTH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4183", "split": "test", "method": "gpt", "selected_ids": ["B00F4CFHFC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4183", "split": "test", "method": "jev", "selected_ids": ["B00F4CF7L6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "41975", "split": "test", "method": "gpt", "selected_ids": ["B073VZ6X4M", "B071CYNFX2", "B07SHV9V86", "B01N7ULJSD", "B087N7QYN1"], "routing_action": "PASS_ALL"}
+{"query_id": "41975", "split": "test", "method": "jev", "selected_ids": ["B073VZ6X4M", "B071CYNFX2", "B07SHV9V86", "B01N7ULJSD", "B087N7QYN1"], "routing_action": "PASS_ALL"}
+{"query_id": "426", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "426", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "42681", "split": "test", "method": "gpt", "selected_ids": ["B07RVFLMRN", "B07RZG8RPR", "B07NYRYY5W", "B07DNX2Y89", "B07VPBVYFN"], "routing_action": "PASS_ALL"}
+{"query_id": "42681", "split": "test", "method": "jev", "selected_ids": ["B07RVFLMRN", "B07RZG8RPR", "B07NYRYY5W", "B07DNX2Y89", "B07VPBVYFN"], "routing_action": "PASS_ALL"}
+{"query_id": "42865", "split": "test", "method": "gpt", "selected_ids": ["B07CDYN5W8", "B07BY94P2V", "B003JTC7FA", "B000GCW9LK", "B00N54OAL8"], "routing_action": "PASS_ALL"}
+{"query_id": "42865", "split": "test", "method": "jev", "selected_ids": ["B07CDYN5W8", "B07BY94P2V", "B003JTC7FA", "B000GCW9LK", "B00N54OAL8"], "routing_action": "PASS_ALL"}
+{"query_id": "42922", "split": "test", "method": "gpt", "selected_ids": ["B087TNBWTV", "B07DKR9YZ6", "B00XVYY0VC", "B085GN68LC", "B01K1QQ2QI"], "routing_action": "PASS_ALL"}
+{"query_id": "42922", "split": "test", "method": "jev", "selected_ids": ["B087TNBWTV", "B07DKR9YZ6", "B00XVYY0VC", "B085GN68LC", "B01K1QQ2QI"], "routing_action": "PASS_ALL"}
+{"query_id": "43010", "split": "test", "method": "gpt", "selected_ids": ["B06W5JYQX1", "B015IY34FA", "B00G6C7XUG", "B01M0E12D9", "B07YYP1LZD"], "routing_action": "PASS_ALL"}
+{"query_id": "43010", "split": "test", "method": "jev", "selected_ids": ["B06W5JYQX1", "B015IY34FA", "B00G6C7XUG", "B01M0E12D9", "B07YYP1LZD"], "routing_action": "PASS_ALL"}
+{"query_id": "43069", "split": "test", "method": "gpt", "selected_ids": ["B07HYDTJQZ", "B0722989QH", "B07C56F7ZS", "B07KCQYJFC", "B06Y63GBD8"], "routing_action": "PASS_ALL"}
+{"query_id": "43069", "split": "test", "method": "jev", "selected_ids": ["B07HYDTJQZ", "B0722989QH", "B07C56F7ZS", "B07KCQYJFC", "B06Y63GBD8"], "routing_action": "PASS_ALL"}
+{"query_id": "4341", "split": "test", "method": "gpt", "selected_ids": ["B01A5LUBCU"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4341", "split": "test", "method": "jev", "selected_ids": ["B01A5LUBCU"], "routing_action": "PASS_FILTERED"}
+{"query_id": "43523", "split": "test", "method": "gpt", "selected_ids": ["B00PXHBM48", "B001G2IH7E", "B000Y4MKHS", "B01MU1VNKJ", "B009MPIJ4S"], "routing_action": "PASS_ALL"}
+{"query_id": "43523", "split": "test", "method": "jev", "selected_ids": ["B00PXHBM48", "B001G2IH7E", "B000Y4MKHS", "B01MU1VNKJ", "B009MPIJ4S"], "routing_action": "PASS_ALL"}
+{"query_id": "43692", "split": "test", "method": "gpt", "selected_ids": ["B07YDLGG7J", "B07WSV17ZJ", "B07WYJB6HS", "B089GG3VMH", "B0819GTMTD"], "routing_action": "PASS_ALL"}
+{"query_id": "43692", "split": "test", "method": "jev", "selected_ids": ["B07YDLGG7J", "B07WSV17ZJ", "B07WYJB6HS", "B089GG3VMH", "B0819GTMTD"], "routing_action": "PASS_ALL"}
+{"query_id": "43761", "split": "test", "method": "gpt", "selected_ids": ["B01BGTW2NG", "B01BGTW1M8", "B01BGTW29A", "B01BGTVVIS", "B01BGTW3UI"], "routing_action": "PASS_ALL"}
+{"query_id": "43761", "split": "test", "method": "jev", "selected_ids": ["B01BGTW2NG", "B01BGTW1M8", "B01BGTW29A", "B01BGTVVIS", "B01BGTW3UI"], "routing_action": "PASS_ALL"}
+{"query_id": "4381", "split": "test", "method": "gpt", "selected_ids": ["B07F5J5K1Q", "B074V1LL4P"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4381", "split": "test", "method": "jev", "selected_ids": ["B07F5J5K1Q", "B074V1LL4P"], "routing_action": "PASS_FILTERED"}
+{"query_id": "43888", "split": "test", "method": "gpt", "selected_ids": ["B00F1J8K4I", "B01M757ALK", "B01LBOXD5W", "B00J490KA8", "B073G858T7"], "routing_action": "PASS_ALL"}
+{"query_id": "43888", "split": "test", "method": "jev", "selected_ids": ["B01M757ALK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "44000", "split": "test", "method": "gpt", "selected_ids": ["B07YBDZMRL", "B07P57DS41", "B07P14QW3X", "B07N4M495N", "B07N4L36H2"], "routing_action": "PASS_ALL"}
+{"query_id": "44000", "split": "test", "method": "jev", "selected_ids": ["B07YBDZMRL", "B07P57DS41", "B07P14QW3X", "B07N4M495N", "B07N4L36H2"], "routing_action": "PASS_ALL"}
+{"query_id": "44262", "split": "test", "method": "gpt", "selected_ids": ["B077QXGF6R", "B08842D7JS", "B08X77ZP1J", "B08777BH1B", "B086KJBKDW"], "routing_action": "PASS_ALL"}
+{"query_id": "44262", "split": "test", "method": "jev", "selected_ids": ["B077QXGF6R", "B08842D7JS", "B08X77ZP1J", "B08777BH1B"], "routing_action": "PASS_FILTERED"}
+{"query_id": "44562", "split": "test", "method": "gpt", "selected_ids": ["B098JFRLXN", "B08RDW7QVS", "B08RDZWDK8", "B095WNDJHZ", "B0967CYJ6H"], "routing_action": "PASS_ALL"}
+{"query_id": "44562", "split": "test", "method": "jev", "selected_ids": ["B098JFRLXN", "B08RDW7QVS", "B08RDZWDK8", "B095WNDJHZ", "B0967CYJ6H"], "routing_action": "PASS_ALL"}
+{"query_id": "44807", "split": "test", "method": "gpt", "selected_ids": ["B00FXXS37G", "B074N4H6ZR", "B00CWVGWPW", "B007AU0FXA", "B00IEZOB9E"], "routing_action": "PASS_ALL"}
+{"query_id": "44807", "split": "test", "method": "jev", "selected_ids": ["B00FXXS37G", "B074N4H6ZR", "B00CWVGWPW", "B007AU0FXA"], "routing_action": "PASS_FILTERED"}
+{"query_id": "45031", "split": "test", "method": "gpt", "selected_ids": ["1094789003", "B071721TL4", "B07N1X7NLH", "B00K302PEG", "B000FW3BFO"], "routing_action": "PASS_ALL"}
+{"query_id": "45031", "split": "test", "method": "jev", "selected_ids": ["1094789003", "B071721TL4", "B07N1X7NLH", "B00K302PEG", "B000FW3BFO"], "routing_action": "PASS_ALL"}
+{"query_id": "45137", "split": "test", "method": "gpt", "selected_ids": ["142365269X", "1423607120", "1423651669", "1423649125", "1423644743"], "routing_action": "PASS_ALL"}
+{"query_id": "45137", "split": "test", "method": "jev", "selected_ids": ["142365269X", "1423607120", "1423651669", "1423649125", "1423644743"], "routing_action": "PASS_ALL"}
+{"query_id": "45142", "split": "test", "method": "gpt", "selected_ids": ["1886768722"], "routing_action": "PASS_FILTERED"}
+{"query_id": "45142", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "45204", "split": "test", "method": "gpt", "selected_ids": ["B08B7XX6XG", "B082JBJ6B1", "B07RJYBB8X", "B073X6Y2QX", "B075ZBNHPN"], "routing_action": "PASS_ALL"}
+{"query_id": "45204", "split": "test", "method": "jev", "selected_ids": ["B08B7XX6XG", "B082JBJ6B1", "B07RJYBB8X", "B073X6Y2QX", "B075ZBNHPN"], "routing_action": "PASS_ALL"}
+{"query_id": "46170", "split": "test", "method": "gpt", "selected_ids": ["B00J2V8PCS", "B0748KCGM3", "B0748K6PXD", "B013HCZ3IG", "B08BTRK7BS"], "routing_action": "PASS_ALL"}
+{"query_id": "46170", "split": "test", "method": "jev", "selected_ids": ["B00J2V8PCS", "B0748KCGM3", "B0748K6PXD", "B013HCZ3IG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "46279", "split": "test", "method": "gpt", "selected_ids": ["B0748BKZBB", "B07L5MQNPL", "B07FM2X5RN", "B07L5P9XDV", "B07RG6H17W"], "routing_action": "PASS_ALL"}
+{"query_id": "46279", "split": "test", "method": "jev", "selected_ids": ["B0748BKZBB", "B07L5MQNPL", "B07FM2X5RN", "B07L5P9XDV", "B07RG6H17W"], "routing_action": "PASS_ALL"}
+{"query_id": "46701", "split": "test", "method": "gpt", "selected_ids": ["B06XW97M6C", "B01IQDZHSC", "B0728GGZF1", "B01MZISSNC", "B0714HZF3B"], "routing_action": "PASS_ALL"}
+{"query_id": "46701", "split": "test", "method": "jev", "selected_ids": ["B06XW97M6C", "B01IQDZHSC", "B0728GGZF1", "B01MZISSNC", "B0714HZF3B"], "routing_action": "PASS_ALL"}
+{"query_id": "46958", "split": "test", "method": "gpt", "selected_ids": ["B08QNFYFT4", "B08L5JRCKZ", "B08TRB3672", "B091Q95ZXM", "B08R9P5G8V"], "routing_action": "PASS_ALL"}
+{"query_id": "46958", "split": "test", "method": "jev", "selected_ids": ["B08QNFYFT4", "B08L5JRCKZ", "B08TRB3672", "B091Q95ZXM", "B08R9P5G8V"], "routing_action": "PASS_ALL"}
+{"query_id": "47116", "split": "test", "method": "gpt", "selected_ids": ["B01M1RX9WU", "B0096XSE1Y", "B00154GSQA", "B00UG8TIZ4", "B007WM3MW2"], "routing_action": "PASS_ALL"}
+{"query_id": "47116", "split": "test", "method": "jev", "selected_ids": ["B01M1RX9WU", "B0096XSE1Y", "B00154GSQA", "B00UG8TIZ4", "B007WM3MW2"], "routing_action": "PASS_ALL"}
+{"query_id": "47685", "split": "test", "method": "gpt", "selected_ids": ["B005Z54E9S", "1682896455", "1627221654", "1511964839", "1539937070"], "routing_action": "PASS_ALL"}
+{"query_id": "47685", "split": "test", "method": "jev", "selected_ids": ["B005Z54E9S"], "routing_action": "PASS_FILTERED"}
+{"query_id": "47712", "split": "test", "method": "gpt", "selected_ids": ["B07VYSQKQV", "B009MIKBIW", "B07MVJGYTS", "B01AB4HOQ2", "B07VWS526R"], "routing_action": "PASS_ALL"}
+{"query_id": "47712", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "47744", "split": "test", "method": "gpt", "selected_ids": ["B0754QBPDC", "B07R6PDCV4", "B07G3GX8QV", "B01LVXNPK7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "47744", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "47907", "split": "test", "method": "gpt", "selected_ids": ["B07Q72WPPZ", "B01MTB42QK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "47907", "split": "test", "method": "jev", "selected_ids": ["B01MTB42QK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "48027", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "48027", "split": "test", "method": "jev", "selected_ids": ["B079YJF9TG", "B06XSCPJZK", "B07B6KC1PQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "48126", "split": "test", "method": "gpt", "selected_ids": ["B07QH12G29", "B07QXWJYSM", "B07TF54GM9", "B07S48NPSH", "B07MRG4BX8"], "routing_action": "PASS_ALL"}
+{"query_id": "48126", "split": "test", "method": "jev", "selected_ids": ["B07QH12G29", "B07QXWJYSM", "B07TF54GM9", "B07S48NPSH", "B07MRG4BX8"], "routing_action": "PASS_ALL"}
+{"query_id": "4817", "split": "test", "method": "gpt", "selected_ids": ["B002OB49L4", "B000EFNKVC", "B005EDXAD2", "B07J2SNPWN", "B01NAXH9YX"], "routing_action": "PASS_ALL"}
+{"query_id": "4817", "split": "test", "method": "jev", "selected_ids": ["B000EFNKVC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "48289", "split": "test", "method": "gpt", "selected_ids": ["B07W1F521K", "B07Q8TBFTX", "B088WD4NJM", "B07NXPFMHK", "B01NAU5A5P"], "routing_action": "PASS_ALL"}
+{"query_id": "48289", "split": "test", "method": "jev", "selected_ids": ["B07W1F521K", "B07Q8TBFTX", "B088WD4NJM", "B07NXPFMHK", "B01NAU5A5P"], "routing_action": "PASS_ALL"}
+{"query_id": "4843", "split": "test", "method": "gpt", "selected_ids": ["B07KYG9NPL", "B07KB4L1P9", "B071GSSDVD", "B07VWGWGX2", "B07Q71Z6RT"], "routing_action": "PASS_ALL"}
+{"query_id": "4843", "split": "test", "method": "jev", "selected_ids": ["B07KYG9NPL", "B07KB4L1P9", "B071GSSDVD", "B07VWGWGX2", "B07Q71Z6RT"], "routing_action": "PASS_ALL"}
+{"query_id": "48922", "split": "test", "method": "gpt", "selected_ids": ["B08576D2RL", "B07TV3K8BS", "B07YY2BLQJ", "B078YPBDST", "B082877SFM"], "routing_action": "PASS_ALL"}
+{"query_id": "48922", "split": "test", "method": "jev", "selected_ids": ["B08576D2RL", "B07TV3K8BS", "B07YY2BLQJ", "B078YPBDST", "B082877SFM"], "routing_action": "PASS_ALL"}
+{"query_id": "48929", "split": "test", "method": "gpt", "selected_ids": ["B082Z2N328", "B082Z32THQ", "B082Z2CQCZ", "B083WCSTKG", "B082Z2XS42"], "routing_action": "PASS_ALL"}
+{"query_id": "48929", "split": "test", "method": "jev", "selected_ids": ["B082Z2N328", "B082Z32THQ", "B082Z2CQCZ", "B083WCSTKG", "B082Z2XS42"], "routing_action": "PASS_ALL"}
+{"query_id": "48938", "split": "test", "method": "gpt", "selected_ids": ["B01J4IYORI", "B01ETUDPIU", "B01KTV6VTS", "B01N8YOZ7M", "B01ATWVMQY"], "routing_action": "PASS_ALL"}
+{"query_id": "48938", "split": "test", "method": "jev", "selected_ids": ["B01J4IYORI", "B01ETUDPIU", "B01KTV6VTS", "B01N8YOZ7M", "B01ATWVMQY"], "routing_action": "PASS_ALL"}
+{"query_id": "49003", "split": "test", "method": "gpt", "selected_ids": ["B01JLT8KY8", "B07WV7X9HJ", "B08NJCPNS1", "B08G1TV77F", "B07BMSXGJ9"], "routing_action": "PASS_ALL"}
+{"query_id": "49003", "split": "test", "method": "jev", "selected_ids": ["B01JLT8KY8", "B07WV7X9HJ", "B08NJCPNS1", "B08G1TV77F", "B07BMSXGJ9"], "routing_action": "PASS_ALL"}
+{"query_id": "49146", "split": "test", "method": "gpt", "selected_ids": ["B01N7IVTIB", "B07MS887DB", "B07NQTCRD2", "B07D8XBDSZ", "B07LB4LH73"], "routing_action": "PASS_ALL"}
+{"query_id": "49146", "split": "test", "method": "jev", "selected_ids": ["B01N7IVTIB", "B07MS887DB", "B07NQTCRD2", "B07D8XBDSZ", "B07LB4LH73"], "routing_action": "PASS_ALL"}
+{"query_id": "4929", "split": "test", "method": "gpt", "selected_ids": ["B07MVV858N"], "routing_action": "PASS_FILTERED"}
+{"query_id": "4929", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "49737", "split": "test", "method": "gpt", "selected_ids": ["B07WDXDNM1", "B07Z1V634H", "B085RW5HPG", "B085M686ST", "B076JC45M4"], "routing_action": "PASS_ALL"}
+{"query_id": "49737", "split": "test", "method": "jev", "selected_ids": ["B07WDXDNM1", "B07Z1V634H", "B085RW5HPG", "B085M686ST", "B076JC45M4"], "routing_action": "PASS_ALL"}
+{"query_id": "50062", "split": "test", "method": "gpt", "selected_ids": ["B06X9N5Z5X", "B01J2KQ3E0", "B07VL7PH5G", "B07SK8879V", "B073XW366V"], "routing_action": "PASS_ALL"}
+{"query_id": "50062", "split": "test", "method": "jev", "selected_ids": ["B06X9N5Z5X", "B01J2KQ3E0", "B07VL7PH5G", "B07SK8879V", "B073XW366V"], "routing_action": "PASS_ALL"}
+{"query_id": "5047", "split": "test", "method": "gpt", "selected_ids": ["B07VYNTXXL", "B07WDV5Q3C", "B01GZSMBW0", "B07N1VB924", "B06XX1YJB1"], "routing_action": "PASS_ALL"}
+{"query_id": "5047", "split": "test", "method": "jev", "selected_ids": ["B07VYNTXXL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "50503", "split": "test", "method": "gpt", "selected_ids": ["B08LNY713Q", "B08LNXPN2C", "B08LNYWJJ7", "B08LNY28VP"], "routing_action": "PASS_FILTERED"}
+{"query_id": "50503", "split": "test", "method": "jev", "selected_ids": ["B08LNY713Q", "B08LNXPN2C", "B08LNYWJJ7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "50510", "split": "test", "method": "gpt", "selected_ids": ["B072635J3H", "B00006I53B", "B00081NX5U", "B084G8G5G9", "B011IH6MI2"], "routing_action": "PASS_ALL"}
+{"query_id": "50510", "split": "test", "method": "jev", "selected_ids": ["B072635J3H", "B084G8G5G9", "B011IH6MI2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5075", "split": "test", "method": "gpt", "selected_ids": ["B000UARS46", "B0743FY8J5", "B007BD0LLM", "B06Y264TL2", "B077F2Q49T"], "routing_action": "PASS_ALL"}
+{"query_id": "5075", "split": "test", "method": "jev", "selected_ids": ["B077F2Q49T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5111", "split": "test", "method": "gpt", "selected_ids": ["B085HNRL6B", "B0878SHW4W", "B08645VC68", "B083FHJXQF", "B086V7LNF9"], "routing_action": "PASS_ALL"}
+{"query_id": "5111", "split": "test", "method": "jev", "selected_ids": ["B085HNRL6B", "B0878SHW4W", "B08645VC68", "B083FHJXQF", "B086V7LNF9"], "routing_action": "PASS_ALL"}
+{"query_id": "51273", "split": "test", "method": "gpt", "selected_ids": ["B00KYTMW4O", "B013KPK6QE", "B01HCI03O0", "B07G12XPFV", "B07H81BXCS"], "routing_action": "PASS_ALL"}
+{"query_id": "51273", "split": "test", "method": "jev", "selected_ids": ["B00KYTMW4O", "B013KPK6QE", "B01HCI03O0", "B07G12XPFV", "B07H81BXCS"], "routing_action": "PASS_ALL"}
+{"query_id": "5130", "split": "test", "method": "gpt", "selected_ids": ["B00EOGIE7W", "B01N679F7C"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5130", "split": "test", "method": "jev", "selected_ids": ["B00EOGIE7W", "B01N679F7C", "B00WAITZ5Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "51571", "split": "test", "method": "gpt", "selected_ids": ["B07VMM18X6", "B07Q1HRF5J", "B085MCKLD5", "B0895QTKWB", "B07J52H2RK"], "routing_action": "PASS_ALL"}
+{"query_id": "51571", "split": "test", "method": "jev", "selected_ids": ["B07VMM18X6", "B07Q1HRF5J", "B085MCKLD5"], "routing_action": "PASS_FILTERED"}
+{"query_id": "51595", "split": "test", "method": "gpt", "selected_ids": ["110769745X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "51595", "split": "test", "method": "jev", "selected_ids": ["110769745X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "517", "split": "test", "method": "gpt", "selected_ids": ["B08K2Y1QWJ", "B07YTPF5P2", "B071G6FGM6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "517", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "51743", "split": "test", "method": "gpt", "selected_ids": ["B07TKF3DHV", "B0826QP7X4", "B083CYM3TZ", "B083BZTSD1", "B0826QKYPJ"], "routing_action": "PASS_ALL"}
+{"query_id": "51743", "split": "test", "method": "jev", "selected_ids": ["B07TKF3DHV", "B0826QP7X4", "B083CYM3TZ", "B083BZTSD1", "B0826QKYPJ"], "routing_action": "PASS_ALL"}
+{"query_id": "52236", "split": "test", "method": "gpt", "selected_ids": ["B01KXHF34W", "B01GW2GC5G", "B083GB5ZQT", "B01ACARBTA"], "routing_action": "PASS_FILTERED"}
+{"query_id": "52236", "split": "test", "method": "jev", "selected_ids": ["B07WHDS6RT"], "routing_action": "PASS_FILTERED"}
+{"query_id": "52400", "split": "test", "method": "gpt", "selected_ids": ["031609899X", "B000RVZZ4S", "1624907458"], "routing_action": "PASS_FILTERED"}
+{"query_id": "52400", "split": "test", "method": "jev", "selected_ids": ["031609899X", "B000RVZZ4S", "1624907458"], "routing_action": "PASS_FILTERED"}
+{"query_id": "52615", "split": "test", "method": "gpt", "selected_ids": ["B002XNWC8A", "B0002WRHE8", "B002G51BZU", "B00CDJHIYW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "52615", "split": "test", "method": "jev", "selected_ids": ["B002XNWC8A", "B0002WRHE8", "B002G51BZU", "B00CDJHIYW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5318", "split": "test", "method": "gpt", "selected_ids": ["B07793PTJM", "B07795CLNB", "B07D4MN4MM", "B072MG45CL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5318", "split": "test", "method": "jev", "selected_ids": ["B07793PTJM", "B07795CLNB", "B07D4MN4MM", "B072MG45CL", "B07C5RX5XT"], "routing_action": "PASS_ALL"}
+{"query_id": "53316", "split": "test", "method": "gpt", "selected_ids": ["B07GNFHVTL", "B07QMDRDDJ", "B07GNBLJW4", "B06XTPZL81", "B06XK6PXX8"], "routing_action": "PASS_ALL"}
+{"query_id": "53316", "split": "test", "method": "jev", "selected_ids": ["B07GNFHVTL", "B07QMDRDDJ", "B06XTPZL81", "B06XK6PXX8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "53521", "split": "test", "method": "gpt", "selected_ids": ["B07YPBDTBT", "B089YPL1R8", "B07QBNX6Z7", "B078SHL39R", "B08DFGVVDN"], "routing_action": "PASS_ALL"}
+{"query_id": "53521", "split": "test", "method": "jev", "selected_ids": ["B07YPBDTBT", "B089YPL1R8", "B07QBNX6Z7", "B078SHL39R", "B08DFGVVDN"], "routing_action": "PASS_ALL"}
+{"query_id": "53586", "split": "test", "method": "gpt", "selected_ids": ["B089NMTR98", "B07T8639L1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "53586", "split": "test", "method": "jev", "selected_ids": ["B089NMTR98", "B07T8639L1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "53963", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "53963", "split": "test", "method": "jev", "selected_ids": ["B09G2SMQJV", "B08R8BGDM5", "B089W4PKRW", "B09DGJM4GS", "B094QQ118V"], "routing_action": "PASS_ALL"}
+{"query_id": "54044", "split": "test", "method": "gpt", "selected_ids": ["B07ZQRMWVB", "B07Z4681LQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "54044", "split": "test", "method": "jev", "selected_ids": ["B07ZQRMWVB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "54076", "split": "test", "method": "gpt", "selected_ids": ["B07VPX81R8", "B07WD4B3VH", "B07WJ5K8Y8", "B07VV3LGCZ", "B07T81TYS2"], "routing_action": "PASS_ALL"}
+{"query_id": "54076", "split": "test", "method": "jev", "selected_ids": ["B07VPX81R8", "B07WD4B3VH", "B07WJ5K8Y8", "B07VV3LGCZ", "B07T81TYS2"], "routing_action": "PASS_ALL"}
+{"query_id": "5418", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "5418", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "54415", "split": "test", "method": "gpt", "selected_ids": ["B07FZ3TLKL", "B0834JVGY5", "B074NYWSGC", "B07PTP8543", "B01LKZGSLS"], "routing_action": "PASS_ALL"}
+{"query_id": "54415", "split": "test", "method": "jev", "selected_ids": ["B07FZ3TLKL", "B0834JVGY5", "B074NYWSGC", "B07PTP8543", "B01LKZGSLS"], "routing_action": "PASS_ALL"}
+{"query_id": "54514", "split": "test", "method": "gpt", "selected_ids": ["B07X8X6F5D", "B07QZJ53DB", "B083JT5JRZ", "B07GPB7YF3", "B07XBDLJN2"], "routing_action": "PASS_ALL"}
+{"query_id": "54514", "split": "test", "method": "jev", "selected_ids": ["B07X8X6F5D", "B07QZJ53DB", "B083JT5JRZ", "B07GPB7YF3", "B07XBDLJN2"], "routing_action": "PASS_ALL"}
+{"query_id": "54558", "split": "test", "method": "gpt", "selected_ids": ["B07757R58W", "B07D6VGNF3", "B077578W38"], "routing_action": "PASS_FILTERED"}
+{"query_id": "54558", "split": "test", "method": "jev", "selected_ids": ["B07757R58W", "B07D6VGNF3", "B077578W38"], "routing_action": "PASS_FILTERED"}
+{"query_id": "54596", "split": "test", "method": "gpt", "selected_ids": ["B07V4GH1J7", "B07GBQW9FV", "B082P4ZGZJ", "B07VFKLD37", "B07ZWN2XGN"], "routing_action": "PASS_ALL"}
+{"query_id": "54596", "split": "test", "method": "jev", "selected_ids": ["B07V4GH1J7", "B07GBQW9FV", "B082P4ZGZJ", "B07VFKLD37", "B07ZWN2XGN"], "routing_action": "PASS_ALL"}
+{"query_id": "54906", "split": "test", "method": "gpt", "selected_ids": ["B07L4RC374", "B07L4F3BJZ", "B07L4RM5HB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "54906", "split": "test", "method": "jev", "selected_ids": ["B07L4RC374", "B07L4F3BJZ", "B07L4RM5HB"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55332", "split": "test", "method": "gpt", "selected_ids": ["B07MXM78P9", "B07VGTGQSH", "B00DQYWIHA", "B084YRQTJV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55332", "split": "test", "method": "jev", "selected_ids": ["B07MXM78P9", "B07VGTGQSH", "B00DQYWIHA", "B084YRQTJV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55345", "split": "test", "method": "gpt", "selected_ids": ["B07F1T6TMX", "B07K6LYWBD", "B01IWL3Z6E", "B07V9JVT2D", "B076MNYRWS"], "routing_action": "PASS_ALL"}
+{"query_id": "55345", "split": "test", "method": "jev", "selected_ids": ["B07F1T6TMX", "B07K6LYWBD", "B01IWL3Z6E", "B07V9JVT2D"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55588", "split": "test", "method": "gpt", "selected_ids": ["B07W4JCVZP", "B079QN448N", "B01M7NCT5O"], "routing_action": "PASS_FILTERED"}
+{"query_id": "55588", "split": "test", "method": "jev", "selected_ids": ["B07W4JCVZP", "B079QN448N", "B01M7NCT5O"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56108", "split": "test", "method": "gpt", "selected_ids": ["B00TM80NE4", "B00JAWCU7K", "B01FWZ7QWW", "B00ZR4DCP4", "B01M8MMJEX"], "routing_action": "PASS_ALL"}
+{"query_id": "56108", "split": "test", "method": "jev", "selected_ids": ["B00TM80NE4", "B00JAWCU7K"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56200", "split": "test", "method": "gpt", "selected_ids": ["B01FRPIUKO", "B06XCKJVB2", "B00LXJ6PYM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56200", "split": "test", "method": "jev", "selected_ids": ["B01FRPIUKO", "B06XCKJVB2", "B00LXJ6PYM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5643", "split": "test", "method": "gpt", "selected_ids": ["B07KWSSMPF"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5643", "split": "test", "method": "jev", "selected_ids": ["B07KWSSMPF"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56916", "split": "test", "method": "gpt", "selected_ids": ["B01M6Y0VJ3", "B01LQM6M7A", "B01LXXRVAP", "B01M4IYQH3"], "routing_action": "PASS_FILTERED"}
+{"query_id": "56916", "split": "test", "method": "jev", "selected_ids": ["B01M6Y0VJ3", "B01LQM6M7A", "B01LXXRVAP", "B01M4IYQH3"], "routing_action": "PASS_FILTERED"}
+{"query_id": "57024", "split": "test", "method": "gpt", "selected_ids": ["B082MQZNZP", "B07SRYFTWN", "B013POYGIO", "B00S8L1WZ0", "B007206FKA"], "routing_action": "PASS_ALL"}
+{"query_id": "57024", "split": "test", "method": "jev", "selected_ids": ["B00S8L1WZ0", "B007206FKA"], "routing_action": "PASS_FILTERED"}
+{"query_id": "57152", "split": "test", "method": "gpt", "selected_ids": ["B01N5QG0TE", "B06ZZCBR2P", "B008J3ECAE", "B008J5FA8K", "B008J5F9H2"], "routing_action": "PASS_ALL"}
+{"query_id": "57152", "split": "test", "method": "jev", "selected_ids": ["B01N5QG0TE", "B06ZZCBR2P", "B008J3ECAE", "B008J5FA8K", "B008J5F9H2"], "routing_action": "PASS_ALL"}
+{"query_id": "57276", "split": "test", "method": "gpt", "selected_ids": ["B06W546T92", "B071LF1KKY", "B00KMW585I", "B01DZSM0HY", "B08CJM44RQ"], "routing_action": "PASS_ALL"}
+{"query_id": "57276", "split": "test", "method": "jev", "selected_ids": ["B06W546T92", "B071LF1KKY", "B00KMW585I", "B01DZSM0HY", "B08CJM44RQ"], "routing_action": "PASS_ALL"}
+{"query_id": "57285", "split": "test", "method": "gpt", "selected_ids": ["B00I0RXHWS", "B00AU6NNWG", "B0074FI28Q", "B07VHN6FZH", "B005UE6GRC"], "routing_action": "PASS_ALL"}
+{"query_id": "57285", "split": "test", "method": "jev", "selected_ids": ["B00I0RXHWS", "B00AU6NNWG", "B0074FI28Q", "B07VHN6FZH", "B005UE6GRC"], "routing_action": "PASS_ALL"}
+{"query_id": "57319", "split": "test", "method": "gpt", "selected_ids": ["B07Y4Z4SL9", "B074W9ZTNP", "B085VNL6F7", "B083N83455", "B083NCXZ5T"], "routing_action": "PASS_ALL"}
+{"query_id": "57319", "split": "test", "method": "jev", "selected_ids": ["B07Y4Z4SL9", "B074W9ZTNP", "B085VNL6F7", "B083N83455", "B083NCXZ5T"], "routing_action": "PASS_ALL"}
+{"query_id": "57927", "split": "test", "method": "gpt", "selected_ids": ["B079RJVQFF", "B0787GMT9N", "B07HKN74YR", "B07YVWRP8J", "B07YVWV7VJ"], "routing_action": "PASS_ALL"}
+{"query_id": "57927", "split": "test", "method": "jev", "selected_ids": ["B079RJVQFF", "B0787GMT9N", "B07HKN74YR", "B07YVWRP8J", "B07YVWV7VJ"], "routing_action": "PASS_ALL"}
+{"query_id": "5858", "split": "test", "method": "gpt", "selected_ids": ["B00IKF1P1U", "0520274911", "B01GYMNGMQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5858", "split": "test", "method": "jev", "selected_ids": ["B00IKF1P1U", "0520274911", "B01GYMNGMQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "58597", "split": "test", "method": "gpt", "selected_ids": ["B076B5BQ78", "B071X9PTYV", "B07Y3YZHPG", "B00JYHNNYK", "B073WFLD35"], "routing_action": "PASS_ALL"}
+{"query_id": "58597", "split": "test", "method": "jev", "selected_ids": ["B076B5BQ78", "B071X9PTYV", "B07Y3YZHPG", "B00JYHNNYK", "B073WFLD35"], "routing_action": "PASS_ALL"}
+{"query_id": "58636", "split": "test", "method": "gpt", "selected_ids": ["B0746H3KB2", "B08613FP4D", "B088LQL5PH", "B08HR34PMB", "B07NV1Z9CG"], "routing_action": "PASS_ALL"}
+{"query_id": "58636", "split": "test", "method": "jev", "selected_ids": ["B0746H3KB2", "B08613FP4D", "B088LQL5PH", "B08HR34PMB", "B07NV1Z9CG"], "routing_action": "PASS_ALL"}
+{"query_id": "58647", "split": "test", "method": "gpt", "selected_ids": ["B07YZ3RV5H", "B07VFZBNTN", "B07W3LLZ9M", "B07CG6VZMX", "B07WGR1DZZ"], "routing_action": "PASS_ALL"}
+{"query_id": "58647", "split": "test", "method": "jev", "selected_ids": ["B07YZ3RV5H", "B07VFZBNTN", "B07W3LLZ9M", "B07CG6VZMX", "B07WGR1DZZ"], "routing_action": "PASS_ALL"}
+{"query_id": "58811", "split": "test", "method": "gpt", "selected_ids": ["B07LFXSP6B", "B07MCTYW51", "B0000ZFJ6K", "B0046EJMAK", "B000HKM5YC"], "routing_action": "PASS_ALL"}
+{"query_id": "58811", "split": "test", "method": "jev", "selected_ids": ["B07LFXSP6B", "B07MCTYW51", "B0000ZFJ6K", "B0046EJMAK", "B000HKM5YC"], "routing_action": "PASS_ALL"}
+{"query_id": "5887", "split": "test", "method": "gpt", "selected_ids": ["B08R71Q6W7", "B08CY45242", "B07QPV9MRY", "B01M0WUEWU", "B01KNVF4SI"], "routing_action": "PASS_ALL"}
+{"query_id": "5887", "split": "test", "method": "jev", "selected_ids": ["B08R71Q6W7", "B08CY45242", "B07QPV9MRY", "B01M0WUEWU", "B01KNVF4SI"], "routing_action": "PASS_ALL"}
+{"query_id": "59088", "split": "test", "method": "gpt", "selected_ids": ["B00115YEBY", "B00827NMYE", "B008FRDRQO", "B00117BWZS", "B004EPYSFA"], "routing_action": "PASS_ALL"}
+{"query_id": "59088", "split": "test", "method": "jev", "selected_ids": ["B00115YEBY", "B00827NMYE", "B008FRDRQO", "B00117BWZS", "B004EPYSFA"], "routing_action": "PASS_ALL"}
+{"query_id": "59553", "split": "test", "method": "gpt", "selected_ids": ["B074MYNGT7", "B07Q5Z6TTS", "B07GWFSJTV", "B07JLGRN3H", "B07DXVVPXR"], "routing_action": "PASS_ALL"}
+{"query_id": "59553", "split": "test", "method": "jev", "selected_ids": ["B074MYNGT7", "B07Q5Z6TTS", "B07GWFSJTV", "B07JLGRN3H", "B07DXVVPXR"], "routing_action": "PASS_ALL"}
+{"query_id": "5993", "split": "test", "method": "gpt", "selected_ids": ["B082S7NCB8", "B08B3W6PB3", "B082VVF5VF", "B07Z8LGSZX"], "routing_action": "PASS_FILTERED"}
+{"query_id": "5993", "split": "test", "method": "jev", "selected_ids": ["B087ST4DTV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "60597", "split": "test", "method": "gpt", "selected_ids": ["B086XCWV7B", "141662497X", "1422186431", "152722208X", "0071808868"], "routing_action": "PASS_ALL"}
+{"query_id": "60597", "split": "test", "method": "jev", "selected_ids": ["B086XCWV7B", "141662497X", "1422186431", "152722208X", "0071808868"], "routing_action": "PASS_ALL"}
+{"query_id": "60681", "split": "test", "method": "gpt", "selected_ids": ["B07CYJTZ8N", "B079JCC98S", "B07C632CT4", "B079JC9492", "B001VN2N5A"], "routing_action": "PASS_ALL"}
+{"query_id": "60681", "split": "test", "method": "jev", "selected_ids": ["B07CYJTZ8N", "B079JCC98S", "B07C632CT4", "B079JC9492", "B001VN2N5A"], "routing_action": "PASS_ALL"}
+{"query_id": "61155", "split": "test", "method": "gpt", "selected_ids": ["B0029VXS2U", "B07Y4B3ZHX", "B0777SZN18", "B011G4MIBW", "B0000AQH7F"], "routing_action": "PASS_ALL"}
+{"query_id": "61155", "split": "test", "method": "jev", "selected_ids": ["B0029VXS2U", "B07Y4B3ZHX", "B011G4MIBW", "B0000AQH7F"], "routing_action": "PASS_FILTERED"}
+{"query_id": "61199", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "61199", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "61227", "split": "test", "method": "gpt", "selected_ids": ["B07GXC4R9R", "B07D49MB79", "B07WD5XMVX", "B07GX7R73M", "B01KJENY9A"], "routing_action": "PASS_ALL"}
+{"query_id": "61227", "split": "test", "method": "jev", "selected_ids": ["B07GXC4R9R", "B07D49MB79", "B07WD5XMVX", "B07GX7R73M", "B01KJENY9A"], "routing_action": "PASS_ALL"}
+{"query_id": "61440", "split": "test", "method": "gpt", "selected_ids": ["B01N42GA4X", "B01GGO59SQ", "B071HCXYWN", "B00020HQU0", "B01F45DZUC"], "routing_action": "PASS_ALL"}
+{"query_id": "61440", "split": "test", "method": "jev", "selected_ids": ["B01N42GA4X", "B01GGO59SQ", "B071HCXYWN", "B00020HQU0", "B01F45DZUC"], "routing_action": "PASS_ALL"}
+{"query_id": "61497", "split": "test", "method": "gpt", "selected_ids": ["B07WRV6NFG", "B0825D6CVF", "B07P7MDH6X", "B07F73YGZJ", "B0826R9JG3"], "routing_action": "PASS_ALL"}
+{"query_id": "61497", "split": "test", "method": "jev", "selected_ids": ["B07WRV6NFG", "B0825D6CVF", "B07P7MDH6X", "B07F73YGZJ", "B0826R9JG3"], "routing_action": "PASS_ALL"}
+{"query_id": "6158", "split": "test", "method": "gpt", "selected_ids": ["B097M7NLVN", "B07HFHTGX3", "B08Z7N3BMN", "B07P87JTVT", "B07L9W45MY"], "routing_action": "PASS_ALL"}
+{"query_id": "6158", "split": "test", "method": "jev", "selected_ids": ["B097M7NLVN", "B07HFHTGX3", "B08Z7N3BMN", "B07P87JTVT", "B07L9W45MY"], "routing_action": "PASS_ALL"}
+{"query_id": "61598", "split": "test", "method": "gpt", "selected_ids": ["B01GRP48J0", "B07BKW8FFC", "B075DZQT1B", "B07T2NQ5RB", "B016U6ZJGM"], "routing_action": "PASS_ALL"}
+{"query_id": "61598", "split": "test", "method": "jev", "selected_ids": ["B01GRP48J0", "B07BKW8FFC", "B075DZQT1B", "B07T2NQ5RB", "B016U6ZJGM"], "routing_action": "PASS_ALL"}
+{"query_id": "61710", "split": "test", "method": "gpt", "selected_ids": ["B00C7XINH0", "B01ECG2DTS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "61710", "split": "test", "method": "jev", "selected_ids": ["B00C7XINH0", "B01ECG2DTS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "61933", "split": "test", "method": "gpt", "selected_ids": ["B01IN6H9PQ", "B07ND627NY", "B07BJJN25X", "B01G4W0I72"], "routing_action": "PASS_FILTERED"}
+{"query_id": "61933", "split": "test", "method": "jev", "selected_ids": ["B01IN6H9PQ", "B07ND627NY", "B07BJJN25X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "62421", "split": "test", "method": "gpt", "selected_ids": ["B01HXYNYUS", "B07D9C8NP2", "B01I0VD8JA", "B07RYM279X", "B07DC4PZC4"], "routing_action": "PASS_ALL"}
+{"query_id": "62421", "split": "test", "method": "jev", "selected_ids": ["B01HXYNYUS", "B07D9C8NP2", "B01I0VD8JA", "B07RYM279X", "B07DC4PZC4"], "routing_action": "PASS_ALL"}
+{"query_id": "62512", "split": "test", "method": "gpt", "selected_ids": ["B084G1YF8K", "B07VJYRXW9", "B082NYF2BJ", "B07TVR7CKZ", "B07W45V1DX"], "routing_action": "PASS_ALL"}
+{"query_id": "62512", "split": "test", "method": "jev", "selected_ids": ["B084G1YF8K", "B07VJYRXW9", "B082NYF2BJ", "B07TVR7CKZ", "B07W45V1DX"], "routing_action": "PASS_ALL"}
+{"query_id": "62934", "split": "test", "method": "gpt", "selected_ids": ["B07BDQR8ZK", "B00OS7P1VE", "B00005V5ME", "B0009H5J82", "B00E1AQE46"], "routing_action": "PASS_ALL"}
+{"query_id": "62934", "split": "test", "method": "jev", "selected_ids": ["B07BDQR8ZK", "B00OS7P1VE", "B00005V5ME", "B0009H5J82", "B00E1AQE46"], "routing_action": "PASS_ALL"}
+{"query_id": "63583", "split": "test", "method": "gpt", "selected_ids": ["B01LYR1P7U", "B07K2YR324", "B07C3WMKCG", "B07N4LKDX9", "B074R7HK2M"], "routing_action": "PASS_ALL"}
+{"query_id": "63583", "split": "test", "method": "jev", "selected_ids": ["B01LYR1P7U", "B07K2YR324", "B07C3WMKCG", "B07N4LKDX9", "B074R7HK2M"], "routing_action": "PASS_ALL"}
+{"query_id": "63675", "split": "test", "method": "gpt", "selected_ids": ["B091YKX6SQ", "B08FSYNXK9", "B091YPPV66", "B08285LCB9", "B08BHX7QW1"], "routing_action": "PASS_ALL"}
+{"query_id": "63675", "split": "test", "method": "jev", "selected_ids": ["B091YKX6SQ", "B08FSYNXK9", "B091YPPV66", "B08285LCB9", "B08BHX7QW1"], "routing_action": "PASS_ALL"}
+{"query_id": "64272", "split": "test", "method": "gpt", "selected_ids": ["B07SLYR9VY", "B07KVTMJPL", "B0788GKSZ9", "B07B53FXDG", "B07TM9HGGF"], "routing_action": "PASS_ALL"}
+{"query_id": "64272", "split": "test", "method": "jev", "selected_ids": ["B07SLYR9VY", "B07KVTMJPL", "B0788GKSZ9", "B07B53FXDG", "B07TM9HGGF"], "routing_action": "PASS_ALL"}
+{"query_id": "64400", "split": "test", "method": "gpt", "selected_ids": ["B07XZL57NB", "B000VA5XHE", "B00BX9LSK8", "B00I5MP7D0", "B01BL3WCCS"], "routing_action": "PASS_ALL"}
+{"query_id": "64400", "split": "test", "method": "jev", "selected_ids": ["B07XZL57NB", "B000VA5XHE", "B00BX9LSK8", "B00I5MP7D0", "B01BL3WCCS"], "routing_action": "PASS_ALL"}
+{"query_id": "64772", "split": "test", "method": "gpt", "selected_ids": ["B01345OFV2", "B076QDDR2P", "B07HKMBPZY", "B01CK6Y566", "B06ZYJ3RW9"], "routing_action": "PASS_ALL"}
+{"query_id": "64772", "split": "test", "method": "jev", "selected_ids": ["B01345OFV2", "B076QDDR2P", "B07HKMBPZY", "B01CK6Y566", "B06ZYJ3RW9"], "routing_action": "PASS_ALL"}
+{"query_id": "65088", "split": "test", "method": "gpt", "selected_ids": ["B006IQOU2O", "B01ARK0O4E", "B06Y11HZ9D", "B07FS16S3G", "B073C3Z34Q"], "routing_action": "PASS_ALL"}
+{"query_id": "65088", "split": "test", "method": "jev", "selected_ids": ["B006IQOU2O", "B01ARK0O4E", "B06Y11HZ9D", "B07FS16S3G", "B073C3Z34Q"], "routing_action": "PASS_ALL"}
+{"query_id": "65096", "split": "test", "method": "gpt", "selected_ids": ["B07SFLFMV4", "B07RHX1ZJ5", "B085ZWV3GP", "B07P1S7WCW", "B07BMY1BCR"], "routing_action": "PASS_ALL"}
+{"query_id": "65096", "split": "test", "method": "jev", "selected_ids": ["B07SFLFMV4", "B07RHX1ZJ5", "B085ZWV3GP", "B07P1S7WCW", "B07BMY1BCR"], "routing_action": "PASS_ALL"}
+{"query_id": "65773", "split": "test", "method": "gpt", "selected_ids": ["1689139439", "0312131216", "1250164680", "B005E8AG5W"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65773", "split": "test", "method": "jev", "selected_ids": ["1689139439", "0312131216", "1250164680", "B005E8AG5W", "079353965X"], "routing_action": "PASS_ALL"}
+{"query_id": "6579", "split": "test", "method": "gpt", "selected_ids": ["B07XD68NLS", "B076PGTRF4", "B087LP5HKX", "B07RP4CCHF", "B07D9K96TP"], "routing_action": "PASS_ALL"}
+{"query_id": "6579", "split": "test", "method": "jev", "selected_ids": ["B07XD68NLS", "B076PGTRF4", "B087LP5HKX", "B07RP4CCHF", "B07D9K96TP"], "routing_action": "PASS_ALL"}
+{"query_id": "65810", "split": "test", "method": "gpt", "selected_ids": ["B08BXPYC93", "B08B8W95ZV", "B003ELUZHK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65810", "split": "test", "method": "jev", "selected_ids": ["B08BXPYC93", "B08B8W95ZV", "B003ELUZHK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65936", "split": "test", "method": "gpt", "selected_ids": ["B001MT461C", "B001R2LKO0", "B07HHH1XJ7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65936", "split": "test", "method": "jev", "selected_ids": ["B001MT461C", "B001R2LKO0", "B07HHH1XJ7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65977", "split": "test", "method": "gpt", "selected_ids": ["B004S8F7QM", "B01J2RNU9Y", "B077LTF9VM", "B01J2RYK8E"], "routing_action": "PASS_FILTERED"}
+{"query_id": "65977", "split": "test", "method": "jev", "selected_ids": ["B004S8F7QM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "66160", "split": "test", "method": "gpt", "selected_ids": ["B08HJYLK87", "B08FDQNF88", "B08W2BMPSM", "B084Z1VTCX", "B08BFHSL85"], "routing_action": "PASS_ALL"}
+{"query_id": "66160", "split": "test", "method": "jev", "selected_ids": ["B08HJYLK87", "B08FDQNF88", "B08W2BMPSM", "B084Z1VTCX", "B08BFHSL85"], "routing_action": "PASS_ALL"}
+{"query_id": "6636", "split": "test", "method": "gpt", "selected_ids": ["B081ZGYKJP", "B08FZT4WMT", "B077XN1S7W", "B085F3DMM7", "B077XKKFM6"], "routing_action": "PASS_ALL"}
+{"query_id": "6636", "split": "test", "method": "jev", "selected_ids": ["B081ZGYKJP", "B08FZT4WMT", "B077XN1S7W", "B085F3DMM7", "B077XKKFM6"], "routing_action": "PASS_ALL"}
+{"query_id": "66657", "split": "test", "method": "gpt", "selected_ids": ["B08B7C2L56", "B07H5MCYHH", "B07VVR6RSN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "66657", "split": "test", "method": "jev", "selected_ids": ["B08B7C2L56", "B07VVR6RSN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "66787", "split": "test", "method": "gpt", "selected_ids": ["B08KT3P5BS", "B086TBFCZV", "B09BZR21RJ", "B07VR26V1Y", "B08H9QJVNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "66787", "split": "test", "method": "jev", "selected_ids": ["B08KT3P5BS", "B086TBFCZV", "B09BZR21RJ", "B07VR26V1Y", "B08H9QJVNZ"], "routing_action": "PASS_ALL"}
+{"query_id": "66846", "split": "test", "method": "gpt", "selected_ids": ["B006SEQVWS", "B081M71YMP", "B07C38XC3F", "B0823SDPT5", "B012IYSF8Y"], "routing_action": "PASS_ALL"}
+{"query_id": "66846", "split": "test", "method": "jev", "selected_ids": ["B006SEQVWS", "B081M71YMP", "B07C38XC3F", "B0823SDPT5", "B012IYSF8Y"], "routing_action": "PASS_ALL"}
+{"query_id": "67128", "split": "test", "method": "gpt", "selected_ids": ["B07XP49XKX", "B07PPMJGK2", "B07C74TB4L", "B082XRCLH5", "B07C7WZ8QM"], "routing_action": "PASS_ALL"}
+{"query_id": "67128", "split": "test", "method": "jev", "selected_ids": ["B07XP49XKX", "B07PPMJGK2", "B07C74TB4L", "B082XRCLH5", "B07C7WZ8QM"], "routing_action": "PASS_ALL"}
+{"query_id": "67552", "split": "test", "method": "gpt", "selected_ids": ["B079MDJTTV", "B07KJRB89P", "B07QSC8MMG", "B07KJT34DG", "B06Y43L4SR"], "routing_action": "PASS_ALL"}
+{"query_id": "67552", "split": "test", "method": "jev", "selected_ids": ["B079MDJTTV", "B07KJRB89P", "B07QSC8MMG", "B07KJT34DG", "B06Y43L4SR"], "routing_action": "PASS_ALL"}
+{"query_id": "67894", "split": "test", "method": "gpt", "selected_ids": ["B07RWDV8ST", "B076JG23RY", "B01MR31D08", "B07GBF9M5D", "B003OGBCMC"], "routing_action": "PASS_ALL"}
+{"query_id": "67894", "split": "test", "method": "jev", "selected_ids": ["B07RWDV8ST", "B076JG23RY", "B01MR31D08", "B07GBF9M5D", "B003OGBCMC"], "routing_action": "PASS_ALL"}
+{"query_id": "68141", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "68141", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "68516", "split": "test", "method": "gpt", "selected_ids": ["B08155K2Z3", "B0886JGBP1", "B07HQM4RR6", "B07WGHXYLW", "B07ZQV7YY5"], "routing_action": "PASS_ALL"}
+{"query_id": "68516", "split": "test", "method": "jev", "selected_ids": ["B08155K2Z3", "B0886JGBP1", "B07HQM4RR6", "B07WGHXYLW", "B07ZQV7YY5"], "routing_action": "PASS_ALL"}
+{"query_id": "68930", "split": "test", "method": "gpt", "selected_ids": ["B076V72BZ6", "B07PSY2RVD", "B072JML2GZ", "B071WCB1T6", "B07W14WGSK"], "routing_action": "PASS_ALL"}
+{"query_id": "68930", "split": "test", "method": "jev", "selected_ids": ["B076V72BZ6", "B07PSY2RVD", "B072JML2GZ", "B071WCB1T6", "B07W14WGSK"], "routing_action": "PASS_ALL"}
+{"query_id": "69033", "split": "test", "method": "gpt", "selected_ids": ["B07CMZVT6T", "B0784QZG54"], "routing_action": "PASS_FILTERED"}
+{"query_id": "69033", "split": "test", "method": "jev", "selected_ids": ["B07CMZVT6T", "B0784QZG54"], "routing_action": "PASS_FILTERED"}
+{"query_id": "69110", "split": "test", "method": "gpt", "selected_ids": ["B07W4BL3VZ", "B087TL2BR9", "B08BJJXTWL", "B06XHWQJKN", "B07WSTDVCR"], "routing_action": "PASS_ALL"}
+{"query_id": "69110", "split": "test", "method": "jev", "selected_ids": ["B07W4BL3VZ", "B08BJJXTWL", "B06XHWQJKN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "6961", "split": "test", "method": "gpt", "selected_ids": ["B08D6GMZP7", "B089DG2XCK", "B08F7GRNP9", "B07WJZ34FQ", "B08CBJJFDG"], "routing_action": "PASS_ALL"}
+{"query_id": "6961", "split": "test", "method": "jev", "selected_ids": ["B08D6GMZP7", "B089DG2XCK", "B08F7GRNP9", "B07WJZ34FQ", "B08CBJJFDG"], "routing_action": "PASS_ALL"}
+{"query_id": "69934", "split": "test", "method": "gpt", "selected_ids": ["B07T6ZJN4R", "B07RV73GBQ", "B07V5J98F9", "B0771N1BZW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "69934", "split": "test", "method": "jev", "selected_ids": ["B07T6ZJN4R", "B07RV73GBQ", "B07V5J98F9", "B0771N1BZW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70265", "split": "test", "method": "gpt", "selected_ids": ["B001V6TQKW", "B098MS5LML", "B01DKWJ0O6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70265", "split": "test", "method": "jev", "selected_ids": ["B001V6TQKW", "B098MS5LML", "B01DKWJ0O6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70269", "split": "test", "method": "gpt", "selected_ids": ["1074728211"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70269", "split": "test", "method": "jev", "selected_ids": ["1074728211"], "routing_action": "PASS_FILTERED"}
+{"query_id": "70326", "split": "test", "method": "gpt", "selected_ids": ["B08DYCKQJR", "B07VFCCQV5", "B089H1K7VX", "B07Z9FPZBN", "B084D3XFD4"], "routing_action": "PASS_ALL"}
+{"query_id": "70326", "split": "test", "method": "jev", "selected_ids": ["B08DYCKQJR", "B07VFCCQV5", "B089H1K7VX", "B07Z9FPZBN", "B084D3XFD4"], "routing_action": "PASS_ALL"}
+{"query_id": "7034", "split": "test", "method": "gpt", "selected_ids": ["B00D52E2XG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "7034", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "70617", "split": "test", "method": "gpt", "selected_ids": ["B07VPRGLK7", "B07K1GWDK6", "B07ZVHBFPM", "B08227VNNW", "B014UM9N3I"], "routing_action": "PASS_ALL"}
+{"query_id": "70617", "split": "test", "method": "jev", "selected_ids": ["B07VPRGLK7", "B07K1GWDK6", "B07ZVHBFPM", "B08227VNNW", "B014UM9N3I"], "routing_action": "PASS_ALL"}
+{"query_id": "70749", "split": "test", "method": "gpt", "selected_ids": ["B075SBMTQL", "B07C7ZSC8G", "B0088CPI40", "B00194D6ZW", "B07JCQ8GQJ"], "routing_action": "PASS_ALL"}
+{"query_id": "70749", "split": "test", "method": "jev", "selected_ids": ["B075SBMTQL", "B07C7ZSC8G", "B0088CPI40", "B00194D6ZW", "B07JCQ8GQJ"], "routing_action": "PASS_ALL"}
+{"query_id": "71401", "split": "test", "method": "gpt", "selected_ids": ["B081ZSK2V5", "B08BG41F2M", "B0821ZSLZX", "B07MGGLF6X", "B095L158GC"], "routing_action": "PASS_ALL"}
+{"query_id": "71401", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "71838", "split": "test", "method": "gpt", "selected_ids": ["1626928894", "1626926034", "1626929998", "1645059995"], "routing_action": "PASS_FILTERED"}
+{"query_id": "71838", "split": "test", "method": "jev", "selected_ids": ["1626928894", "1626926034", "1626929998"], "routing_action": "PASS_FILTERED"}
+{"query_id": "71850", "split": "test", "method": "gpt", "selected_ids": ["B083TMBXV6", "B08V8MVNZ9", "B08V8SZY5K", "B08V8H6VT7", "B083TPD1WT"], "routing_action": "PASS_ALL"}
+{"query_id": "71850", "split": "test", "method": "jev", "selected_ids": ["B083TMBXV6", "B08V8MVNZ9", "B08V8SZY5K", "B08V8H6VT7", "B083TPD1WT"], "routing_action": "PASS_ALL"}
+{"query_id": "71902", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "71902", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "71927", "split": "test", "method": "gpt", "selected_ids": ["B0832B1JYY"], "routing_action": "PASS_FILTERED"}
+{"query_id": "71927", "split": "test", "method": "jev", "selected_ids": ["B082G1R3DF", "B0832B1JYY"], "routing_action": "PASS_FILTERED"}
+{"query_id": "72036", "split": "test", "method": "gpt", "selected_ids": ["B07GWQXFTB", "B07MF2LM7Q", "B00QV035SM", "B0886DC7F8", "B07Z1WDWYS"], "routing_action": "PASS_ALL"}
+{"query_id": "72036", "split": "test", "method": "jev", "selected_ids": ["B07GWQXFTB", "B07Z1WDWYS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "72132", "split": "test", "method": "gpt", "selected_ids": ["B01FGJJE1K", "B074MPQ4ZD", "B06XBS3WDR", "B015YI5I40", "B071FHZM95"], "routing_action": "PASS_ALL"}
+{"query_id": "72132", "split": "test", "method": "jev", "selected_ids": ["B01FGJJE1K", "B074MPQ4ZD", "B06XBS3WDR", "B015YI5I40", "B071FHZM95"], "routing_action": "PASS_ALL"}
+{"query_id": "72232", "split": "test", "method": "gpt", "selected_ids": ["B00MZYQLXY", "B078J1K4XG", "B07XHX3G6H", "B07QY9G3SD", "B07XPDF2QL"], "routing_action": "PASS_ALL"}
+{"query_id": "72232", "split": "test", "method": "jev", "selected_ids": ["B00MZYQLXY", "B078J1K4XG", "B07XHX3G6H", "B07QY9G3SD", "B07XPDF2QL"], "routing_action": "PASS_ALL"}
+{"query_id": "7240", "split": "test", "method": "gpt", "selected_ids": ["B0002YQOJK", "B000HX00WS", "B000EOX12Q", "B002HWSATC", "B000MYFE6Y"], "routing_action": "PASS_ALL"}
+{"query_id": "7240", "split": "test", "method": "jev", "selected_ids": ["B0002YQOJK", "B000HX00WS", "B000EOX12Q", "B002HWSATC", "B000MYFE6Y"], "routing_action": "PASS_ALL"}
+{"query_id": "72427", "split": "test", "method": "gpt", "selected_ids": ["B010REA33W", "B00359UZ26", "B0175XOURS", "B0081D0LB6", "B0177G458W"], "routing_action": "PASS_ALL"}
+{"query_id": "72427", "split": "test", "method": "jev", "selected_ids": ["B010REA33W", "B00359UZ26", "B0175XOURS", "B0081D0LB6", "B0177G458W"], "routing_action": "PASS_ALL"}
+{"query_id": "72821", "split": "test", "method": "gpt", "selected_ids": ["B07MK2RLNC", "B07H7D5J84", "B07TPSBH9K", "B0753Z7CS5", "B076J2WHKF"], "routing_action": "PASS_ALL"}
+{"query_id": "72821", "split": "test", "method": "jev", "selected_ids": ["B0753Z7CS5"], "routing_action": "PASS_FILTERED"}
+{"query_id": "72949", "split": "test", "method": "gpt", "selected_ids": ["B074NBTCY7", "B07KTBJTTS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "72949", "split": "test", "method": "jev", "selected_ids": ["B074NBTCY7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73119", "split": "test", "method": "gpt", "selected_ids": ["B07VM49TRX"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73119", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "73124", "split": "test", "method": "gpt", "selected_ids": ["B087RSC5YJ", "B07H938HCV", "B087QMGSCG", "B0859YZTFL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73124", "split": "test", "method": "jev", "selected_ids": ["B087RSC5YJ", "B07H938HCV", "B087QMGSCG", "B0859YZTFL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73142", "split": "test", "method": "gpt", "selected_ids": ["B074PWW6NS", "B0863BT4DD", "B08628L463", "B07FSQ7JVP", "B07K3YJ8BZ"], "routing_action": "PASS_ALL"}
+{"query_id": "73142", "split": "test", "method": "jev", "selected_ids": ["B074PWW6NS", "B0863BT4DD", "B08628L463", "B07FSQ7JVP", "B07K3YJ8BZ"], "routing_action": "PASS_ALL"}
+{"query_id": "73580", "split": "test", "method": "gpt", "selected_ids": ["B07Q4F3FND", "B007ESKOMK", "B01AYVELF4", "B00M1E9E0U", "B01880SYGK"], "routing_action": "PASS_ALL"}
+{"query_id": "73580", "split": "test", "method": "jev", "selected_ids": ["B07Q4F3FND", "B01AYVELF4", "B01880SYGK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "73826", "split": "test", "method": "gpt", "selected_ids": ["B07F249H14", "B07TKXBYBZ", "B01LZ2MX91", "B0744XTWL4", "B07JKVHH2X"], "routing_action": "PASS_ALL"}
+{"query_id": "73826", "split": "test", "method": "jev", "selected_ids": ["B07F249H14", "B07TKXBYBZ", "B01LZ2MX91", "B0744XTWL4", "B07JKVHH2X"], "routing_action": "PASS_ALL"}
+{"query_id": "74075", "split": "test", "method": "gpt", "selected_ids": ["B07FXN5G1F", "B07VG1SL29", "B0186Z5O56", "B074XCDQVR", "B083R4PVL4"], "routing_action": "PASS_ALL"}
+{"query_id": "74075", "split": "test", "method": "jev", "selected_ids": ["B07FXN5G1F", "B07VG1SL29", "B0186Z5O56", "B074XCDQVR", "B083R4PVL4"], "routing_action": "PASS_ALL"}
+{"query_id": "74193", "split": "test", "method": "gpt", "selected_ids": ["B07KW7QSVR", "B07KW716BL", "B07KW7JXFD", "B07KVYFMF2", "B00Y2REP58"], "routing_action": "PASS_ALL"}
+{"query_id": "74193", "split": "test", "method": "jev", "selected_ids": ["B07KW7QSVR", "B07KW716BL", "B07KW7JXFD", "B07KVYFMF2", "B00Y2REP58"], "routing_action": "PASS_ALL"}
+{"query_id": "74274", "split": "test", "method": "gpt", "selected_ids": ["B07L523B2Q", "B01B6E2JPC", "B01HFN5R9I", "B079ZBP341", "B01HFN5CRA"], "routing_action": "PASS_ALL"}
+{"query_id": "74274", "split": "test", "method": "jev", "selected_ids": ["B07L523B2Q", "B01B6E2JPC", "B01HFN5R9I", "B079ZBP341", "B01HFN5CRA"], "routing_action": "PASS_ALL"}
+{"query_id": "74336", "split": "test", "method": "gpt", "selected_ids": ["B00GV2OCLE", "B00GV2IXQE", "B07GVSSMRG", "B00VBRJSVI", "B0756L2NBD"], "routing_action": "PASS_ALL"}
+{"query_id": "74336", "split": "test", "method": "jev", "selected_ids": ["B00GV2OCLE", "B00GV2IXQE", "B07GVSSMRG", "B00VBRJSVI", "B0756L2NBD"], "routing_action": "PASS_ALL"}
+{"query_id": "74406", "split": "test", "method": "gpt", "selected_ids": ["B00RP0GHBO", "B01N093BYV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74406", "split": "test", "method": "jev", "selected_ids": ["B00RP0GHBO", "B01N093BYV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "74896", "split": "test", "method": "gpt", "selected_ids": ["B07Z22QLX5", "B07Q15748G", "B0753DPK81", "B081TC6MG6", "B0085872MI"], "routing_action": "PASS_ALL"}
+{"query_id": "74896", "split": "test", "method": "jev", "selected_ids": ["B07Z22QLX5", "B07Q15748G", "B0753DPK81", "B081TC6MG6", "B0085872MI"], "routing_action": "PASS_ALL"}
+{"query_id": "75097", "split": "test", "method": "gpt", "selected_ids": ["B073V9FCCY", "B083QNDQTQ", "B086SRTL1R", "B01C5CRKQC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75097", "split": "test", "method": "jev", "selected_ids": ["B083QNDQTQ", "B086SRTL1R", "B01C5CRKQC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "7528", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "7528", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "75409", "split": "test", "method": "gpt", "selected_ids": ["B07FPQHLDL", "B07FGZQYCV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75409", "split": "test", "method": "jev", "selected_ids": ["B07FGZQYCV"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75442", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "75442", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "75543", "split": "test", "method": "gpt", "selected_ids": ["B01E5ZO452", "B002CQU596", "B00CBY93XS", "B008OXT3DK", "B015JVU5XG"], "routing_action": "PASS_ALL"}
+{"query_id": "75543", "split": "test", "method": "jev", "selected_ids": ["B01E5ZO452", "B002CQU596", "B00CBY93XS", "B008OXT3DK", "B015JVU5XG"], "routing_action": "PASS_ALL"}
+{"query_id": "75565", "split": "test", "method": "gpt", "selected_ids": ["B07RX8WQ4K", "B01MRL790Q", "B07S2H45NN", "B07S3LNS1L", "B01BL48A8C"], "routing_action": "PASS_ALL"}
+{"query_id": "75565", "split": "test", "method": "jev", "selected_ids": ["B07RX8WQ4K", "B01MRL790Q", "B07S2H45NN", "B07S3LNS1L", "B01BL48A8C"], "routing_action": "PASS_ALL"}
+{"query_id": "75779", "split": "test", "method": "gpt", "selected_ids": ["B005MB6ZY2", "B004RZGCWY", "B01BF4NN9Y", "B00U2P43QK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75779", "split": "test", "method": "jev", "selected_ids": ["B005MB6ZY2", "B004RZGCWY", "B01BF4NN9Y", "B00U2P43QK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75824", "split": "test", "method": "gpt", "selected_ids": ["B07MRGLBCT"], "routing_action": "PASS_FILTERED"}
+{"query_id": "75824", "split": "test", "method": "jev", "selected_ids": ["B07MRGLBCT"], "routing_action": "PASS_FILTERED"}
+{"query_id": "76091", "split": "test", "method": "gpt", "selected_ids": ["B073Z45CF6", "B07Y1LCD7T", "B01KYI243S", "B07VWCZ5BJ", "B07GVNLSSM"], "routing_action": "PASS_ALL"}
+{"query_id": "76091", "split": "test", "method": "jev", "selected_ids": ["B073Z45CF6", "B07Y1LCD7T", "B01KYI243S", "B07VWCZ5BJ", "B07GVNLSSM"], "routing_action": "PASS_ALL"}
+{"query_id": "77204", "split": "test", "method": "gpt", "selected_ids": ["B07NLR4TZC", "B07M9LH7QW", "B077R31S71", "B077R3K6TB", "B077R365W8"], "routing_action": "PASS_ALL"}
+{"query_id": "77204", "split": "test", "method": "jev", "selected_ids": ["B07NLR4TZC", "B07M9LH7QW", "B077R31S71", "B077R3K6TB", "B077R365W8"], "routing_action": "PASS_ALL"}
+{"query_id": "77343", "split": "test", "method": "gpt", "selected_ids": ["B08X6MMSX2", "B07VCVL7M3", "B093RDWYLV", "B09B4P8C21", "B082VV2GDL"], "routing_action": "PASS_ALL"}
+{"query_id": "77343", "split": "test", "method": "jev", "selected_ids": ["B08X6MMSX2", "B07VCVL7M3", "B093RDWYLV", "B09B4P8C21", "B082VV2GDL"], "routing_action": "PASS_ALL"}
+{"query_id": "77452", "split": "test", "method": "gpt", "selected_ids": ["B07KXFVZF9", "B07ZWLBZ8G", "B07ZWCDMJY", "B07KWG1FLJ", "B0812936KQ"], "routing_action": "PASS_ALL"}
+{"query_id": "77452", "split": "test", "method": "jev", "selected_ids": ["B07KXFVZF9", "B07ZWLBZ8G", "B07ZWCDMJY", "B07KWG1FLJ", "B0812936KQ"], "routing_action": "PASS_ALL"}
+{"query_id": "77917", "split": "test", "method": "gpt", "selected_ids": ["B01H50T4QI", "B07NW88NHL", "B07K7GM8K7", "B07QWRWW2N", "B07PDB8D11"], "routing_action": "PASS_ALL"}
+{"query_id": "77917", "split": "test", "method": "jev", "selected_ids": ["B01H50T4QI", "B07NW88NHL", "B07K7GM8K7", "B07QWRWW2N", "B07PDB8D11"], "routing_action": "PASS_ALL"}
+{"query_id": "78450", "split": "test", "method": "gpt", "selected_ids": ["0634025635", "B0017JASBY", "063403085X", "0634029797", "B00166EKW6"], "routing_action": "PASS_ALL"}
+{"query_id": "78450", "split": "test", "method": "jev", "selected_ids": ["0634025635", "B0017JASBY", "063403085X", "0634029797", "B00166EKW6"], "routing_action": "PASS_ALL"}
+{"query_id": "78876", "split": "test", "method": "gpt", "selected_ids": ["B000YJ66SW", "B002J9HNY6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "78876", "split": "test", "method": "jev", "selected_ids": ["B000YJ66SW", "B002J9HNY6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "78915", "split": "test", "method": "gpt", "selected_ids": ["B0036UXXNW", "B0863HTKY7", "B01N5TIY3J", "B0006I0EE8", "B07FWJGBLR"], "routing_action": "PASS_ALL"}
+{"query_id": "78915", "split": "test", "method": "jev", "selected_ids": ["B0036UXXNW", "B0863HTKY7", "B01N5TIY3J", "B0006I0EE8", "B07FWJGBLR"], "routing_action": "PASS_ALL"}
+{"query_id": "78974", "split": "test", "method": "gpt", "selected_ids": ["B095KN9NPB", "B0842X13H8", "B00UTL0R26", "1590171330", "B07ZHLPY5K"], "routing_action": "PASS_ALL"}
+{"query_id": "78974", "split": "test", "method": "jev", "selected_ids": ["B0842X13H8", "B00UTL0R26"], "routing_action": "PASS_FILTERED"}
+{"query_id": "79100", "split": "test", "method": "gpt", "selected_ids": ["B07TX7Z3FC", "B0811JH716", "B01N5P3WJQ", "B07H1D844W", "B07H27GSFD"], "routing_action": "PASS_ALL"}
+{"query_id": "79100", "split": "test", "method": "jev", "selected_ids": ["B07TX7Z3FC", "B0811JH716", "B01N5P3WJQ", "B07H1D844W", "B07H27GSFD"], "routing_action": "PASS_ALL"}
+{"query_id": "79263", "split": "test", "method": "gpt", "selected_ids": ["B07GF7SRTP", "B07BK82W52", "B001EQ4OWO", "B0002DI35E", "B07DHVDPY7"], "routing_action": "PASS_ALL"}
+{"query_id": "79263", "split": "test", "method": "jev", "selected_ids": ["B07GF7SRTP", "B07BK82W52", "B001EQ4OWO", "B0002DI35E", "B07DHVDPY7"], "routing_action": "PASS_ALL"}
+{"query_id": "79351", "split": "test", "method": "gpt", "selected_ids": ["B07NCMM36K", "B07MBC8PNB", "B004YR0IVQ", "B00RNJKF8S", "B01MQ0KDC4"], "routing_action": "PASS_ALL"}
+{"query_id": "79351", "split": "test", "method": "jev", "selected_ids": ["B07MBC8PNB", "B004YR0IVQ", "B01MQ0KDC4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "79993", "split": "test", "method": "gpt", "selected_ids": ["B07TTNC8PZ", "B07KFSJVTX", "B07VDZ9176", "B0869LTY2K", "B082PM3V77"], "routing_action": "PASS_ALL"}
+{"query_id": "79993", "split": "test", "method": "jev", "selected_ids": ["B07TTNC8PZ", "B07KFSJVTX", "B0869LTY2K", "B082PM3V77"], "routing_action": "PASS_FILTERED"}
+{"query_id": "80265", "split": "test", "method": "gpt", "selected_ids": ["B07XD69ZWZ", "B017ULCPJ0", "B07XZYX71Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "80265", "split": "test", "method": "jev", "selected_ids": ["B07XD69ZWZ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "80897", "split": "test", "method": "gpt", "selected_ids": ["B000JKTFLG", "B000JKR3LA", "B06X9H3H43", "B074DTQDSK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "80897", "split": "test", "method": "jev", "selected_ids": ["B000JKTFLG", "B000JKR3LA", "B06X9H3H43", "B074DTQDSK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "81029", "split": "test", "method": "gpt", "selected_ids": ["B015766PB4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "81029", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "8110", "split": "test", "method": "gpt", "selected_ids": ["B00AY1RK7G", "B00AY14QXC", "B014LQLTMQ", "B018PZQCG2", "B077QKSTPJ"], "routing_action": "PASS_ALL"}
+{"query_id": "8110", "split": "test", "method": "jev", "selected_ids": ["B00AY1RK7G", "B00AY14QXC", "B014LQLTMQ", "B018PZQCG2", "B077QKSTPJ"], "routing_action": "PASS_ALL"}
+{"query_id": "81175", "split": "test", "method": "gpt", "selected_ids": ["B017LL4W1I", "B07RZSVPKS", "B07HM3WP9Y", "B013RX6ODI", "B07H4K387Q"], "routing_action": "PASS_ALL"}
+{"query_id": "81175", "split": "test", "method": "jev", "selected_ids": ["B017LL4W1I", "B07RZSVPKS", "B07HM3WP9Y", "B013RX6ODI", "B07H4K387Q"], "routing_action": "PASS_ALL"}
+{"query_id": "81500", "split": "test", "method": "gpt", "selected_ids": ["B07QCM9GT6", "B07L84QK1Y", "B07QS6967S", "B07FXF3FKG", "B07LCC454F"], "routing_action": "PASS_ALL"}
+{"query_id": "81500", "split": "test", "method": "jev", "selected_ids": ["B07QCM9GT6", "B07L84QK1Y", "B07QS6967S", "B07FXF3FKG", "B07LCC454F"], "routing_action": "PASS_ALL"}
+{"query_id": "81668", "split": "test", "method": "gpt", "selected_ids": ["B07RLXZ88F", "B07RGGCJB4", "B07QMRRHPY", "B078PC1QS5", "B01HRFBOWI"], "routing_action": "PASS_ALL"}
+{"query_id": "81668", "split": "test", "method": "jev", "selected_ids": ["B07RLXZ88F", "B07RGGCJB4", "B07QMRRHPY", "B078PC1QS5", "B01HRFBOWI"], "routing_action": "PASS_ALL"}
+{"query_id": "81804", "split": "test", "method": "gpt", "selected_ids": ["B0062DWQ8S", "B005OO203C", "B009LLU1X0", "B00FMWX58U", "B00EUGDOJY"], "routing_action": "PASS_ALL"}
+{"query_id": "81804", "split": "test", "method": "jev", "selected_ids": ["B0062DWQ8S", "B005OO203C", "B009LLU1X0", "B00FMWX58U", "B00EUGDOJY"], "routing_action": "PASS_ALL"}
+{"query_id": "82619", "split": "test", "method": "gpt", "selected_ids": ["B07KNGTK3Z", "B078YTR3SY", "B06X97S84G", "B07SRRN24Q", "B07QB28ZK6"], "routing_action": "PASS_ALL"}
+{"query_id": "82619", "split": "test", "method": "jev", "selected_ids": ["B07KNGTK3Z", "B078YTR3SY", "B06X97S84G", "B07SRRN24Q", "B07QB28ZK6"], "routing_action": "PASS_ALL"}
+{"query_id": "82931", "split": "test", "method": "gpt", "selected_ids": ["B07QNNMK87", "B07RCZVRX8", "B07RDYLXB2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "82931", "split": "test", "method": "jev", "selected_ids": ["B07RDYLXB2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "83031", "split": "test", "method": "gpt", "selected_ids": ["B00002N601", "B005FYF4F2", "B00002N602", "B07Q5B1RBR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "83031", "split": "test", "method": "jev", "selected_ids": ["B00002N601", "B005FYF4F2", "B00002N602", "B07Q5B1RBR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "83121", "split": "test", "method": "gpt", "selected_ids": ["B07Q3SWVF5", "B079YLCC3T", "B01HDIV42Y", "B01KGLIVCQ", "B06XSD99V3"], "routing_action": "PASS_ALL"}
+{"query_id": "83121", "split": "test", "method": "jev", "selected_ids": ["B07Q3SWVF5", "B079YLCC3T", "B01HDIV42Y", "B01KGLIVCQ", "B06XSD99V3"], "routing_action": "PASS_ALL"}
+{"query_id": "83513", "split": "test", "method": "gpt", "selected_ids": ["B01DPMY15E", "B01FV5PFS0", "B08167ZCC2", "B07WRRCD4Z"], "routing_action": "PASS_FILTERED"}
+{"query_id": "83513", "split": "test", "method": "jev", "selected_ids": ["B01DPMY15E", "B01FV5PFS0", "B08167ZCC2", "B07WRRCD4Z"], "routing_action": "PASS_FILTERED"}
+{"query_id": "83516", "split": "test", "method": "gpt", "selected_ids": ["B07CZBLCHD", "B004DOYM2Q", "B00SXUG8GE", "B071J3W1NG", "B0753NMHCK"], "routing_action": "PASS_ALL"}
+{"query_id": "83516", "split": "test", "method": "jev", "selected_ids": ["B07CZBLCHD", "B004DOYM2Q", "B0753NMHCK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "8396", "split": "test", "method": "gpt", "selected_ids": ["B01MT4DJSA", "B000BOAEYM", "B000BQU4XG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "8396", "split": "test", "method": "jev", "selected_ids": ["B01MT4DJSA", "B000BOAEYM", "B000BQU4XG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "84071", "split": "test", "method": "gpt", "selected_ids": ["B07F74KZV9", "B086H8VYWD", "B08397VX75", "B07SGF9DTY", "B087QTR4CT"], "routing_action": "PASS_ALL"}
+{"query_id": "84071", "split": "test", "method": "jev", "selected_ids": ["B07F74KZV9", "B086H8VYWD", "B08397VX75", "B07SGF9DTY", "B087QTR4CT"], "routing_action": "PASS_ALL"}
+{"query_id": "84228", "split": "test", "method": "gpt", "selected_ids": ["B07KS1RZGD", "B07TLW2GMB", "B073TL1XPW", "B07RJCXPLF", "B07Q9HZHRP"], "routing_action": "PASS_ALL"}
+{"query_id": "84228", "split": "test", "method": "jev", "selected_ids": ["B07KS1RZGD", "B07TLW2GMB", "B073TL1XPW", "B07RJCXPLF", "B07Q9HZHRP"], "routing_action": "PASS_ALL"}
+{"query_id": "84578", "split": "test", "method": "gpt", "selected_ids": ["B01N4R4EBF", "B07WGQXJ7C", "B01LMEQN6W", "B0774YV1QF", "B088ZH8RXP"], "routing_action": "PASS_ALL"}
+{"query_id": "84578", "split": "test", "method": "jev", "selected_ids": ["B01N4R4EBF", "B07WGQXJ7C", "B01LMEQN6W", "B0774YV1QF", "B088ZH8RXP"], "routing_action": "PASS_ALL"}
+{"query_id": "84801", "split": "test", "method": "gpt", "selected_ids": ["B00V6ADU0K", "B00TSET2DU", "B07H5Q321B", "B0851S8JK5", "B083KPXTBN"], "routing_action": "PASS_ALL"}
+{"query_id": "84801", "split": "test", "method": "jev", "selected_ids": ["B00V6ADU0K", "B00TSET2DU", "B07H5Q321B", "B0851S8JK5", "B083KPXTBN"], "routing_action": "PASS_ALL"}
+{"query_id": "85229", "split": "test", "method": "gpt", "selected_ids": ["B01IA3GN86", "B07HBR65V5", "B000FQHA1G", "B0000635XW", "B01AD3HLH8"], "routing_action": "PASS_ALL"}
+{"query_id": "85229", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "85477", "split": "test", "method": "gpt", "selected_ids": ["B075JYG2TB", "B0784HWPN6", "B07WDV1GDV", "B01MSZQLML", "B075GM5KBW"], "routing_action": "PASS_ALL"}
+{"query_id": "85477", "split": "test", "method": "jev", "selected_ids": ["B075JYG2TB", "B0784HWPN6", "B07WDV1GDV", "B01MSZQLML", "B075GM5KBW"], "routing_action": "PASS_ALL"}
+{"query_id": "85796", "split": "test", "method": "gpt", "selected_ids": ["B07F7T8J9P", "B07P6T66XS"], "routing_action": "PASS_FILTERED"}
+{"query_id": "85796", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "85986", "split": "test", "method": "gpt", "selected_ids": ["B098QC58J9", "B09FKZGSSK", "B083S8418Z", "B097DB1WF4", "B08L6LZQLK"], "routing_action": "PASS_ALL"}
+{"query_id": "85986", "split": "test", "method": "jev", "selected_ids": ["B098QC58J9", "B09FKZGSSK", "B083S8418Z", "B097DB1WF4", "B08L6LZQLK"], "routing_action": "PASS_ALL"}
+{"query_id": "86020", "split": "test", "method": "gpt", "selected_ids": ["B01I48C2PK", "B0722K19N1", "B07SGMTBCC", "B01LWT48Z3", "B0088ASQPA"], "routing_action": "PASS_ALL"}
+{"query_id": "86020", "split": "test", "method": "jev", "selected_ids": ["B01I48C2PK", "B0722K19N1", "B07SGMTBCC", "B01LWT48Z3", "B0088ASQPA"], "routing_action": "PASS_ALL"}
+{"query_id": "86584", "split": "test", "method": "gpt", "selected_ids": ["B07QK32C8M", "B07Q6ZZ4S1", "B07WCCNV2D", "B07Q26V49K", "B07PY52GVP"], "routing_action": "PASS_ALL"}
+{"query_id": "86584", "split": "test", "method": "jev", "selected_ids": ["B07QK32C8M", "B07Q6ZZ4S1", "B07WCCNV2D", "B07Q26V49K", "B07PY52GVP"], "routing_action": "PASS_ALL"}
+{"query_id": "86787", "split": "test", "method": "gpt", "selected_ids": ["B07JGCN6MW", "B07MNT5GP1"], "routing_action": "PASS_FILTERED"}
+{"query_id": "86787", "split": "test", "method": "jev", "selected_ids": ["B07JGCN6MW", "B07MNT5GP1", "B07MWH3VQC"], "routing_action": "PASS_FILTERED"}
+{"query_id": "86932", "split": "test", "method": "gpt", "selected_ids": ["B07CBBFCQC", "B01C07VEU0", "B004I1KJOO", "B07475HJWC", "B0001MLMKY"], "routing_action": "PASS_ALL"}
+{"query_id": "86932", "split": "test", "method": "jev", "selected_ids": ["B07CBBFCQC", "B01C07VEU0", "B004I1KJOO", "B07475HJWC", "B0001MLMKY"], "routing_action": "PASS_ALL"}
+{"query_id": "87333", "split": "test", "method": "gpt", "selected_ids": ["B07ZJTGKP6", "B07RYHC9RZ", "B08GZNYBFB", "B095XCB7SY", "B07WDM5TQ5"], "routing_action": "PASS_ALL"}
+{"query_id": "87333", "split": "test", "method": "jev", "selected_ids": ["B07ZJTGKP6", "B07RYHC9RZ", "B08GZNYBFB", "B095XCB7SY", "B07WDM5TQ5"], "routing_action": "PASS_ALL"}
+{"query_id": "88372", "split": "test", "method": "gpt", "selected_ids": ["B06W5X7C4B", "B07BW6N92X", "B073FCB114", "B07DJ1WZNP", "B077YKBV7B"], "routing_action": "PASS_ALL"}
+{"query_id": "88372", "split": "test", "method": "jev", "selected_ids": ["B06W5X7C4B", "B07BW6N92X", "B073FCB114", "B07DJ1WZNP", "B077YKBV7B"], "routing_action": "PASS_ALL"}
+{"query_id": "88474", "split": "test", "method": "gpt", "selected_ids": ["B07CLKZJ51", "B07YCS577D", "B076CLJJF7", "B07L1PZG4X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "88474", "split": "test", "method": "jev", "selected_ids": ["B07CLKZJ51", "B07YCS577D", "B076CLJJF7", "B07L1PZG4X"], "routing_action": "PASS_FILTERED"}
+{"query_id": "88677", "split": "test", "method": "gpt", "selected_ids": ["B074WMC9C8", "B01E0GSAME", "B07GXBJD4K", "B07F2CB3DC", "B07FVH1GR3"], "routing_action": "PASS_ALL"}
+{"query_id": "88677", "split": "test", "method": "jev", "selected_ids": ["B074WMC9C8", "B01E0GSAME", "B07GXBJD4K", "B07F2CB3DC", "B07FVH1GR3"], "routing_action": "PASS_ALL"}
+{"query_id": "88839", "split": "test", "method": "gpt", "selected_ids": ["B0000014WL", "B00133QNKY", "B00000151Z"], "routing_action": "PASS_FILTERED"}
+{"query_id": "88839", "split": "test", "method": "jev", "selected_ids": ["B0000014WL", "B00133QNKY", "B00000151Z", "B08DSYQ1K7"], "routing_action": "PASS_FILTERED"}
+{"query_id": "88855", "split": "test", "method": "gpt", "selected_ids": ["B07C3PJT68", "B07T8GVB1Z", "B07DXZJMTY", "B07CL4457R", "B07S2LLK12"], "routing_action": "PASS_ALL"}
+{"query_id": "88855", "split": "test", "method": "jev", "selected_ids": ["B07C3PJT68", "B07T8GVB1Z", "B07DXZJMTY", "B07CL4457R", "B07S2LLK12"], "routing_action": "PASS_ALL"}
+{"query_id": "88982", "split": "test", "method": "gpt", "selected_ids": ["B001F1252E", "B07N83Q31Y", "B07N82BFW4", "B088B93HX9", "B0798FLWP6"], "routing_action": "PASS_ALL"}
+{"query_id": "88982", "split": "test", "method": "jev", "selected_ids": ["B001F1252E", "B07N83Q31Y"], "routing_action": "PASS_FILTERED"}
+{"query_id": "89607", "split": "test", "method": "gpt", "selected_ids": ["B07BRFXJ7Y", "B0824HV383", "B07YTBG773", "B00X21KHT8", "B084WPGG91"], "routing_action": "PASS_ALL"}
+{"query_id": "89607", "split": "test", "method": "jev", "selected_ids": ["B07BRFXJ7Y", "B0824HV383", "B07YTBG773", "B00X21KHT8"], "routing_action": "PASS_FILTERED"}
+{"query_id": "89674", "split": "test", "method": "gpt", "selected_ids": ["B00BSL8O12", "B01EG4KH44", "B083D6L7KZ", "B00HU08XQG", "B072HMHFRH"], "routing_action": "PASS_ALL"}
+{"query_id": "89674", "split": "test", "method": "jev", "selected_ids": ["B00BSL8O12", "B01EG4KH44", "B083D6L7KZ", "B00HU08XQG", "B072HMHFRH"], "routing_action": "PASS_ALL"}
+{"query_id": "89911", "split": "test", "method": "gpt", "selected_ids": ["B00ULI8J1I", "B00ULI8JQI", "B00ULI8CHY", "B01ASGD4H6", "B00ULI8IY6"], "routing_action": "PASS_ALL"}
+{"query_id": "89911", "split": "test", "method": "jev", "selected_ids": ["B00ULI8J1I", "B00ULI8JQI", "B00ULI8CHY", "B01ASGD4H6", "B00ULI8IY6"], "routing_action": "PASS_ALL"}
+{"query_id": "90426", "split": "test", "method": "gpt", "selected_ids": ["B000R4COAI", "B07D9PWGDR", "B07D9CVVLF", "B071F94F4S", "B07SDT38QL"], "routing_action": "PASS_ALL"}
+{"query_id": "90426", "split": "test", "method": "jev", "selected_ids": ["B000R4COAI", "B07D9PWGDR", "B07D9CVVLF", "B071F94F4S", "B07SDT38QL"], "routing_action": "PASS_ALL"}
+{"query_id": "90492", "split": "test", "method": "gpt", "selected_ids": ["B088RL16NF", "B078NPQ22T", "B07SGQ7QJG", "B07L88RVT2", "B01HYVQEW0"], "routing_action": "PASS_ALL"}
+{"query_id": "90492", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "90523", "split": "test", "method": "gpt", "selected_ids": ["B07WKNYTM9"], "routing_action": "PASS_FILTERED"}
+{"query_id": "90523", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "90524", "split": "test", "method": "gpt", "selected_ids": ["B07KSRLHK5", "B01N48EHNV", "B07KSZHT4X", "B07KP97W89"], "routing_action": "PASS_FILTERED"}
+{"query_id": "90524", "split": "test", "method": "jev", "selected_ids": ["B07KSRLHK5", "B01N48EHNV", "B07KSZHT4X", "B07KP97W89"], "routing_action": "PASS_FILTERED"}
+{"query_id": "91112", "split": "test", "method": "gpt", "selected_ids": ["B01HQSNO56", "B07SMXX9CG", "B07PJDXRD5", "B00HZOAXQA"], "routing_action": "PASS_FILTERED"}
+{"query_id": "91112", "split": "test", "method": "jev", "selected_ids": ["B01HQSNO56", "B07SMXX9CG", "B07PJDXRD5", "B010TOFYDY", "B00HZOAXQA"], "routing_action": "PASS_ALL"}
+{"query_id": "91164", "split": "test", "method": "gpt", "selected_ids": ["B07FR1XN7Z", "B07FP41MC5", "B07FPZRGFB", "B07GZQBVPC", "B07H3DQ6VT"], "routing_action": "PASS_ALL"}
+{"query_id": "91164", "split": "test", "method": "jev", "selected_ids": ["B07FR1XN7Z", "B07FP41MC5", "B07FPZRGFB", "B07GZQBVPC", "B07H3DQ6VT"], "routing_action": "PASS_ALL"}
+{"query_id": "91394", "split": "test", "method": "gpt", "selected_ids": ["B009W85OUC", "B07VMDPXG6", "B081JBXGKM"], "routing_action": "PASS_FILTERED"}
+{"query_id": "91394", "split": "test", "method": "jev", "selected_ids": ["B009W85OUC", "B07VMDPXG6", "B0727Y5ZD7", "B07DCS4F82", "B081JBXGKM"], "routing_action": "PASS_ALL"}
+{"query_id": "91623", "split": "test", "method": "gpt", "selected_ids": ["B000PUC4GS", "1785870211", "B0044ODWF8", "B01FGOI6R8", "B07N32N4JZ"], "routing_action": "PASS_ALL"}
+{"query_id": "91623", "split": "test", "method": "jev", "selected_ids": ["B000PUC4GS", "1785870211", "B0044ODWF8", "B01FGOI6R8", "B07N32N4JZ"], "routing_action": "PASS_ALL"}
+{"query_id": "917", "split": "test", "method": "gpt", "selected_ids": ["B07FYT8Z8Z", "B07GKKYHQV", "B07MWZS94P", "B07M79K46H", "B07KW5FZMG"], "routing_action": "PASS_ALL"}
+{"query_id": "917", "split": "test", "method": "jev", "selected_ids": ["B07FYT8Z8Z", "B07GKKYHQV", "B07MWZS94P", "B07M79K46H", "B07KW5FZMG"], "routing_action": "PASS_ALL"}
+{"query_id": "91796", "split": "test", "method": "gpt", "selected_ids": ["B07D1568HD", "B07SD1B7W9", "B07RFRF5L2", "B077VMGWMN", "B07DPKWXJV"], "routing_action": "PASS_ALL"}
+{"query_id": "91796", "split": "test", "method": "jev", "selected_ids": ["B07D1568HD", "B07SD1B7W9", "B07RFRF5L2", "B077VMGWMN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "91927", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "91927", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "9211", "split": "test", "method": "gpt", "selected_ids": ["B016I9R4W8", "B082SFTMB2", "B07TTF3Y6C", "B07PXNNZ15", "B075QVS5RB"], "routing_action": "PASS_ALL"}
+{"query_id": "9211", "split": "test", "method": "jev", "selected_ids": ["B016I9R4W8", "B082SFTMB2", "B07TTF3Y6C", "B07PXNNZ15", "B075QVS5RB"], "routing_action": "PASS_ALL"}
+{"query_id": "92123", "split": "test", "method": "gpt", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "92123", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "92344", "split": "test", "method": "gpt", "selected_ids": ["B07PF12RK8", "B009AYI5PE", "B085T98SZY", "B085TN1RW2", "B07FF8Y68B"], "routing_action": "PASS_ALL"}
+{"query_id": "92344", "split": "test", "method": "jev", "selected_ids": ["B07PF12RK8", "B009AYI5PE", "B085T98SZY", "B085TN1RW2", "B07FF8Y68B"], "routing_action": "PASS_ALL"}
+{"query_id": "9259", "split": "test", "method": "gpt", "selected_ids": ["B013JNG2ME", "B07D9C8NP2", "B01GN2G8Y0", "B07D999V5P", "B071WQ2QQT"], "routing_action": "PASS_ALL"}
+{"query_id": "9259", "split": "test", "method": "jev", "selected_ids": ["B013JNG2ME", "B07D9C8NP2", "B01GN2G8Y0", "B07D999V5P", "B071WQ2QQT"], "routing_action": "PASS_ALL"}
+{"query_id": "92982", "split": "test", "method": "gpt", "selected_ids": ["B08292JV7N", "B07YCNP7DD", "B00R8J86J8", "B06W2MPGZV", "B07TGJYNGZ"], "routing_action": "PASS_ALL"}
+{"query_id": "92982", "split": "test", "method": "jev", "selected_ids": ["B08292JV7N", "B07YCNP7DD", "B00R8J86J8", "B06W2MPGZV", "B07TGJYNGZ"], "routing_action": "PASS_ALL"}
+{"query_id": "93024", "split": "test", "method": "gpt", "selected_ids": ["B07JFCPKKT", "B081Q3B771", "B07JZ32HPY", "B077ZXQJ5R", "B0829F1BD6"], "routing_action": "PASS_ALL"}
+{"query_id": "93024", "split": "test", "method": "jev", "selected_ids": ["B07JFCPKKT", "B081Q3B771", "B07JZ32HPY", "B077ZXQJ5R"], "routing_action": "PASS_FILTERED"}
+{"query_id": "93133", "split": "test", "method": "gpt", "selected_ids": ["B002W6ZOCO", "B00004SUQW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "93133", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "93487", "split": "test", "method": "gpt", "selected_ids": ["B0728PB8FG", "B07J27NPFK", "B074DR7ZKW", "B074DTHWGK"], "routing_action": "PASS_FILTERED"}
+{"query_id": "93487", "split": "test", "method": "jev", "selected_ids": ["B0728PB8FG", "B07J27NPFK", "B074DR7ZKW", "B074DTHWGK", "B01NAGUSAS"], "routing_action": "PASS_ALL"}
+{"query_id": "93520", "split": "test", "method": "gpt", "selected_ids": ["B014Q760BA", "B07FZ6N1TK", "B073WGGCGZ", "B0034KY1O4", "B07TNHRPGY"], "routing_action": "PASS_ALL"}
+{"query_id": "93520", "split": "test", "method": "jev", "selected_ids": ["B014Q760BA", "B07FZ6N1TK", "B073WGGCGZ", "B0034KY1O4", "B07TNHRPGY"], "routing_action": "PASS_ALL"}
+{"query_id": "93611", "split": "test", "method": "gpt", "selected_ids": ["B01J3UQ3RQ", "B07BN1KLT2", "B01LXXNV95", "B01LZGWZ06", "B071NR4S8B"], "routing_action": "PASS_ALL"}
+{"query_id": "93611", "split": "test", "method": "jev", "selected_ids": ["B01J3UQ3RQ", "B07BN1KLT2", "B01LXXNV95", "B01LZGWZ06", "B071NR4S8B"], "routing_action": "PASS_ALL"}
+{"query_id": "9396", "split": "test", "method": "gpt", "selected_ids": ["B01M4MCUAF", "B08BY179PM", "B07XJ7XWLW", "B013O70Z3M", "B07YCHCSCH"], "routing_action": "PASS_ALL"}
+{"query_id": "9396", "split": "test", "method": "jev", "selected_ids": ["B01M4MCUAF", "B08BY179PM", "B07XJ7XWLW", "B013O70Z3M", "B07YCHCSCH"], "routing_action": "PASS_ALL"}
+{"query_id": "94021", "split": "test", "method": "gpt", "selected_ids": ["B000G377XY", "B00586FSIK", "B000B252IM", "B01BZ4CRNC", "B00SLIU4J0"], "routing_action": "PASS_ALL"}
+{"query_id": "94021", "split": "test", "method": "jev", "selected_ids": ["B000G377XY", "B00586FSIK", "B000B252IM", "B01BZ4CRNC", "B00SLIU4J0"], "routing_action": "PASS_ALL"}
+{"query_id": "94037", "split": "test", "method": "gpt", "selected_ids": ["B07N13ML7W", "B07FL4SR44", "B07N117XD6", "B07N13DC82", "B07N13Q853"], "routing_action": "PASS_ALL"}
+{"query_id": "94037", "split": "test", "method": "jev", "selected_ids": ["B07N13ML7W", "B07FL4SR44", "B07N117XD6", "B07N13DC82", "B07N13Q853"], "routing_action": "PASS_ALL"}
+{"query_id": "94125", "split": "test", "method": "gpt", "selected_ids": ["B0779D3D6R", "B07W93VKRG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "94125", "split": "test", "method": "jev", "selected_ids": ["B0779D3D6R", "B07W93VKRG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "94265", "split": "test", "method": "gpt", "selected_ids": ["B07B2Q65DJ", "B07FVL2NGS", "B0727QX9SC", "B0725RFSJR", "B07PGXQYC9"], "routing_action": "PASS_ALL"}
+{"query_id": "94265", "split": "test", "method": "jev", "selected_ids": ["B07B2Q65DJ", "B07FVL2NGS", "B0727QX9SC", "B0725RFSJR", "B07PGXQYC9"], "routing_action": "PASS_ALL"}
+{"query_id": "9440", "split": "test", "method": "gpt", "selected_ids": ["B07MF44RYL", "B004RTMV48"], "routing_action": "PASS_FILTERED"}
+{"query_id": "9440", "split": "test", "method": "jev", "selected_ids": ["B07FYRP374", "B07MF44RYL"], "routing_action": "PASS_FILTERED"}
+{"query_id": "94492", "split": "test", "method": "gpt", "selected_ids": ["B07X3QQ9LJ", "B07T7FHL27", "B07HP6DSYJ", "B086WVH6HG"], "routing_action": "PASS_FILTERED"}
+{"query_id": "94492", "split": "test", "method": "jev", "selected_ids": ["B07X3QQ9LJ", "B07T7FHL27", "B07HP6DSYJ", "B086WVH6HG", "B07RXY3BH8"], "routing_action": "PASS_ALL"}
+{"query_id": "94574", "split": "test", "method": "gpt", "selected_ids": ["B076X7MVVB", "B086BYYNSZ", "B07WN12Z5W", "B07X1H42KK", "B07N6517T3"], "routing_action": "PASS_ALL"}
+{"query_id": "94574", "split": "test", "method": "jev", "selected_ids": ["B076X7MVVB", "B086BYYNSZ", "B07WN12Z5W", "B07X1H42KK", "B07N6517T3"], "routing_action": "PASS_ALL"}
+{"query_id": "94981", "split": "test", "method": "gpt", "selected_ids": ["B07KJ4V7DJ", "B00G9XAUS4", "B0101SLT5U", "B00N12RQW4", "B001LEQM8I"], "routing_action": "PASS_ALL"}
+{"query_id": "94981", "split": "test", "method": "jev", "selected_ids": ["B07KJ4V7DJ", "B00N12RQW4"], "routing_action": "PASS_FILTERED"}
+{"query_id": "95086", "split": "test", "method": "gpt", "selected_ids": ["B07SRVV8V4", "B081HRF1NZ", "B07T1NK3T9", "B081VBY2G4", "B07YWRXVP6"], "routing_action": "PASS_ALL"}
+{"query_id": "95086", "split": "test", "method": "jev", "selected_ids": ["B07SRVV8V4", "B081HRF1NZ", "B07T1NK3T9", "B081VBY2G4", "B07YWRXVP6"], "routing_action": "PASS_ALL"}
+{"query_id": "95216", "split": "test", "method": "gpt", "selected_ids": ["B0009F3PJE", "B0869D7WS5", "B00EVJUYFC", "B01K86L1L2", "B0061WGRD0"], "routing_action": "PASS_ALL"}
+{"query_id": "95216", "split": "test", "method": "jev", "selected_ids": ["B0009F3PJE", "B0869D7WS5", "B01K86L1L2"], "routing_action": "PASS_FILTERED"}
+{"query_id": "95298", "split": "test", "method": "gpt", "selected_ids": ["B07KRR76R9", "B07GQ4Z1L8", "B07RH8R56N", "B083MB51PH", "B083NKWYQ7"], "routing_action": "PASS_ALL"}
+{"query_id": "95298", "split": "test", "method": "jev", "selected_ids": ["B07KRR76R9", "B07GQ4Z1L8", "B07RH8R56N", "B083MB51PH", "B083NKWYQ7"], "routing_action": "PASS_ALL"}
+{"query_id": "95756", "split": "test", "method": "gpt", "selected_ids": ["B00N3B5LDO", "B0040ZNWGU", "B004E2OUCO"], "routing_action": "PASS_FILTERED"}
+{"query_id": "95756", "split": "test", "method": "jev", "selected_ids": ["B00N3B5LDO", "B0040ZNWGU", "B004E2OUCO"], "routing_action": "PASS_FILTERED"}
+{"query_id": "9597", "split": "test", "method": "gpt", "selected_ids": ["1491481374", "0760366578", "1426332491", "0813056179", "B07L4877YB"], "routing_action": "PASS_ALL"}
+{"query_id": "9597", "split": "test", "method": "jev", "selected_ids": ["1491481374", "0760366578", "1426332491", "0813056179", "B07L4877YB"], "routing_action": "PASS_ALL"}
+{"query_id": "96060", "split": "test", "method": "gpt", "selected_ids": ["B087CCZH4Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "96060", "split": "test", "method": "jev", "selected_ids": ["B087CCZH4Q"], "routing_action": "PASS_FILTERED"}
+{"query_id": "96415", "split": "test", "method": "gpt", "selected_ids": ["B083HQSXCK", "B07Y1JZ6HX", "B07C1QS5S9", "B07VWNVYV8", "B07RQRVQ6J"], "routing_action": "PASS_ALL"}
+{"query_id": "96415", "split": "test", "method": "jev", "selected_ids": ["B083HQSXCK", "B07Y1JZ6HX", "B07C1QS5S9", "B07VWNVYV8", "B07RQRVQ6J"], "routing_action": "PASS_ALL"}
+{"query_id": "96450", "split": "test", "method": "gpt", "selected_ids": ["B07YC8QF5L", "B07QGTPXHV", "B07FFHMRKQ", "B07FLZWV86", "B07TWY1VP2"], "routing_action": "PASS_ALL"}
+{"query_id": "96450", "split": "test", "method": "jev", "selected_ids": ["B07YC8QF5L", "B07QGTPXHV", "B07FFHMRKQ", "B07FLZWV86", "B07TWY1VP2"], "routing_action": "PASS_ALL"}
+{"query_id": "96536", "split": "test", "method": "gpt", "selected_ids": ["B07KYGK38K", "B0050P2PC6", "B07Q3QX8KS", "B01NH5S4Q2", "B07SBJ92ZV"], "routing_action": "PASS_ALL"}
+{"query_id": "96536", "split": "test", "method": "jev", "selected_ids": ["B07KYGK38K", "B0050P2PC6"], "routing_action": "PASS_FILTERED"}
+{"query_id": "9680", "split": "test", "method": "gpt", "selected_ids": ["B086PKBLYR", "B07RFMCRKP", "B07HMVMTN6", "B082RDKMPP", "B07Y5GMFYD"], "routing_action": "PASS_ALL"}
+{"query_id": "9680", "split": "test", "method": "jev", "selected_ids": ["B086PKBLYR", "B07RFMCRKP", "B07HMVMTN6", "B082RDKMPP", "B07Y5GMFYD"], "routing_action": "PASS_ALL"}
+{"query_id": "97109", "split": "test", "method": "gpt", "selected_ids": ["B003B6QG44", "1338263749", "B00QOTDG66", "1931567387", "B076L67TTB"], "routing_action": "PASS_ALL"}
+{"query_id": "97109", "split": "test", "method": "jev", "selected_ids": ["B003B6QG44", "1931567387"], "routing_action": "PASS_FILTERED"}
+{"query_id": "97119", "split": "test", "method": "gpt", "selected_ids": ["B079MHPJC4", "B07NQK969F", "B01B3A0S9S", "B00T4RGBHG", "B00MWXJPA4"], "routing_action": "PASS_ALL"}
+{"query_id": "97119", "split": "test", "method": "jev", "selected_ids": ["B079MHPJC4", "B07NQK969F", "B01B3A0S9S", "B00T4RGBHG", "B00MWXJPA4"], "routing_action": "PASS_ALL"}
+{"query_id": "97131", "split": "test", "method": "gpt", "selected_ids": ["B084JMF44F", "B07Y5L2L51", "B091MRFHFS", "B08THZC5WT", "B07HLB888P"], "routing_action": "PASS_ALL"}
+{"query_id": "97131", "split": "test", "method": "jev", "selected_ids": ["B084JMF44F", "B07Y5L2L51", "B091MRFHFS", "B08THZC5WT", "B07HLB888P"], "routing_action": "PASS_ALL"}
+{"query_id": "97358", "split": "test", "method": "gpt", "selected_ids": ["B00H0T65PI", "B000LXXQMU", "B01MUEV30S", "B077KDD9RF", "B084H2BTRJ"], "routing_action": "PASS_ALL"}
+{"query_id": "97358", "split": "test", "method": "jev", "selected_ids": ["B00H0T65PI", "B000LXXQMU"], "routing_action": "PASS_FILTERED"}
+{"query_id": "97515", "split": "test", "method": "gpt", "selected_ids": ["B0000223MV", "B002DS742O", "B0000223IY", "B0002ZU73I", "B071GKD793"], "routing_action": "PASS_ALL"}
+{"query_id": "97515", "split": "test", "method": "jev", "selected_ids": ["B0000223MV", "B002DS742O", "B071GKD793"], "routing_action": "PASS_FILTERED"}
+{"query_id": "978", "split": "test", "method": "gpt", "selected_ids": ["B08C2FTNJ8", "B01HHB9T4M", "B07VDH3B1Q", "B00CPBPSPO", "B07RJ9TX13"], "routing_action": "PASS_ALL"}
+{"query_id": "978", "split": "test", "method": "jev", "selected_ids": ["B08C2FTNJ8", "B01HHB9T4M", "B07VDH3B1Q", "B00CPBPSPO", "B07RJ9TX13"], "routing_action": "PASS_ALL"}
+{"query_id": "98227", "split": "test", "method": "gpt", "selected_ids": ["B00R1UWNDE", "B07WRFWR4G", "B07FL8SY4F", "B0054LHI5A", "B07CT6DYFG"], "routing_action": "PASS_ALL"}
+{"query_id": "98227", "split": "test", "method": "jev", "selected_ids": ["B00R1UWNDE", "B07WRFWR4G", "B07FL8SY4F", "B0054LHI5A", "B07CT6DYFG"], "routing_action": "PASS_ALL"}
+{"query_id": "98262", "split": "test", "method": "gpt", "selected_ids": ["B07W6XFVLN"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98262", "split": "test", "method": "jev", "selected_ids": [], "routing_action": "FALLBACK"}
+{"query_id": "98270", "split": "test", "method": "gpt", "selected_ids": ["B088TSKQVX", "B06XTFDWBL", "B01N5WXEBJ", "B083RL5FG1", "B083RNQBDW"], "routing_action": "PASS_ALL"}
+{"query_id": "98270", "split": "test", "method": "jev", "selected_ids": ["B088TSKQVX", "B01N5WXEBJ", "B083RL5FG1", "B083RNQBDW"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98450", "split": "test", "method": "gpt", "selected_ids": ["B01MSQCMQH", "B015T8K8DQ"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98450", "split": "test", "method": "jev", "selected_ids": ["B0007QMQ0Y", "B01MSQCMQH"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98697", "split": "test", "method": "gpt", "selected_ids": ["B000HHOFD4", "B016IQ5KOA", "B07DJKT3KD", "B06Y4ZSYNR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98697", "split": "test", "method": "jev", "selected_ids": ["B000HHOFD4", "B016IQ5KOA", "B07DJKT3KD", "B06Y4ZSYNR"], "routing_action": "PASS_FILTERED"}
+{"query_id": "98706", "split": "test", "method": "gpt", "selected_ids": ["B07PX993KH", "B07S1S9KK8", "B000VGNJ88", "B07XPH8DLJ", "B00I2XOEPO"], "routing_action": "PASS_ALL"}
+{"query_id": "98706", "split": "test", "method": "jev", "selected_ids": ["B07PX993KH", "B07S1S9KK8", "B000VGNJ88", "B07XPH8DLJ", "B00I2XOEPO"], "routing_action": "PASS_ALL"}
+{"query_id": "9912", "split": "test", "method": "gpt", "selected_ids": ["B0878RBVYS", "B089M4TGYR", "B07R8NRX5Y", "B07ZK9BF2M", "B08888PL1H"], "routing_action": "PASS_ALL"}
+{"query_id": "9912", "split": "test", "method": "jev", "selected_ids": ["B0878RBVYS", "B089M4TGYR", "B07R8NRX5Y", "B07ZK9BF2M", "B08888PL1H"], "routing_action": "PASS_ALL"}
+{"query_id": "99149", "split": "test", "method": "gpt", "selected_ids": ["B00008PC1O", "B01MT3VGHW", "B00IZJ7M1S", "B000TG85FC", "B01IA9EKNK"], "routing_action": "PASS_ALL"}
+{"query_id": "99149", "split": "test", "method": "jev", "selected_ids": ["B00008PC1O", "B01MT3VGHW", "B00IZJ7M1S", "B000TG85FC", "B01IA9EKNK"], "routing_action": "PASS_ALL"}
+{"query_id": "99195", "split": "test", "method": "gpt", "selected_ids": ["B00K63H7LG", "B07YY7LNN2", "B07G76TQWX", "B07RHJ887T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "99195", "split": "test", "method": "jev", "selected_ids": ["B00K63H7LG", "B07YY7LNN2", "B07G76TQWX", "B07RHJ887T"], "routing_action": "PASS_FILTERED"}
+{"query_id": "99303", "split": "test", "method": "gpt", "selected_ids": ["B001E0WJXG", "B002LMBOUK", "B000KPO9QG", "B00FJ2C6YC", "B00CS1SSP8"], "routing_action": "PASS_ALL"}
+{"query_id": "99303", "split": "test", "method": "jev", "selected_ids": ["B001E0WJXG", "B002LMBOUK", "B000KPO9QG", "B00FJ2C6YC", "B00CS1SSP8"], "routing_action": "PASS_ALL"}
+{"query_id": "99436", "split": "test", "method": "gpt", "selected_ids": ["B01LWY6FGA", "B0000530H5", "B002ZG8H84", "B01AVEN4H0", "B000SD6BS4"], "routing_action": "PASS_ALL"}
+{"query_id": "99436", "split": "test", "method": "jev", "selected_ids": ["B01LWY6FGA", "B0000530H5", "B002ZG8H84", "B01AVEN4H0", "B000SD6BS4"], "routing_action": "PASS_ALL"}

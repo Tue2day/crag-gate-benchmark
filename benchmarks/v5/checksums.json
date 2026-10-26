@@ -1,0 +1,20 @@
+{
+  "sha256": {
+    "calibration_grid.csv": "686611295fb95c0a0718742a052d80975a9437a4648a553eac3e02d6d03be3cc",
+    "calibration_tradeoff.png": "6cc34cefe63653b9b6456dbe108e465b619a031a1a6d9bc910cc9c47910930b3",
+    "candidates.jsonl": "2e2252fa305d7e4c9fb2a4718ccb1b15d4957bf3e1e37cfeb924eb403941c80e",
+    "costs.json": "36ba6d16ce60f8af5568e545eead96b9ebbd715e8078f1c5fdaadf5769280a9b",
+    "error_examples.json": "854d7999b7ea68fec38c6c36a2a95ea67516833a49bf3fb35f9dfabacf38ef04",
+    "execution_audit.json": "22a6f1fa9a4132ae3bf01280e62ed2186759b2db413281d7ca8d9dfdc98d99b3",
+    "independent_metric_check.json": "991dafd82a15c81e14f8371be41cf60c083f3297fbecd998567def996e7b6dde",
+    "metrics.json": "e9305fb4fd85109e0010abf4d767dd930addced53450e91e1d8869fb6a3e708e",
+    "predictions.jsonl": "04d5d13d6bfeaf7a4d265da09615ba43a0fe100f4fc6d40f12b23d3dee02a43f",
+    "protocol.json": "aafdbe37d85faa6c64fc250848895d89d114f6b13977055c74925811b24675f5",
+    "provenance.json": "752d98cdb0109adf64e6604484e7ecd85a777845311c70634911ebc2793b67dc",
+    "quality.png": "3430196b0dc22191fb897a12462123a865fa63979d96b229f0f2e953cbfaa197",
+    "query_order.json": "c6f4a657736cd89cc161df9b0c117857777bc986af2ee78b5db0ba44354c11cc",
+    "summary.csv": "6139c3c2a7864da6d71cc662a5aee1c11545f8a72468f1b74fd0d3b10c8dd808",
+    "threshold.json": "6ee9fb0d2cd7217a2f7a38e3100486a257635d7641ca95055890af65ad18b7b7",
+    "timings.jsonl": "68cbd09f8ec8177e1e08057da3d7f92841f454fdf5b86eade742e8a1a646b858"
+  }
+}
