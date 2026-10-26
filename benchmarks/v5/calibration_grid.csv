@@ -1,4 +1,4 @@
-﻿threshold,kept_precision,exact_retention,query_coverage,query_contamination_risk,feasible
+threshold,kept_precision,exact_retention,query_coverage,query_contamination_risk,feasible
 0.05,0.9173286260664901,0.916519694297472,0.97125,0.18532818532818532,True
 0.1,0.9215744303048239,0.9153439153439153,0.9675,0.17700258397932817,True
 0.15,0.9242469430360871,0.9109347442680776,0.9675,0.17183462532299743,True

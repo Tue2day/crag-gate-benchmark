@@ -1,3 +1,3 @@
-﻿method,n,candidate_n,query_contamination_risk,kept_precision,exact_retention,query_coverage,safe_route_success,rescue_success_rate,candidate_f1,route_action_accuracy,unnecessary_fallback_rate
+method,n,candidate_n,query_contamination_risk,kept_precision,exact_retention,query_coverage,safe_route_success,rescue_success_rate,candidate_f1,route_action_accuracy,unnecessary_fallback_rate
 jev,500,2500,0.210752688172043,0.9118110236220472,0.8573543928923988,0.93,0.744,0.14,0.8837445942508267,0.684,0.061224489795918366
 gpt,500,2500,0.26778242677824265,0.8796561604584527,0.9091806515301086,0.956,0.706,0.12,0.8941747572815534,0.724,0.03877551020408163

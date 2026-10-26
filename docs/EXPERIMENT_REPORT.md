@@ -1,7 +1,7 @@
 # Evaluating Jev as a CRAG Product-Filtering Gate
 
-**A reproducible comparison with GPT-4.1 Mini on Amazon ESCI**  
-Release: **v0.7.0** · Recorded experiments: **October 25–26, 2026**  
+**A reproducible comparison with GPT-4.1 Mini on Amazon ESCI**
+Release: **v0.7.0** · Recorded experiments: **October 25–26, 2026**
 Main study: **800 calibration queries + 2,000 independent test queries**
 
 ## Contents

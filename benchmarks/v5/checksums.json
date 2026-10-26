@@ -1,6 +1,6 @@
 {
   "sha256": {
-    "calibration_grid.csv": "686611295fb95c0a0718742a052d80975a9437a4648a553eac3e02d6d03be3cc",
+    "calibration_grid.csv": "c588a9844b4435a8763e296edcc4fab05c851d2eca11f870dd914545a453fa46",
     "calibration_tradeoff.png": "6cc34cefe63653b9b6456dbe108e465b619a031a1a6d9bc910cc9c47910930b3",
     "candidates.jsonl": "2e2252fa305d7e4c9fb2a4718ccb1b15d4957bf3e1e37cfeb924eb403941c80e",
     "costs.json": "36ba6d16ce60f8af5568e545eead96b9ebbd715e8078f1c5fdaadf5769280a9b",
@@ -13,7 +13,7 @@
     "provenance.json": "752d98cdb0109adf64e6604484e7ecd85a777845311c70634911ebc2793b67dc",
     "quality.png": "3430196b0dc22191fb897a12462123a865fa63979d96b229f0f2e953cbfaa197",
     "query_order.json": "c6f4a657736cd89cc161df9b0c117857777bc986af2ee78b5db0ba44354c11cc",
-    "summary.csv": "6139c3c2a7864da6d71cc662a5aee1c11545f8a72468f1b74fd0d3b10c8dd808",
+    "summary.csv": "c6d7c354e1c976cb75608aa964891931fb2cdd181ea1f6f33db6da88a28a7688",
     "threshold.json": "6ee9fb0d2cd7217a2f7a38e3100486a257635d7641ca95055890af65ad18b7b7",
     "timings.jsonl": "68cbd09f8ec8177e1e08057da3d7f92841f454fdf5b86eade742e8a1a646b858"
   }
